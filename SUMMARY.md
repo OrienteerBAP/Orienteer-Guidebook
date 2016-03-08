@@ -9,4 +9,5 @@
 * Dashboards
 * Pages
 * Graphs
+* Pivoting
 
