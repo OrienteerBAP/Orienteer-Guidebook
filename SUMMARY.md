@@ -3,8 +3,8 @@
 * [Introduction](README.md)
 * Getting Started
    * Installation
-* Administration
 * Data Model
+* Administration
 * Localization
 * Security
 * Perspectives
