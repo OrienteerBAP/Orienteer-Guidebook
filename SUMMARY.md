@@ -8,4 +8,5 @@
 * Perspectives
 * Dashboards
 * Pages
+* Graphs
 
