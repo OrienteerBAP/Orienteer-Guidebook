@@ -11,4 +11,5 @@
 * Pages
 * Graphs
 * Pivoting
+* Administration
 
