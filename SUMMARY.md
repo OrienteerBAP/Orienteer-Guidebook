@@ -1,8 +1,8 @@
 # Summary
 
 * [Introduction](README.md)
-* Data Model
 * Getting Started
+* Data Model
 * Localization
 * Security
 * Perspectives
