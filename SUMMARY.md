@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * Getting Started
    * Installation
+* Administration
 * Data Model
 * Localization
 * Security
@@ -11,5 +12,4 @@
 * Pages
 * Graphs
 * Pivoting
-* Administration
 
