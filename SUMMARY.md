@@ -13,4 +13,6 @@
   * Pages
   * Graphs
   * Pivot Table
+* FAQ - Frequently Asked Questions
+* Contribute to Orienteer
 
