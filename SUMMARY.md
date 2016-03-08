@@ -4,13 +4,12 @@
 * Getting Started
    * Installation
 * Administration
-* Data Model
-* Localization
-* Security
+  * Data Model
+  * Localization
+  * Security
 * Perspectives
 * Dashboards
 * Pages
 * Graphs
 * Pivoting
-* Extention
 
