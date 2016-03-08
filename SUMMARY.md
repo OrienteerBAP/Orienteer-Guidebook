@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * Getting Started
+   * Installation
 * Data Model
 * Localization
 * Security
