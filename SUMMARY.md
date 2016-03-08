@@ -7,4 +7,5 @@
 * Security
 * Perspectives
 * Dashboards
+* Pages
 
