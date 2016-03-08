@@ -6,4 +6,5 @@
 * Localization
 * Security
 * Perspectives
+* Dashboards
 
