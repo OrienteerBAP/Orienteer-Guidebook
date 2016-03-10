@@ -2,17 +2,17 @@
 
 * [Introduction](README.md)
 * Getting Started
-   * Installation
+   * [Installation](installation.md)
 * Configuration
-  * Data Model
-  * Localization
-  * Security
-  * Perspectives
-  * Dashboards
+   * Data Model
+   * Localization
+   * Security
+   * Perspectives
+   * Dashboards
 * Extensions
-  * Pages
-  * Graphs
-  * Pivot Table
+   * Pages
+   * Graphs
+   * Pivot Table
 * FAQ - Frequently Asked Questions
 * Contribute to Orienteer
 
