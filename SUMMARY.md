@@ -15,4 +15,5 @@
    * Pivot Table
 * FAQ - Frequently Asked Questions
 * Contribute to Orienteer
+* Glossary
 
