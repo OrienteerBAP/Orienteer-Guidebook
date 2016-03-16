@@ -31,10 +31,10 @@ In the standalone mode, Orienteer runs itself by using an embedded jetty server.
 To install Orienteer in standalone mode:
 1. Download latest orienteer-standalone.jar
 2. Put orienteer-standalone.war into any directory
-3. Optionally configure orienteer.properties accordging to your environment and place it in the same directory or above
-..*By default, Orienteer, will run OrientDB database embedded
+3. Optionally configure orienteer.properties accordging to your environment and place it in the same directory or above.
+⋅⋅*By default, Orienteer, will run OrientDB database embedded.
 4.Run Orinteer as java -Xmx512m -Xms512m -jar orienteer-standalone.jar. JVM parameters can be adjusted accordingly. Additional application parameters can be supplied:
-..*--config=<filename> - specification of path to orienteer configuration file
+⋅⋅*--config=<filename> - specification of path to orienteer configuration file
 ..*--embedded - run embedded OrientDB database
 ..*--port=<port number> - run Orienteer on specified port (Default: 8080)
 ..*--help - display help
