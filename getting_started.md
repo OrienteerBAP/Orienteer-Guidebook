@@ -7,8 +7,8 @@ Before installing, you may want to check the demo version of the Orienteer datab
 **Installation**
 
 There are two options for Orienteer database installation:
-* Embedded (on application server)
-* Standalone (no need for application server)
+* embedded (on application server),
+* standalone (no need for application server).
 
 
 
