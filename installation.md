@@ -23,4 +23,4 @@ To install Orienteer in embedded mode:
 4. Run application server.
 
 ---
-**Standalone**
+**Installing Orienteer in standalone mode**
