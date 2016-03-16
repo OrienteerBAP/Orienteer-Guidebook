@@ -1,9 +1,5 @@
 # Installation
-
-
 ---
-
-
 **Installation options**
 
 There are two options for Orienteer database installation:
