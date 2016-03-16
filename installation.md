@@ -1,10 +1,5 @@
 # Installation
 
-**Prerequisites
-
-
-
-
 **Installation options**
 
 There are two options for Orienteer database installation:
@@ -15,7 +10,7 @@ There are two options for Orienteer database installation:
 ---
 
 
-**Embedded 
+**Embedded **
 
 Application server containers supported:
 * Jboss
