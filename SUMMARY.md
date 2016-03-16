@@ -1,7 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
-* Getting Started
+* [Getting Started](getting_started.md)
    * [Installation](installation.md)
 * Configuration
    * Data Model
