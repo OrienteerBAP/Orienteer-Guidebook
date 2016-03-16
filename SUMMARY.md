@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting_started.md)
+   * [Initial configuration](initial_configuration.md)
    * [Installation](installation.md)
        * [Initial configuration](initial_configuration.md)
 * Configuration
