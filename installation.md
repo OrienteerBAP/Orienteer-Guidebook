@@ -12,7 +12,7 @@ There are two options for Orienteer database installation:
 
 **Embedded **
 
-Application server containers supported:
+Orienteer is Java Servlet 3.1 web application and can be installed on all famous compatible containers:
 * Jboss
 * Weblogic
 * IBM WebSphere
