@@ -3,6 +3,7 @@
 * [Introduction](README.md)
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
+       * Initial configuration
 * Configuration
    * Data Model
    * Localization
