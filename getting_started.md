@@ -1,3 +1,3 @@
 # Getting Started
 
-Demo [http://demo.orienteer.org/login](http://demo.orienteer.org/login)
+You can test a demo version of Orienteer [http://demo.orienteer.org/login](http://demo.orienteer.org/login)
