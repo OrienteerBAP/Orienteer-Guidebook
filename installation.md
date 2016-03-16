@@ -1,10 +1,11 @@
 # Installation
 
-##Prerequisites
+**Prerequisites
 
 
 
-**Installation**
+
+**Installation options**
 
 There are two options for Orienteer database installation:
 * embedded (on application server),
