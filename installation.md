@@ -22,7 +22,5 @@ To install Orienteer in embedded mode:
 3. Configure orienteer.properties according to your environment and place it in the same directory or above.
 4. Run application server.
 
-
-
-
-**Standalone
+---
+**Standalone**
