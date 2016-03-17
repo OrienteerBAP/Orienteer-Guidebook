@@ -44,10 +44,11 @@ To install Orienteer in standalone mode:
 >java -Xmx512m -Xms512m -jar orienteer-standalone.jar
 
  With this command, you may specify additional parameters:
- * *--config=<filename>* the path to the Orienteer configuration file
- * --embedded - run embedded OrientDB database
- * --port=<port number> - run Orienteer on specified port (Default: 8080)
- * --help - display help
+ * *--config=<filename>*: the path to the Orienteer configuration file.
+ * *--embedded*: to run embedded OrientDB database
+ ~~Зачем это в standolone mode? Или это относится и к app srv mode? Если да, то в первом случае где можно указывать параметры запуска ориентира?~~
+ * *--port=<port number>*: run Orienteer on specified port (by default: 8080).
+ * *--help*: view help.
 
  The Java VM parameters can be adjusted accordingly.
  ~~что имеется в виду? что конкретно и в каких случаях нужно сделать?~~
