@@ -4,6 +4,7 @@
    * [Conventions](conventions.md)
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
+   * Architecture
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
 * Configuration
    * Data Model
@@ -15,7 +16,10 @@
    * Pages
    * Graphs
    * Pivot Table
-* For developers
+* Orienteer Programming
+  * Writing your web-application
+  * Writing your module
+  * Writing your widget
 * FAQ - Frequently Asked Questions
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
