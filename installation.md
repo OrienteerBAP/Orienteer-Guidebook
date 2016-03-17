@@ -24,7 +24,7 @@ To install Orienteer in embedded mode:
 3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment ().
 4. Copy the *orienteer.properties* file to the same directory or above.
 >Какая директория имеется в виду?
-4. Run application server.
+4. Run the application server.
 
 ---
 **Installing Orienteer in standalone mode**
