@@ -2,13 +2,13 @@
 ---
 **Installation options**
 
-Orienteer is installed as a web application. You have two options for installing Orienteer:
+Orienteer is a Java Servlet 3.1 web application. You have two options for installing Orienteer:
 * in embedded mode (on an application server)
 * in standalone mode (on any computer that runs Java environment)
 ---
 **Installing Orienteer in embedded mode**
 
-Orienteer is Java Servlet 3.1 web application and can be installed on all famous compatible containers:
+Orienteer can be installed on all famous compatible containers:
 * Jboss
 * Weblogic
 * IBM WebSphere
