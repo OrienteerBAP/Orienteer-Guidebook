@@ -21,7 +21,9 @@ To install Orienteer in embedded mode:
 >What is the link to download?
 2. Copy the *orienteer.war* file into the application deployment folder of your application server.
 >Можно ли устанавливать его через консоль администрирования сервера приложений, а не через копирование?
-3. Configure the *orienteer.properties* configuration file according to your environment and place it in the same directory or above.
+3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment ().
+4. Copy the *orienteer.properties* file to the same directory or above.
+>Какая директория имеется в виду?
 4. Run application server.
 
 ---
