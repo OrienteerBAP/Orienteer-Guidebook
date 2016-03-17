@@ -2,13 +2,16 @@
 
 orienteer.properties is the main file to store initial configuration paramenters for your installation. Sample properties file can be always found here.
 
-*orienteer.production=false*  //Run Orienteer in production mode or not
+* *orienteer.production=[true|false]* //Run Orienteer in production mode (true) or not
 
-orientdb.embedded=false     //Run embedded OrientDB server?
+ ~~что это значит?~~
 
-orientdb.url=remote:localhost/Orienteer   //OrientDB server URL
+* *orientdb.embedded=[true|false]* //Run embedded OrientDB server?
 
-orientdb.db.username=reader               //Default OrientDB user (will be used for guests as well)
+* *orientdb.url=remote:localhost/Orienteer* //OrientDB server URL
+ ~~что это значит?~~
+
+* *orientdb.db.username=reader* //Default OrientDB user (will be used for guests as well)
 
 orientdb.db.password=reader               //Password for default OrientDB user
 
