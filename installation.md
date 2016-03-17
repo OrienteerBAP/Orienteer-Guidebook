@@ -27,7 +27,7 @@ To install Orienteer in embedded mode:
 ---
 **Installing Orienteer in standalone mode**
 
-In the standalone mode, Orienteer runs itself by using an embedded jetty server.
+In the standalone mode, Orienteer runs itself with an embedded jetty server.
 To install Orienteer in standalone mode:
 1. Download latest orienteer-standalone.jar
 2. Put orienteer-standalone.war into any directory
