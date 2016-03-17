@@ -32,6 +32,7 @@ To install Orienteer in embedded mode:
 
 In the standalone mode, Orienteer runs itself with an embedded jetty server.
 
+
 To install Orienteer in standalone mode:
 1. Download the latest installation file *orienteer-standalone.war* file from LOCATION.
 ~~What is the link to download?~~
@@ -44,12 +45,13 @@ To install Orienteer in standalone mode:
 >java -Xmx512m -Xms512m -jar orienteer-standalone.jar
 
  With this command, you may specify additional parameters:
- * *--config=<filename>*: the path to the Orienteer configuration file.
+ * *--config=&lt;filename&gt;*: the path to the Orienteer configuration file.
  * *--embedded*: to run embedded OrientDB database
  ~~Зачем это в standolone mode? Или это относится и к app srv mode? Если да, то в первом случае где можно указывать параметры запуска ориентира?~~
- * *--port=<port number>*: run Orienteer on specified port (by default: 8080).
+ * *--port=&lt;port number&gt;*: run Orienteer on a specified port (by default: 8080).
+ * ~~~~
  * *--help*: view help.
-
+ 
  The Java VM parameters can be adjusted accordingly.
- ~~что имеется в виду? что конкретно и в каких случаях нужно сделать?~~
+  ~~что имеется в виду? что конкретно и в каких случаях нужно сделать?~~
  
