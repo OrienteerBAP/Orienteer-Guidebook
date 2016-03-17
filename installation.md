@@ -39,7 +39,9 @@ To install Orienteer in standalone mode:
 3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 > то же самое: Я пока не понял, есть ли этот файл в архиве или его нужно создавать заново с нуля. Описал как будто бы с нуля.
 4. Copy the *orienteer.properties* file to the Orienteer installation directory or above.
-5. Run Orinteer as java -Xmx512m -Xms512m -jar orienteer-standalone.jar. JVM parameters can be adjusted accordingly. Additional application parameters can be supplied:
+5. Run Orinteer by executing the command 
+>java -Xmx512m -Xms512m -jar orienteer-standalone.jar
+JVM parameters can be adjusted accordingly. Additional application parameters can be supplied:
  * --config=<filename> - specification of path to orienteer configuration file
  * --embedded - run embedded OrientDB database
  * --port=<port number> - run Orienteer on specified port (Default: 8080)
