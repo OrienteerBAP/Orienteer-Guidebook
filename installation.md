@@ -6,7 +6,7 @@ There are two options for Orienteer database installation:
 * embedded (on application server)
 * standalone (no need for application server)
 ---
-**Installing Orienteer in the embedded mode**
+**Installing Orienteer in embedded mode**
 
 Orienteer is Java Servlet 3.1 web application and can be installed on all famous compatible containers:
 * Jboss
@@ -25,7 +25,7 @@ To install Orienteer in embedded mode:
 4. Run application server.
 
 ---
-**Installing Orienteer in the standalone mode**
+**Installing Orienteer in standalone mode**
 
 In the standalone mode, Orienteer runs itself by using an embedded jetty server.
 To install Orienteer in standalone mode:
