@@ -1,4 +1,4 @@
-# Installation
+# Installing Orienteer
 ---
 **Installation options**
 
