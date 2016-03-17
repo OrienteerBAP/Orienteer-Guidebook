@@ -3,8 +3,8 @@
 **Installation options**
 
 Orienteer is installed as a web application on an application server. There are two options for Orienteer installation:
-* embedded (on an application server).
-* standalone (on any computer that runs a Java environment).
+* embedded (on an application server)
+* standalone (on any computer that runs a Java environment)
 ---
 **Installing Orienteer in embedded mode**
 
