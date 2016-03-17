@@ -1,2 +1,2 @@
-# Initial configuration
+# Editing the Orienteer Configuration File
 
