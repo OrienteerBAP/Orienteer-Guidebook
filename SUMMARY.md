@@ -17,10 +17,10 @@
    * Graphs
    * Pivot Table
 * Orienteer Programming
-  * Writing your web-application
-  * Writing your module
-  * Writing your widget
-* FAQ - Frequently Asked Questions
+   * Writing your web-application
+   * Writing your module
+   * Writing your widget
+* [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 
