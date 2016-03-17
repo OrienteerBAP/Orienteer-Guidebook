@@ -9,7 +9,8 @@ orienteer.properties is the main file to store initial configuration paramenters
 * *orientdb.embedded=[true|false]* //Run embedded OrientDB server?
 
 * *orientdb.url=remote:localhost/Orienteer* //OrientDB server URL
- ~~что это значит?~~
+
+ ~~в каких случаях и что здесь нужно указывать?~~
 
 * *orientdb.db.username=reader* //Default OrientDB user (will be used for guests as well)
 
