@@ -8,11 +8,11 @@ Orienteer is a Java Servlet 3.1 web application. You have two options for instal
 ---
 **Installing Orienteer in embedded mode**
 
-Orienteer can be installed on all famous compatible containers:
+Orienteer can be installed on all famous compatible web containers:
 * Jboss
 * Weblogic
 * IBM WebSphere
-* Tomcat
+* Apache Tomcat
 * Jetty
 * and others
 
