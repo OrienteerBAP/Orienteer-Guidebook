@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+   * For developers
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
    * [Initial configuration](initial_configuration.md)
