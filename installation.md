@@ -2,7 +2,7 @@
 ---
 **Installation options**
 
-There are two options for Orienteer database installation:
+Orienteer is installed as a web application on an application server. There are two options for Orienteer installation:
 * embedded (on application server)
 * standalone (no need for application server)
 ---
@@ -17,10 +17,10 @@ Orienteer is Java Servlet 3.1 web application and can be installed on all famous
 * and others
 
 To install Orienteer in embedded mode:
-1. Download the newest *orienteer.war* file from LOCATION.
+1. Download the latest *orienteer.war* file from LOCATION.
 >What is the link to download?
-2. Put the *orienteer.war* file into the deployment folder of your application server.
->What is deployment folder for your application server? Where is it on Windows, Linux etc?
+2. Copy the *orienteer.war* file into the application deployment folder of your application server.
+>Можно ли устанавливать его через консоль администрирования сервера приложений, а не через копирование 
 3. Configure *orienteer.properties* according to your environment and place it in the same directory or above.
 4. Run application server.
 
@@ -30,7 +30,7 @@ To install Orienteer in embedded mode:
 In the standalone mode, Orienteer runs itself with an embedded jetty server.
 
 To install Orienteer in standalone mode:
-1. Download the newest *orienteer-standalone.war* file from LOCATION.
+1. Download the latest *orienteer-standalone.war* file from LOCATION.
 >What is the link to download?
 2. Put the *orienteer-standalone.war* file into any directory.
 3. Optionally configure orienteer.properties accordging to your environment and place it in the same directory or above.
