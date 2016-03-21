@@ -15,8 +15,8 @@
    * Dashboards
 * Managing Users
    * Managing Roles
-   * Perspectives
    * Managing Users
+   * Perspectives
 * Extensions
    * Pages
    * Graphs
