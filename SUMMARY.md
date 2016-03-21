@@ -25,8 +25,8 @@
    * Pivot Table
 * Entering Data to the Database
 * Orienteer Programming (for Developers)
-   * Writing your web-application
    * The Setup of Development Environment
+   * Writing your web-application
    * Writing your module
    * Writing your widget
 * [FAQ - Frequently Asked Questions](faq.md)
