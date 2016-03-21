@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [Document Conventions](conventions.md)
-* About Orienteer
+* [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
    * [Data Models in Orienteer](data_models_in_orienteer.md)
 * [Deploying Orienteer](getting_started.md)
