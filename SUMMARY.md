@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
    * [Conventions](conventions.md)
-   * Architecture
    * About Orienteer
+   * Architecture
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
    * Architecture
