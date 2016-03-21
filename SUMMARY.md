@@ -6,7 +6,6 @@
 * Architecture
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
-   * Architecture
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
 * Configuration
    * Data Model
