@@ -22,7 +22,7 @@
    * Graphs
    * Pivot Table
 * Entering Data to the Database
-* Orienteer Programming
+* Orienteer Programming (for Developers)
    * Writing your web-application
    * Writing your module
    * Writing your widget
