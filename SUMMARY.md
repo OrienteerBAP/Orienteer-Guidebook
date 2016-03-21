@@ -10,10 +10,10 @@
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
 * [Creating and Managing the Data Model](creating_and_managing_the_data_model.md)
    * [Managing Classes](managing_classes.md)
+   * Planning Your Database
    * Localization
    * Security
    * Dashboards
-   * Planning Your Database
 * Managing Users
    * Managing Roles
    * Managing Users
