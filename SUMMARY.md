@@ -4,7 +4,7 @@
    * [Document Conventions](conventions.md)
 * About Orienteer
 * Architecture
-* [Getting Started](getting_started.md)
+* [Deploying Orienteer](getting_started.md)
    * [Installation](installation.md)
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
 * Configuration
