@@ -12,11 +12,11 @@
    * [Planning Your Database](planning_your_database.md)
    * [Managing Classes](managing_classes.md)
    * Localization
-   * Security
 * Managing Users
    * Managing Roles
    * Managing Users
    * Managing Perspectives
+* Security
 * Data Vizualization
    * Pages
    * Graphs
