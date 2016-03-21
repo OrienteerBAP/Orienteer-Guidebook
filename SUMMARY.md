@@ -33,5 +33,4 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Supplementary. Predefined Classes
-* Supplementary. Types of Parameters
 
