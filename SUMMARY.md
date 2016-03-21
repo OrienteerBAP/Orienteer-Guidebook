@@ -17,7 +17,7 @@
    * Managing Roles
    * Managing Users
    * Managing Perspectives
-* Extensions
+* Data Vizualization
    * Pages
    * Graphs
    * Pivot Table
