@@ -12,7 +12,7 @@
    * [Planning Your Database](planning_your_database.md)
    * [Managing Classes](managing_classes.md)
    * Localization
-   * Configuring the Document Display
+   * [Configuring the Document Display](configuring_the_document_display.md)
 * Managing Users
    * Managing Roles
    * Managing Users
