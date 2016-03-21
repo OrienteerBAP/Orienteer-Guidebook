@@ -1,9 +1,9 @@
 # Summary
 
 * [Introduction](README.md)
-   * About Orienteer
    * [Document Conventions](conventions.md)
    * Architecture
+* About Orienteer
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
    * Architecture
