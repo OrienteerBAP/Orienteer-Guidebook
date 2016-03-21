@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [Document Conventions](conventions.md)
 * About Orienteer
+   * Data Models in Orienteer
 * [Architecture](architecture.md)
 * [Deploying Orienteer](getting_started.md)
    * [Installation](installation.md)
