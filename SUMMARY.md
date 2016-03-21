@@ -4,7 +4,7 @@
    * [Document Conventions](conventions.md)
 * About Orienteer
    * [Architecture](architecture.md)
-   * Data Models in Orienteer
+   * [Data Models in Orienteer](data_models_in_orienteer.md)
 * [Deploying Orienteer](getting_started.md)
    * [Installation](installation.md)
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
