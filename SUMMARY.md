@@ -21,6 +21,7 @@
    * Pages
    * Graphs
    * Pivot Table
+* Entering Data to the Database
 * Orienteer Programming
    * Writing your web-application
    * Writing your module
@@ -28,5 +29,4 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
-* Entering Data to the Database
 
