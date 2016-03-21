@@ -15,8 +15,8 @@
 * Managing Users
    * Managing Roles
    * Managing Users
-   * Security
    * Managing Perspectives
+   * Security
 * Data Vizualization
    * Pages
    * Graphs
