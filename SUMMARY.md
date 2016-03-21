@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * About Orienteer
-   * [Conventions](conventions.md)
+   * [Document Conventions](conventions.md)
    * Architecture
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
