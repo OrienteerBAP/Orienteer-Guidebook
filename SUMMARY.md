@@ -16,7 +16,7 @@
 * Managing Users
    * Managing Roles
    * Managing Users
-   * Perspectives
+   * Managing Perspectives
 * Extensions
    * Pages
    * Graphs
