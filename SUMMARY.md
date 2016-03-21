@@ -28,4 +28,5 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
+* Entering Data to the Database
 
