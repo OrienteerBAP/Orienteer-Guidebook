@@ -28,6 +28,7 @@
    * Writing your web-application
    * Writing your module
    * Writing your widget
+   * The Setup of Development Environment
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
