@@ -8,7 +8,7 @@
 * [Deploying Orienteer](getting_started.md)
    * [Installation](installation.md)
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
-* Creating and Managing the Data Model
+* [Creating and Managing the Data Model](creating_and_managing_the_data_model.md)
    * Data Model
    * Localization
    * Security
