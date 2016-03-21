@@ -26,9 +26,9 @@
 * Entering Data to the Database
 * Orienteer Programming (for Developers)
    * Writing your web-application
+   * The Setup of Development Environment
    * Writing your module
    * Writing your widget
-   * The Setup of Development Environment
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
