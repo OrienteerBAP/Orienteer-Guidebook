@@ -1,16 +1,7 @@
 # Glossary
 
-## Schema
-
-Schema
-
-## Perspective
-
-
-
 ## Class
-
-
-
+## Document
+## Perspective
 ## Property
-
+## Schema
