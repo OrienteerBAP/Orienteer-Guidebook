@@ -13,6 +13,7 @@
    * Localization
    * Security
    * Dashboards
+   * Planning Your Database
 * Managing Users
    * Managing Roles
    * Managing Users
