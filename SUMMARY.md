@@ -13,7 +13,6 @@
    * [Managing Classes](managing_classes.md)
    * Localization
    * Security
-   * Dashboards
 * Managing Users
    * Managing Roles
    * Managing Users
@@ -21,6 +20,7 @@
 * Data Vizualization
    * Pages
    * Graphs
+   * Dashboards
    * Pivot Table
 * Entering Data to the Database
 * Orienteer Programming (for Developers)
