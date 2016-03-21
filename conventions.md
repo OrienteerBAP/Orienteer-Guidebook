@@ -1,5 +1,5 @@
 # Document Conventions
-THIS SECTION IS A DRAFT
+
 
 <...> for mandatory parameters
 
