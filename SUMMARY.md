@@ -12,9 +12,9 @@
    * [Managing Classes](managing_classes.md)
    * Localization
    * Security
-   * Perspectives
    * Dashboards
 * Managing Users
+* Perspectives
 * Extensions
    * Pages
    * Graphs
