@@ -14,6 +14,7 @@
    * Security
    * Dashboards
 * Managing Users
+   * Managing Roles
 * Perspectives
 * Extensions
    * Pages
