@@ -31,3 +31,7 @@ Configuring properties
 Types of parameters: https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support 
 
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
+
+Indexies
+
+Custom properties
