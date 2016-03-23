@@ -38,9 +38,7 @@ In standalone mode, Orienteer runs itself with an embedded jetty server.
 
 
 To install Orienteer in standalone mode:
-1. Download the latest installation file *orienteer-standalone.war* file from LOCATION.
-
- ~~What is the link to download?~~
+1. Download the latest installation file *orienteer-standalone.war* file from ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
 2. Put the *orienteer-standalone.war* file into any directory. This will be the Orienteer installation directory.
 3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 
