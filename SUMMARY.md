@@ -16,7 +16,7 @@
    * [Dashboards](dashboards.md)
    * [Localization](localization.md)
    * [Configuring the Document Display](configuring_the_document_display.md)
-* Managing Users
+* [Managing Users](managing_users.md)
    * Managing Roles
    * Managing Users
    * Managing Perspectives
