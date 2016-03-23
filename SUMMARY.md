@@ -24,11 +24,11 @@
 * [Service](service.md)
 * Entering and Retrieving Data
    * Entering Data to the Database
+   * Viewing documents
    * Data Vizualization
        * Pages
        * Graphs
        * Pivot Table
-   * Viewing documents
 * Orienteer Programming (for Developers)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Writing your web-application
