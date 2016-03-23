@@ -2,7 +2,7 @@
 ---
 **Installation options**
 
-Orienteer is a Java Servlet 3.1 web application. You have two options for installing Orienteer:
+You have two options for installing Orienteer:
 * in embedded mode (on an application server)
 * in standalone mode (on any computer that runs Java environment)
 ---
