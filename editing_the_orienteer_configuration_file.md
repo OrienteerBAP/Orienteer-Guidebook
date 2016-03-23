@@ -18,8 +18,12 @@
 * >orientdb.db.password=reader
 
   Set password for the default user on the OrientDB server.
-* orientdb.db.installator.username=admin    //Set the name of the user that will perform administrative stuff on the OrientDB server.
-* orientdb.db.installator.password=admin    //Set the password of the user that will perform administrative stuff on the OrientDB server.
+* >orientdb.db.installator.username=admin
+
+  Set the name of the user that will perform administrative stuff on the OrientDB server.
+* >orientdb.db.installator.password=admin
+
+  Set the password of the user that will perform administrative stuff on the OrientDB server.
 
 ** Optional properties**
 
