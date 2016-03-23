@@ -1,6 +1,8 @@
 # Managing Classes
+**Creating and configuring classes**
 
-Creating classes
+
+
 Inheritance
 Properties, calculable properties
 UML
