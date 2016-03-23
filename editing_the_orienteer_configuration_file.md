@@ -11,9 +11,8 @@ Sample properties file can be always found here.
 * *orientdb.url=remote:localhost/Orienteer* //If you are runneing an external OrientDB server, provide its network access parameters. For details of setting , see [OrienDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
 * *orientdb.db.username=reader* //Set the name of the default user on the OrientDB server (it will be used for guests as well).
 * orientdb.db.password=reader               //Set password for the default user on the OrientDB server.
-* orientdb.db.installator.username=admin    //Set the OrientDB user for administrative stuff in OrientDB.
-
-orientdb.db.installator.password=admin    //Password for OrientDB user used for administrative stuff
+* orientdb.db.installator.username=admin    //Set the name of the user that will perform administrative stuff on the OrientDB server.
+* orientdb.db.installator.password=admin    //Set the password of the user that will perform administrative stuff on the OrientDB server.
 
 ** Optional properties**
 
