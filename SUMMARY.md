@@ -19,6 +19,7 @@
    * Managing Users
    * Managing Perspectives
 * Security
+* Service
 * Data Vizualization
    * Pages
    * Graphs
@@ -33,5 +34,4 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Supplementary. Predefined Classes
-* Service
 
