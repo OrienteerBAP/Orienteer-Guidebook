@@ -16,6 +16,8 @@ Configuring class settings: description of each field.
 
 Schema naming convention https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention
 
+Subclasses
+
 Creating subclasses
 
 **Properties**
