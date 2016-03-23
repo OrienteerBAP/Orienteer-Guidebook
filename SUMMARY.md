@@ -27,6 +27,7 @@
    * Graphs
    * Pivot Table
 * Entering and Retrieving Data
+   * Viewing documents
 * Entering Data to the Database
 * Orienteer Programming (for Developers)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
