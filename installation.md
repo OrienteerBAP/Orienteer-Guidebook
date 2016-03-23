@@ -52,4 +52,3 @@ To install Orienteer in standalone mode:
  The Java VM parameters can be adjusted accordingly.
  
  ~~что имеется в виду? что конкретно и в каких случаях нужно сделать?~~
- 
