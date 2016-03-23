@@ -12,16 +12,16 @@
 * >orientdb.url=remote:localhost/Orienteer
 
   If you are runneing an external OrientDB server, provide its network access parameters. For details of setting , see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
-* >orientdb.db.username=&lt;user name&l;
+* >orientdb.db.username=&lt;user name&gt;
 
   Set the name of the default user on the OrientDB server (it will be used for guests as well).
-* >orientdb.db.password=&lt;user password>
+* >orientdb.db.password=&lt;user password&gt;
 
   Set password for the default user on the OrientDB server.
-* >orientdb.db.installator.username=admin
+* >orientdb.db.installator.username=&lt;admin name&gt;
 
   Set the name of the user that will perform administrative stuff on the OrientDB server.
-* >orientdb.db.installator.password=admin
+* >orientdb.db.installator.password=&lt;admin password&gt;
 
   Set the password of the user that will perform administrative stuff on the OrientDB server.
 
