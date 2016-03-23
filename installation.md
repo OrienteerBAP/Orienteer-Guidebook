@@ -40,9 +40,6 @@ To install Orienteer in standalone mode:
 1. Download the latest installation file *orienteer-standalone.war* file from ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
 2. Put the *orienteer-standalone.war* file into any directory. This will be the Orienteer installation directory.
 3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
-4. Copy the *orienteer.properties* file to the Orienteer installation directory or above.
- ~~судя по тому, что можно задать путь к ней параметром, это не обязательно above?~~
- Yes - it's optional. Config file can be specified by --config parameter
 5. Run Orinteer by executing the command  
 >java -Xmx512m -Xms512m -jar orienteer-standalone.jar
 
