@@ -36,6 +36,7 @@ If you want to install Orienteer over the administration console of your applica
 
 In standalone mode, Orienteer runs itself with an embedded jetty server.
 
+<!--- **warning** Your comment --->
 
 To install Orienteer in standalone mode:
 1. Download the latest installation file *orienteer-standalone.war* file from ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
