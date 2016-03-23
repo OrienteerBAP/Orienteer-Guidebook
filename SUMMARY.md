@@ -36,4 +36,5 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Supplementary. Predefined Classes
+* Entering and Retrieving Data
 
