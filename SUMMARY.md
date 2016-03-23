@@ -33,4 +33,5 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Supplementary. Predefined Classes
+* Service
 
