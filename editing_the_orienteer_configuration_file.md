@@ -1,10 +1,7 @@
 # Editing the Orienteer Configuration File
 
-*orienteer.properties* is the main file to store initial configuration paramenters for your installation. If something missing, Orienteer will use default settings.
-
-You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.propertie).
-
-
+*orienteer.properties* is the main file to store initial configuration paramenters for your installation. You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.propertie).
+Specify the following parameters:
 * *orienteer.production=[true|false]* //Run Orienteer in the production mode (true) or in the development mode (false).
 * *orientdb.embedded=[true|false]* //Run an embedded OrientDB server (true) or an external OrientDB server (false).
 * *orientdb.url=remote:localhost/Orienteer* //If you are runneing an external OrientDB server, provide its network access parameters. For details of setting , see [OrienDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
@@ -26,3 +23,6 @@ webjars.readFromCacheTimeout=5 seconds
 webjars.useCdnResources=true
 
 webjars.cdnUrl=//maxcdn.bootstrapcdn.com:80
+
+
+If something missing, Orienteer will use default settings.
