@@ -8,7 +8,7 @@ Sample properties file can be always found here.
 
 * *orienteer.production=[true|false]* //Run Orienteer in the production mode (true) or in the development mode (false).
 * *orientdb.embedded=[true|false]* //Run an embedded OrientDB server (true) or an external OrientDB server (false).
-* *orientdb.url=remote:localhost/Orienteer* //If you are runneing an external OrientDB server, provide its URL. For details of setting , see [OrienDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
+* *orientdb.url=remote:localhost/Orienteer* //If you are runneing an external OrientDB server, provide its network access parameters. For details of setting , see [OrienDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
 * *orientdb.db.username=reader* //Default OrientDB user (will be used for guests as well)
 
 orientdb.db.password=reader               //Password for default OrientDB user
