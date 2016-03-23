@@ -1,2 +1,2 @@
-# Managing Users
+# Managing Users and their Access
 
