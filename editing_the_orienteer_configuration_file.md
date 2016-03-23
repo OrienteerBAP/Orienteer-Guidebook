@@ -1,6 +1,10 @@
 # Editing the Orienteer Configuration File
 
-orienteer.properties is the main file to store initial configuration paramenters for your installation. Sample properties file can be always found here.
+orienteer.properties is the main file to store initial configuration paramenters for your installation. 
+
+There is an example: https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties but in any case: if something missing Orienteer will use default settings
+
+Sample properties file can be always found here.
 
 * *orienteer.production=[true|false]* //Run Orienteer in production mode (true) or not
 
