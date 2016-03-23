@@ -1,6 +1,6 @@
 # Editing the Orienteer Configuration File
 
-*orienteer.properties* is the main file to store initial configuration paramenters for your installation. You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.propertie).
+*orienteer.properties* is the main file to store initial configuration paramenters for your installation. You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties).
 
 * >orienteer.production=[true|false]
 
