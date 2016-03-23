@@ -26,6 +26,7 @@
    * Pages
    * Graphs
    * Pivot Table
+* Entering and Retrieving Data
 * Entering Data to the Database
 * Orienteer Programming (for Developers)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
@@ -36,5 +37,4 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Supplementary. Predefined Classes
-* Entering and Retrieving Data
 
