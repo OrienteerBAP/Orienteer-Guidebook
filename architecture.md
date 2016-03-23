@@ -1,5 +1,5 @@
 # Architecture
 
-слайд из дека
-картинку 
-таблицу со всеми библиотеками что используются
+Image: architecture
+
+Table with all libraries
