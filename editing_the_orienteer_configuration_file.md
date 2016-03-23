@@ -8,9 +8,9 @@
 * >orientdb.embedded=[true|false]
 
   Run an embedded OrientDB server (true) or an external OrientDB server (false).
-* >orientdb.url=remote:localhost/Orienteer
+* >orientdb.url=&lt;URL&gt;
 
-  If you are runneing an external OrientDB server, provide its network access parameters. For details of setting , see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
+  If you are runneing an external OrientDB server, provide its URL. Example: *orientdb.url=remote:localhost/Orienteer*. For details of setting, see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
 * >orientdb.db.username=&lt;user name&gt;
 
   Set the name of the default user on the OrientDB server (it will be used for guests as well).
