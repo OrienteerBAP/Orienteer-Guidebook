@@ -17,10 +17,8 @@ Orienteer can be installed on all famous compatible web containers:
 * and others
 
 To install Orienteer in embedded mode:
-1. Download the latest installation file *orienteer.war* ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
-2. Put the *orienteer.war* file into the application deployment folder of your application server.
-
- ~~Можно ли устанавливать его через консоль администрирования сервера приложений, а не через копирование?~~
+1. Download the latest installation file *orienteer.war* ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version)
+2. Use the installation file to deploy it on your application server. You may do it over administration console or by putting the installation file to the  application deployment folder.
 3. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 
  ~~Я пока не понял, есть ли этот файл в архиве или его нужно создавать заново с нуля. Описал как будто бы с нуля.~~
