@@ -5,10 +5,10 @@
 * [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
    * [Data Models in Orienteer](data_models_in_orienteer.md)
-   * Logging in
    * [Orienteer User Interface](orienteer_user_interface.md)
 * [Deploying Orienteer](getting_started.md)
    * [Installation](installation.md)
+   * Logging in
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
 * [Creating and Managing the Data Model](creating_and_managing_the_data_model.md)
    * [Planning Your Database](planning_your_database.md)
