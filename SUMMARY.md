@@ -19,7 +19,7 @@
    * Managing Users
    * Managing Perspectives
 * Security
-* Service
+* [Service](service.md)
 * Data Vizualization
    * Pages
    * Graphs
