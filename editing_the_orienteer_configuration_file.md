@@ -2,7 +2,6 @@
 
 *orienteer.properties* is the main file to store initial configuration paramenters for your installation. You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.propertie).
 
-**Obligatory properties**
 * >orienteer.production=[true|false]
 
   Run Orienteer in the production mode (true) or in the development mode (false).
