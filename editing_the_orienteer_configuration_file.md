@@ -6,12 +6,8 @@ There is an example: https://github.com/OrienteerDW/Orienteer/blob/master/orient
 
 Sample properties file can be always found here.
 
-* *orienteer.production=[true|false]* //Run Orienteer in production mode (true) or not
-
- ~~что это значит?~~
-
-* *orientdb.embedded=[true|false]* //Run embedded OrientDB server?
-
+* *orienteer.production=[true|false]* //Run Orienteer in the production mode (true) or in the development mode (false).
+* *orientdb.embedded=[true|false]* //Run an embedded OrientDB server (true) or an external OrientDB server (false).
 * *orientdb.url=remote:localhost/Orienteer* //OrientDB server URL
 
  ~~в каких случаях и что здесь нужно указывать?~~
