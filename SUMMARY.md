@@ -11,7 +11,7 @@
 * [Creating and Managing the Data Model](creating_and_managing_the_data_model.md)
    * [Planning Your Database](planning_your_database.md)
    * [Managing Classes](managing_classes.md)
-   * Dashboards
+   * [Dashboards](dashboards.md)
    * [Localization](localization.md)
    * [Configuring the Document Display](configuring_the_document_display.md)
 * Managing Users
