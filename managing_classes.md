@@ -1,12 +1,9 @@
 # Managing Classes
 
 You can implement you data model by creating classes and setting their properties on the **Schema** page, on the **Classes** tab.
-When you create or edit a class, you see this class' page.
-##Class page
-###Configuration tab
-###Localization tab
-###Security tab
-###Subclasses tab
+When you create or edit a class, you see this class' page. You can set class parameters on the **Configuration** tab. 
+##Configuration area
+
 Configuring class settings: description of each field.
 
 Schema naming convention https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention
@@ -15,8 +12,7 @@ Subclasses
 
 Creating subclasses
 
-###Properties
-**Properties**
+##Properties
 
 List of properties
 
