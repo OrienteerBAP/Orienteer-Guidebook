@@ -45,8 +45,8 @@ https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
 
 
-###Indexies
+##Indexies
 
 Indexies http://orientdb.com/docs/last/Indexes.html
 
-###Custom properties 
+##Custom properties 
