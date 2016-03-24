@@ -20,27 +20,28 @@ Steps
   This step is optional: [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) SNAPSHOT always available on Maven central
   
   >git clone &lt;your fork URL for wicket-orientdb&gt;
+  >
   >cd wicket-orientdb
+  >
   >mvn clean install
 
 
 2. Install Orienteer
 
   >cd ..
-  >
+
   >git clone &lt;your fork URL for Orienteer&gt;
-  >
+
   >cd Orienteer
-  >
+
   >mvn clean install
 
-
-Modify orienteer.properties file
-See configuration section above
-Code compilation
-mvn clean install
-Run jetty server by command
-mvn jetty:run
-Goto the application
-Open http://localhost:8080 is in your browser
+3. Modify orienteer.properties file
+  See configuration section above
+4. Code compilation
+  >mvn clean install
+5. Run jetty server by command
+  >mvn jetty:run
+6. Goto the application
+  Open http://localhost:8080 is in your browser
 
