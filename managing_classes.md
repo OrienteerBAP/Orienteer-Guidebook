@@ -41,9 +41,9 @@ When you create or edit a property, the **property** page opens. On the **Config
 * **Collate**...
 * **Displayable**...
 * **Hidden** ...
-* **Calculable**: put a script here to make the property calculable. Write a script in OrientDB format. Exapmles:
+* **Calculable**: put a script here to make the property calculable. Write a script in OrientDB format. Examples:
 >select sum(a, b) as value from MyClass where @rid = ?
->select sum(e.salery) as value from Employee e where e.department = ? 
+>select sum(e.salary) as value from Employee e where e.department = ? 
 
   In case of calculation just for a current row you can use short notation:
 
