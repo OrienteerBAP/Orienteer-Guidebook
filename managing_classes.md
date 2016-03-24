@@ -10,6 +10,7 @@ Database: tab with table which contains specific database parameters.
 UML
 
 To create a class, click Create. To edit, click its name.
+Default classes
 
 **Class page**
 
