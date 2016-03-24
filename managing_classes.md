@@ -24,7 +24,7 @@ You can create or edit a class, you see this class's page. On the **Configuratio
 
 ##Properties area and property page
 
-When you create or edit a property, the property page opens. On the **Configuration** tab, you can set the following parameters:
+When you create or edit a property, the **property** page opens. On the **Configuration** tab, you can set the following parameters:
 * **Name** and **Description** are what it says.
 * Determining how the property values show when you view a document:
   * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
@@ -36,17 +36,17 @@ When you create or edit a property, the property page opens. On the **Configurat
 * **ReadOnly** ...
 * **UI ReadOnly** ...
 * **Not Null**...
-* **Min** and **Max** for quantifiable parameters.
+* **Min** and **Max** for quantifiable properties.
 * **Regexp**...
 * **Collate**...
 * **Displayable**...
 * **Hidden** ...
-* **Calculable** lets you 
-Default Value
+* **Calculable**: put a script here to make the property calculable. You can use the ... script format. Exapmle:
+  >eval("class_1.property_1 + ': ' + property_2")
+* **Default Value** sets the default value of the property.
 
-
-
-Creating and editing properties.
+You can edit some of these parameters right in the list of class's properties
+on the class configuration 
 
 Properties order and other attributes
 
