@@ -17,6 +17,7 @@
    * [Dashboards](dashboards.md)
    * [Localization](localization.md)
    * [Configuring the Document Display](configuring_the_document_display.md)
+   * The Interface of the Schema
 * [Managing Users and their Access](managing_users.md)
    * Managing Roles
    * Managing Users
