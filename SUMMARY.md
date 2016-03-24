@@ -36,8 +36,8 @@
    * Creating Your Custom Guice Module
    * Writing your module
    * Writing your widget
-       * Creating Your Custom Guice Module
    * [Special URLs](special_urls.md)
+   * Creating Your Custom Guice Module
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
