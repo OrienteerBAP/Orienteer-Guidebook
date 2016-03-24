@@ -25,7 +25,6 @@ Configuring properties
 Types of parameters: https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support 
 http://orientdb.com/docs/last/Types.html
 
-
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
 
 
