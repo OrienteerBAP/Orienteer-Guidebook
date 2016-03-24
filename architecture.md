@@ -2,4 +2,9 @@
 
 Image: architecture
 
-Table with all libraries
+## Libraries
+
+| Library| Role |
+| -- | -- |
+| 0:2 | 1:2 |
+| 0:3 | 1:3 |
