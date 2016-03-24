@@ -24,6 +24,9 @@ Configuring properties
 
 Types of parameters: https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support 
 http://orientdb.com/docs/last/Types.html
+В Orienteer есть еще возможность указать тип визуализации. Типы эти расширяемы. Пока что список вот такой:
+https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support
+
 
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
 
