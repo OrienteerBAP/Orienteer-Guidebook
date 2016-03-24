@@ -2,6 +2,8 @@
 
 *orienteer.properties* is the main file to store initial configuration paramenters for your installation. You can download a sample configuration file [link](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties).
 
+**Properties**
+
 * >orienteer.production=[true|false]
 
   Run Orienteer in the production mode (true) or in the development mode (false).
@@ -25,3 +27,21 @@
   Set the password of the user that will perform administrative stuff on the OrientDB server.
 
 If something missing, Orienteer will use default settings.
+
+**Default property values**
+
+>orienteer.production=false
+>
+>orientdb.embedded=true
+>
+>orientdb.url=plocal:Orienteer
+>
+>orientdb.db.username=reader
+>
+>orientdb.db.password=reader
+>
+>orientdb.db.installator.username=admin
+>
+>orientdb.db.installator.password=admin
+>
+>orienteer.image.logo=/org/orienteer/core/web/logo.png
