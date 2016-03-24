@@ -41,5 +41,5 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
-* Supplementary. Predefined Classes
+* [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 
