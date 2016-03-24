@@ -22,9 +22,30 @@ You can create or edit a class, you see this class's page. On the **Configuratio
 * **Default Sorting** ...
 * **Default Sort Order** ...
 
-##Properties
+##Properties area and property page
 
-When you create or edit a property, 
+When you create or edit a property, the property page opens. On the **Configuration** tab, you can set the following parameters:
+* **Name** and **Description** are what it says.
+* **Tab** determines how the property values show when you view a document. If you give a name for a tab here, the property will show on a separate tab.
+* **Order** sets the 
+Type
+Visualization
+Linked Class
+Inverse
+Mandatory
+ReadOnly
+UI ReadOnly
+Not Null
+Min
+Max
+Regexp
+Collate
+Displayable
+Hidden
+Calculable
+Default Value
+
+
 
 Creating and editing properties.
 
