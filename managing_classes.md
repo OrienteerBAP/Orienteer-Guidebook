@@ -7,7 +7,7 @@ You can implement you data model by creating classes and setting their propertie
 When you create or edit a class, you see this class's page. You can set class parameters on the **Configuration** tab. 
 ##Configuration area
 
-* **Name** is the class name that will show on the **Schema** page.
+* **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is ...
 * **Description** is a whatever description you give to the class.
 * **Super Classes** sets the class's parent class.
@@ -18,15 +18,9 @@ When you create or edit a class, you see this class's page. You can set class pa
 * **Cluster Selection** ...
 * **Document Name Property** sets the parameter, the value of which will show as a document's name in the list of documents.
 * **Parent Document Property** ... 
-Default Tab
-Default Sorting
-Default Sort Order
-
-
-
-Configuring class settings: description of each field.
-
-Schema naming convention https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention
+* **Default Tab** sets the tab that will show by default when you open a document.
+* **Default Sorting** ...
+* **Default Sort Order** ...
 
 Subclasses
 
