@@ -24,7 +24,7 @@ You can create or edit a class, you see this class's page. On the **Configuratio
 
 ##Properties
 
-List of properties
+When you create or edit a property, 
 
 Creating and editing properties.
 
