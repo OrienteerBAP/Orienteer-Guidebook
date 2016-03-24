@@ -21,10 +21,10 @@ Class management buttons:
 * **Export** and **Import** are for ...
 * **View in UML** shows youthe classes that you select with check boxes on a UML diagram.
 
+To edit attributes and properties of a class, click its name.
+To view documents belonging to a class, click its **Brows class** button (on the right of the screen).
 
-
-To create a class, click Create. To edit, click its name.
-Default classes
+Что за шестеренка справа? 
 
 **Class page**
 
