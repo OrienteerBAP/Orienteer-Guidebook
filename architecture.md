@@ -6,7 +6,7 @@ Image: architecture
 
 | Module | Description |
 | -- | -- |
-| Orienteer Core |  |
+| Orienteer Core | Core module of Orienteer which contains the most important things for system operation |
 | Orienteer Graph | |
 | Orienteer Pages | |
 | Orieneer PivotTable | |
