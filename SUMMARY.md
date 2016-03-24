@@ -34,6 +34,7 @@
    * Writing your web-application
    * Writing your module
    * Writing your widget
+       * Creating Your Custom Guice Module
    * [Special URLs](special_urls.md)
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
