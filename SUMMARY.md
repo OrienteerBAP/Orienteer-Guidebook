@@ -32,7 +32,7 @@
 * Orienteer Programming (for Developers)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Writing your web-application
-   * Creating Your Custom Guice Module
+   * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
    * Writing your module
    * Writing your widget
        * Creating Your Custom Guice Module
