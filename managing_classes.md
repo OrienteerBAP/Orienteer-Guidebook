@@ -1,18 +1,10 @@
 # Managing Classes
 You can implement you data model by creating classes and setting their properties. 
 
-To start working with classes, on the navigation pane, click  **Schema** page
+To start working with classes, on the navigation pane, click the **Schema** page. 
+On the schema page, you can see four tabs.
 
-##The Schema page
-
-On the schema page, you can see four tabs:
-*  **Classes** is for managing classes.
-*  **Indexes** is for ...
-*  **Database** is for configuring the database.
-*  **Clusters** is for...
-
-
-### The Class tab
+## The Class tab
 On this tab you can view all existing classes in your database and some of their attributes. Some are predefined ([see supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_predefined_classes.html)).
 Class management buttons:
 * **Cleate**, **Delete** are for creating and deleting classes.
@@ -25,6 +17,13 @@ To edit attributes and properties of a class, click its name.
 To view documents belonging to a class, click its **Brows class** button (on the right of the screen).
 
 Что за шестеренка справа? 
+
+## The Indexes tab
+
+## The Database tab
+
+## The Clusters tab
+
 
 **Class page**
 
