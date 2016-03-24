@@ -1,31 +1,7 @@
 # Managing Classes
-You can implement you data model by creating classes and setting their properties. 
-
-To start working with classes, on the navigation pane, click the **Schema** page. 
-On the schema page, you can see four tabs.
-
-## The Class tab
-On this tab you can view all existing classes in your database and some of their attributes. Some are predefined ([see supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_predefined_classes.html)).
-Class management buttons:
-* **Cleate**, **Delete** are for creating and deleting classes.
-* **Edit** is for editing the attributes visible in the list of classes (Super Classes, Abstract etc).
-* **Reload** is for ...
-* **Export** and **Import** are for ...
-* **View in UML** shows youthe classes that you select with check boxes on a UML diagram.
-
-To edit attributes and properties of a class, click its name.
-To view documents belonging to a class, click its **Brows class** button (on the right of the screen).
-
-Что за шестеренка справа? 
-
-## The Indexes tab
-
-## The Database tab
-
-## The Clusters tab
-
-
-**Class page**
+You can implement you data model by creating classes and setting their properties on the **Schema** page, on the **Classes** tab.
+When you create or edit a class, you see this class' page.
+##Class page
 
 Configuring class settings: description of each field.
 
