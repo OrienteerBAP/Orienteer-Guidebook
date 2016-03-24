@@ -12,7 +12,7 @@
    * [Orienteer User Interface](orienteer_user_interface.md)
 * [Creating and Managing the Data Model](creating_and_managing_the_data_model.md)
    * [Planning Your Database](planning_your_database.md)
-   * Setting you database properties
+   * Creating a database and configuring its properties
    * [Managing Classes](managing_classes.md)
    * [Dashboards](dashboards.md)
    * [Localization](localization.md)
