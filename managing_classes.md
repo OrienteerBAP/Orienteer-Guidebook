@@ -26,22 +26,22 @@ You can create or edit a class, you see this class's page. On the **Configuratio
 
 When you create or edit a property, the property page opens. On the **Configuration** tab, you can set the following parameters:
 * **Name** and **Description** are what it says.
-* **Tab** determines how the property values show when you view a document. If you give a name for a tab here, the property will show on a separate tab.
-* **Order** determines how the property values show when you view a document. The number in this field sets the order in which this property shows: after other properties with smaller **Order** value and before the rest.
+* Determining how the property values show when you view a document:
+  * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
+  * **Order** sets the order in which this property shows: after other properties with smaller **Order** value and before the rest.
 * **Type** and **Visualization** set the data type of the property and the way it is displayed. For a comprehensive list of data types, their meaning and corresponding kinds of vizualization see [link].
-* **Linked Class** 
-Inverse
-Mandatory
-ReadOnly
-UI ReadOnly
-Not Null
-Min
-Max
-Regexp
-Collate
-Displayable
-Hidden
-Calculable
+* **Linked Class** lets you connect the class with another class.
+* **Inverse** ...
+* **Mandatory** makes this property mandatory for creating a document.
+* **ReadOnly** ...
+* **UI ReadOnly** ...
+* **Not Null**...
+* **Min** and **Max** for quantifiable parameters.
+* **Regexp**...
+* **Collate**...
+* **Displayable**...
+* **Hidden** ...
+* **Calculable** lets you 
 Default Value
 
 
