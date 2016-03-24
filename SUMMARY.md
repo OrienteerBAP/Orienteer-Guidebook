@@ -35,7 +35,7 @@
    * Writing your module
    * Writing your widget
    * [Special URLs](special_urls.md)
-   * Testing Your Solution
+   * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
