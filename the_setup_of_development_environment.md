@@ -15,7 +15,7 @@ Prerequisites
 4.	OrientDB, if you want to use OrientDB remotely
 
 Steps
-1. Install of wicket-orientdb github SNAPSHOT
+1. Install of [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) github SNAPSHOT
 
   This step is optional: [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) SNAPSHOT always available on Maven central
   
