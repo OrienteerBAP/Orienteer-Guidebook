@@ -1,11 +1,13 @@
 # Managing Classes
+You can implement you data model by creating classes and setting their properties. 
 
-Where can I edit a class? Schema->Classes.
+To start working with classes, on the navigation pane, click  **Schema** page
 
-**Schema**
+**The Schema page**
 
 Buttons at the top
-Database: tab with table which contains specific database parameters.
+
+
 
 UML
 
@@ -33,6 +35,8 @@ Properties order and other attributes
 Configuring properties
 
 Types of parameters: https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support 
+http://orientdb.com/docs/last/Types.html
+
 
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
 
