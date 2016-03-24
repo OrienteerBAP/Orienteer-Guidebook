@@ -29,7 +29,7 @@ When you create or edit a property, the **property** page opens. On the **Config
 * Determining how the property values show when you view a document:
   * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
   * **Order** sets the order in which this property shows: after other properties with smaller **Order** value and before the rest.
-* **Type** and **Visualization** set the data type of the property and the way it is displayed. For a comprehensive list of data types, their meaning and corresponding kinds of vizualization see [link].
+* **Type** and **Visualization** set the data type of the property and the way it is displayed. For a list of data types see [OrientDB manual](http://orientdb.com/docs/last/Types.html).
 * **Linked Class** lets you connect the class with another class.
 * **Inverse** ...
 * **Mandatory** makes this property mandatory for creating a document.
@@ -41,25 +41,21 @@ When you create or edit a property, the **property** page opens. On the **Config
 * **Collate**...
 * **Displayable**...
 * **Hidden** ...
-* **Calculable**: put a script here to make the property calculable. You can use the ... script format. Exapmle:
-  >eval("class_1.property_1 + ': ' + property_2")
+* **Calculable**: put a script here to make the property calculable. Write a script in OrientDB format. Exapmles:
+>select sum(a, b) as value from MyClass where @rid = ?
+>select sum(e.salery) as value from Employee e where e.department = ? 
+
+  In case of calculation just for a current row you can use short notation:
+
+  > sum(a, b)
+
+  instead of
+
+  > select sum(a, b) as value from MyClass where @rid = ?
+
 * **Default Value** sets the default value of the property.
 
-You can edit some of these parameters right in the list of class's properties
-on the class configuration 
-
-Properties order and other attributes
-
-Configuring properties
-
-Types of parameters: https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support 
-http://orientdb.com/docs/last/Types.html
-В Orienteer есть еще возможность указать тип визуализации. Типы эти расширяемы. Пока что список вот такой:
-https://github.com/OrienteerDW/Orienteer/wiki/Property-types-support
-
-
-Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
-
+You can edit some of these parameters right in the list of class's properties by clicking **Edit**.
 
 ##Indexies
 
