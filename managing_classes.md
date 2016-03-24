@@ -1,8 +1,9 @@
 # Managing Classes
+
 You can implement you data model by creating classes and setting their properties on the **Schema** page, on the **Classes** tab.
 When you create or edit a class, you see this class' page.
 ##Class page
-
+###Configuration
 Configuring class settings: description of each field.
 
 Schema naming convention https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention
@@ -11,6 +12,7 @@ Subclasses
 
 Creating subclasses
 
+###Properties
 **Properties**
 
 List of properties
@@ -27,6 +29,9 @@ http://orientdb.com/docs/last/Types.html
 
 Calculable properties https://github.com/OrienteerDW/Orienteer/wiki/How-to-make-calculable-property
 
+
+###Indexies
+
 Indexies http://orientdb.com/docs/last/Indexes.html
 
-Custom properties 
+###Custom properties 
