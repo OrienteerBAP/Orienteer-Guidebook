@@ -34,6 +34,7 @@
    * Writing your web-application
    * Writing your module
    * Writing your widget
+   * Special URLs
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
