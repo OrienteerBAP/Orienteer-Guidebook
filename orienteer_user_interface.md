@@ -1,4 +1,4 @@
-# Orienteer User Interface
+# Logon and User Interface
 
 To log in, provide your credentials.
 
