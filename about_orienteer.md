@@ -30,7 +30,7 @@ High Return on Investment
 ###What businesses can benefit from Orienteer
 * Developers of applied data warehouses, like ERP, CRM, whatever.
 * Web service providers.
-* ...
+etc
 
 ###Approach to building a data model
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of interconnected classes. Instances of classes are called documents. You can find out more about data models in [OrientDB documentation](http://orientdb.com/docs/last/).
