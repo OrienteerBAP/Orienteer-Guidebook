@@ -14,7 +14,7 @@ Enhanced Business Intelligence
 
 Saves Time
 
-**Big Data oriented**: 
+**Big Data oriented**
 
 Enhanced Data Quality and Consistency
 
