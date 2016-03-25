@@ -10,4 +10,4 @@ On each page, you can see a set of panes displaying data. For example, by defaul
 * To add a widget, on the top right of the top widget, click ![](UI-adding-widgets.jpg). Choose and configure a widget and then click **Save**.
 * To configure widget, on its top right click **Actions**.
 
-Different kinds of pages allow for different sets of widgets. A list of documents allows you to add a pivot table.
+Different kinds of pages allow for different sets of widgets. A list of documents allows you to add a pivot table, which can graphically represent data as a table, a chart etc.
