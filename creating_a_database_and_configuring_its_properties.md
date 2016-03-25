@@ -10,7 +10,7 @@ You can configure the database on the **Schema** page (URL */schema*), on the **
 ####Date, time and location
 * **Date Format**, e.g. *yyyy-MM-dd*
 * **Date/Time Format**, e.g. *yyyy-MM-dd HH:mm:ss*
-* **Timezone**
+* **Timezone** selected from a droplist
 * **Locate Country**, e.g. *US*
 * **Locale Language**, e.g. *en*
 
