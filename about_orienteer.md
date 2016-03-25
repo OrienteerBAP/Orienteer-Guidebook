@@ -1,7 +1,9 @@
 # About Orienteer
 
 Orienteer is a development framework for building databases and implementing data warehouses of any complexity.
-Orienteer is built on top of the [OrientDB database](http://orientdb.com/), which is No-SQL based and implements [document+graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). 
+
+**Technically** Orienteer is a Java Servlet 3.1 web application built on top of the [OrientDB database](http://orientdb.com/). OrientDB is No-SQL based and implements [document+graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). 
+
 On the top of OrientDB, Orienteer adds the following values:
 * GUI for managing the database
 * ...
@@ -16,10 +18,7 @@ Easy to Install and Use
 High Return on Investment
 
 
-**Technically** Orienteer is a Java Servlet 3.1 web application.
 
-Benefits https://github.com/OrienteerDW/Orienteer/wiki/Benefits
-Road Map https://github.com/OrienteerDW/Orienteer/wiki/Road-Map
 
 
 **Data Models in Orienteer**
