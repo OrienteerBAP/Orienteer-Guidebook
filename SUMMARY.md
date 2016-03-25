@@ -15,9 +15,9 @@
    * [Creating a database and configuring its properties](creating_a_database_and_configuring_its_properties.md)
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
-   * [Dashboards](dashboards.md)
    * [Localization](localization.md)
    * Security
+   * [Dashboards](dashboards.md)
    * [Configuring the Document Display](configuring_the_document_display.md)
 * [Managing Users and their Access](managing_users.md)
    * Managing Roles
