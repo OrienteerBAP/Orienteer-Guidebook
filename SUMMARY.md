@@ -19,6 +19,7 @@
    * [Dashboards](dashboards.md)
 * [Managing Users and their Access](managing_users.md)
 * [Service](service.md)
+* [Entering and Viewing Data](entering_data_to_the_database.md)
 * Entering and Retrieving Data
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Orienteer Programming (for Developers)](orienteer_programming_for_developers.md)
