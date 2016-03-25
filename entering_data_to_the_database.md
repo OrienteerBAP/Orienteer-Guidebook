@@ -11,7 +11,7 @@ In the class's document list, you can edit documents and enter new documents to 
 By [adding widgets](https://orienteer.gitbooks.io/orienteer/content/orienteer_user_interface.html) to this page, you can also visualize data.
 
 ##Data visualization
-
+This is all pivot?
 ###Pages
 ###Graphs
 
