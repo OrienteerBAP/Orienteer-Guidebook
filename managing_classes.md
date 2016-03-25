@@ -5,7 +5,7 @@ You can implement you data model by creating classes and setting their propertie
 *   Orienteer is a graph+document database, so, properties of a class may contain references to other documents.
 
 You can create or edit a class, you see this class's page. On the **Configuration** tab you can set class parameters. 
-##Configuration area
+##Configuration area of class
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is ...
@@ -24,7 +24,8 @@ You can create or edit a class, you see this class's page. On the **Configuratio
 
 ##Properties area and property page
 
-When you create or edit a property, the **property** page opens. On the **Configuration** tab, you can set the following parameters:
+When you create or edit a property, the **property** page opens.
+On the **Configuration** tab on a property page, you can set the following:
 * **Name** and **Description** are what it says.
 * Determining how the property values show when you view a document:
   * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
@@ -56,6 +57,7 @@ When you create or edit a property, the **property** page opens. On the **Config
 * **Default Value** sets the default value of the property.
 
 You can edit some of these parameters right in the list of class's properties by clicking **Edit**.
+On the **Localization** tab on a property page, you can ...
 
 ##Indexies
 
