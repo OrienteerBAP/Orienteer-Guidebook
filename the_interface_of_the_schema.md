@@ -15,5 +15,5 @@ To view documents belonging to a class, click its **Browse class** button (on th
 ## The Indexes tab
 What is this?
 ## The Database tab
-
+Lets you [configure general database settings](https://orienteer.gitbooks.io/orienteer/content/creating_a_database_and_configuring_its_properties.html).
 ## The Clusters tab
