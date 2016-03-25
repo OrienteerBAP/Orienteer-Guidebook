@@ -8,10 +8,11 @@ To browse class's documents, go to the **Schema** page (URL */schema*) and on th
 
 In the class's document list, you can edit documents and enter new documents to your database.
 
+By [adding widgets](https://orienteer.gitbooks.io/orienteer/content/orienteer_user_interface.html) to this page, you can also visualize data.
+
 ##Data visualization
 
 ###Pages
 ###Graphs
-###Pivot tables
 
 
