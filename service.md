@@ -1,5 +1,5 @@
 # Service
-Coming soon:
+**Coming soon**
 * Backup/restore
 * Upgrading
 * Export/import
