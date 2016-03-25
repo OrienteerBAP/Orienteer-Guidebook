@@ -2,11 +2,13 @@
 
 ##Managing perspectives
 
-A perspective is the part of the database a user can view. 
-
-It is a set of 
-Available perspectives are bound to user roles. To view the **Perspectives** page, on the navigation pane, click **Perspectives**.
-
+A perspective is the part of the database a user can view. It defines the list of sections on the Navigation pane. A list of available perspectives is defined for each user role. To view the **Perspectives** page, on the navigation pane, click **Perspectives**.
+For each perspective, you can add properties, each defining a new section on the navigation pane. Properties have following attributes:
+* **Name**
+* **Perspective item**
+* **Perspective** is a list of perspectives in which a section will show on the navigation pane. You can copy properties between perspectives; for this enter the property editing page and add perspectives to this attribute.
+* **Icon** ...
+* **Url** sets the page that will show when you click the section on a navigation pane.
 
 
 ##Managing roles
