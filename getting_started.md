@@ -4,8 +4,9 @@
 Before installing Orienteer, you may want to check the demo version. You can access it in the web interface: [http://demo.orienteer.org/login](http://demo.orienteer.org/login)
 
 **Rollout checklist**
-* Install and configure Orienteer
-
-
-
-
+* [Install](https://orienteer.gitbooks.io/orienteer/content/installation.html) and [configure](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html) Orienteer.
+* [Create and configure a database](https://orienteer.gitbooks.io/orienteer/content/creating_a_database_and_configuring_its_properties.html).
+* [Implement the schema of your business data model](https://orienteer.gitbooks.io/orienteer/content/managing_classes.html).
+* [Localize](https://orienteer.gitbooks.io/orienteer/content/localization.html).
+* [Set perspectives, roles and users](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
+* [Set security](https://orienteer.gitbooks.io/orienteer/content/security.html).
