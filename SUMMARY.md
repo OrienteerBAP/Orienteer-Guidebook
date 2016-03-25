@@ -21,7 +21,6 @@
 * [Service](service.md)
 * Entering and Retrieving Data
    * [Entering Data to the Database](entering_data_to_the_database.md)
-   * Viewing documents
    * Data Vizualization
        * Pages
        * Graphs
