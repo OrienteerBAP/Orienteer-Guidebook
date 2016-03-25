@@ -15,7 +15,7 @@
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
-   * Security
+   * [Security](security.md)
    * [Dashboards](dashboards.md)
 * [Managing Users and their Access](managing_users.md)
 * [Service](service.md)
