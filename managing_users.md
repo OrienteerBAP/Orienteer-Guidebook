@@ -11,9 +11,6 @@ To edit all properties of a role, click its name. You will see a page of a parti
 
 On the **Properties** tab:
 * The role's **Name** 
-* **Mode** for ...
 * **Inherited Role** sets the parent role from which the role will inherit its parameters.
-* **Rules** 
-This will ask you the string of the resource that you want to secure. For a list of available resources, visit the official documentation 
-More about 
-Making rules http://orientdb.com/docs/last/Studio-Security.html
+* **Rules** and **Mode** regulate rules that apply to a role and how those rules work. 
+For more details, see [**Security** section of the OrientDB manual](http://orientdb.com/docs/last/Studio-Security.html).
