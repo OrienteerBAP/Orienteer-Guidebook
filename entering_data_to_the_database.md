@@ -8,6 +8,10 @@ To browse class's documents, go to the **Schema** page (URL */schema*) and on th
 
 In the class's document list, you can edit documents and enter new documents to your database.
 
-##Data vizualization
+##Data visualization
+
+###Pages
+###Graphs
+###Pivot tables
 
 
