@@ -19,3 +19,7 @@ For more details, see [**Security** section of the OrientDB manual](http://orien
 
 Users are particular persons that you permit to work with the database. To view **Users** page, on the navigation pane, click **Users**.
 For each user, you can set a name, a password, assign one or many roles, change status.
+
+##Managing perspectives
+
+A perspective is a 
