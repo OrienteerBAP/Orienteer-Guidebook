@@ -16,13 +16,13 @@
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Dashboards](dashboards.md)
+   * Security
    * [Localization](localization.md)
    * [Configuring the Document Display](configuring_the_document_display.md)
 * [Managing Users and their Access](managing_users.md)
    * Managing Roles
    * Managing Users
    * Managing Perspectives
-* Security
 * [Service](service.md)
 * Entering and Retrieving Data
    * Entering Data to the Database
