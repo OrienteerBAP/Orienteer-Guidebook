@@ -12,10 +12,8 @@ Class management buttons:
 To edit properties of a class, click its name.
 To view documents belonging to a class, click its **Browse class** button (on the right of the screen).
 
-Что за шестеренка справа? 
-
 ## The Indexes tab
-
+What is this?
 ## The Database tab
 
 ## The Clusters tab
