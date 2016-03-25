@@ -2,7 +2,10 @@
 
 ##Managing perspectives
 
-A perspective is the part of the database a user can view. It defines the list of sections on the Navigation pane. A list of available perspectives is defined for each user role. To view the **Perspectives** page, on the navigation pane, click **Perspectives**.
+The **Perspectives** page URL: */browse/OPerspective*.
+
+A perspective is the part of the database a user can view. It defines the list of sections on the Navigation pane. A list of available perspectives is defined for each user role.
+
 For each perspective, you can add properties, each defining a new section on the navigation pane. Properties have following attributes:
 * **Name**
 * **Perspective item**
@@ -13,10 +16,9 @@ For each perspective, you can add properties, each defining a new section on the
 
 ##Managing roles
 
-A role determines what operations a user can perform against a resource.
-To view the **Roles** page, on the navigation pane, click **Roles**. When you create a role, you can make it inherit from another role.
+The **Roles** page URL: */browse/ORole*.
 
-To edit all properties of a role, click its name. You will see a page of a particular role. 
+A role determines what operations a user can perform against a resource. When you create a role, you can make it inherit from another role. To edit all properties of a role, click its name. 
 
 On the **Properties** tab:
 * The role's **Name** 
@@ -27,6 +29,7 @@ For more details, see [**Security** section of the OrientDB manual](http://orien
 
 ##Managing users
 
-Users are particular persons that you permit to work with the database. To view **Users** page, on the navigation pane, click **Users**.
-For each user, you can set a name, a password, assign one or many roles, change status.
+The **Users** page URL: */browse/OUser*.
+
+Users are particular persons that you permit to work with the database. For each user, you can set a name, a password, assign one or many roles, change status.
 
