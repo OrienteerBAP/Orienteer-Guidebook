@@ -19,7 +19,6 @@
    * Security
    * [Dashboards](dashboards.md)
 * [Managing Users and their Access](managing_users.md)
-   * Managing Users
    * Managing Perspectives
 * [Service](service.md)
 * Entering and Retrieving Data
