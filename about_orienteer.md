@@ -14,16 +14,17 @@ Enhanced Business Intelligence
 
 Saves Time
 
-Big Data oriented
+**Big Data oriented**: 
 
 Enhanced Data Quality and Consistency
 
-Open Source
+**Open Source**. Building your solution with Orienteer, you join a broad community that will support you and help you move on.
 
 Easy to Install and Use
 
 High Return on Investment
 
+... Orienteer-based solutions are scalable. A solution can go with a growing business from a single-persons workplace to a multi-branch business management solution.
 
 
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of interconnected classes. Instances of classes are called documents. You can find out more about data models in [OrientDB documentation](http://orientdb.com/docs/last/).
