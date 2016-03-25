@@ -21,6 +21,6 @@ Different kinds of pages allow for different sets of widgets.
 >**Tip!** A list of documents allows you to add a pivot table, which can graphically represent data as a table, a chart etc.
 ###Pages
 ###Graphs
->Это все то же самое?
+Это все то же самое?
 
 
