@@ -27,8 +27,9 @@ High Return on Investment
 
 ... Orienteer-based solutions are scalable. A solution can go with a growing business from a single-persons workplace to a multi-branch business management solution.
 
-###What businesses can benefit from Orienteer
+###What businesses can enjoy Orienteer
 Developers of applied data warehouses, like ERP, CRM, whatever.
+
 Web service providers.
 
 etc
