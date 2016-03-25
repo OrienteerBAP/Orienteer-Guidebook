@@ -1,6 +1,6 @@
 # Localization
 
-You can localize class name and properties.
+You can localize class properties.
 Orienteer storing localization in DB. There is a system class called OLocalization.
 
 To localize you should:
