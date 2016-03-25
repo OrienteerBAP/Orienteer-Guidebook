@@ -27,7 +27,10 @@ High Return on Investment
 
 ... Orienteer-based solutions are scalable. A solution can go with a growing business from a single-persons workplace to a multi-branch business management solution.
 
-###
+###What businesses can benefit from Orienteer
+* Developers of applied data warehouses, like ERP, CRM, whatever.
+* Web service providers.
+* ...
 
-
+###Approach to building a data model
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of interconnected classes. Instances of classes are called documents. You can find out more about data models in [OrientDB documentation](http://orientdb.com/docs/last/).
