@@ -21,7 +21,6 @@
 * [Service](service.md)
 * Entering and Retrieving Data
    * [Entering Data to the Database](entering_data_to_the_database.md)
-   * Data Vizualization
 * [Orienteer Programming (for Developers)](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Writing your web-application
