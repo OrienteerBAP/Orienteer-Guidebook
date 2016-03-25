@@ -17,7 +17,6 @@
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
    * Security
-   * [Configuring the Document Display](configuring_the_document_display.md)
    * [Dashboards](dashboards.md)
 * [Managing Users and their Access](managing_users.md)
    * Managing Roles
