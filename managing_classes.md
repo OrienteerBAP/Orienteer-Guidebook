@@ -2,7 +2,7 @@
 
 You can implement you data model by creating classes and setting their properties on the **Schema** page, on the **Classes** tab.
 *  Orienteer supports inheritance between classes, so, a class may have a parent class. 
-*   Orienteer is a graph+document database, so, properties of a class may contain references to other documents.
+*  Orienteer is a graph+document database, so, properties of a class may contain references to other documents.
 
 When you can create or edit a class, you see this class's page. On the **Configuration** tab you can set class parameters. 
 ##Configuration area of class
