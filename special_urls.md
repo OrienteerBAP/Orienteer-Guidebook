@@ -7,12 +7,12 @@ You can access pages of the database with their URLs. Use the database URL + a U
 | -- | -- |
 | /classes | View the list of all classes |
 | /class/&lt;class name&gt; | Configure a class |
-| /property/&lt;class name&gt;/&lt;property name&gt; | Configure Property of specified Class |
-| /index/&lt;index name&gt; | Configure Index |
-| /browse/&lt;class name&gt; |List of all objects of specified Class |
-| /doc/&lt;document RID&gt;/[view&#124;edit]; | Open specified by Document RID document in required Mode ("view" or "edit") |
-| /login | Login page |
-| /logout | Logout current user |
-| /search | Open search page |
+| /property/&lt;class name&gt;/&lt;property name&gt; | Configure a property of a specified class |
+| /index/&lt;index name&gt; | Configure index |
+| /browse/&lt;class name&gt; |View the list of all objects of a specified class |
+| /doc/&lt;document RID&gt;/[view&#124;edit]; | Open a document specified by its ID (RID) for viewing or editing|
+| /login | Log on |
+| /logout | Log off |
+| /search | Open the search page |
 
 Example: *mydatabase.orienteer.org/classes*.
