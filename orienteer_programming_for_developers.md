@@ -1,8 +1,9 @@
 # Orienteer Programming (for Developers)
 
 
+This chapter is intended for developers. Reading it may require experience in coding and database management.
+This chapter explains how you can:
+* use Orienteer as a framework for developing your own web application
+* develop your own modules for Orienteer. 
 
-Из основных сценариев для разработчиков:
-1) Использование Ориентира как фремворка для своего веб приложения
-2) Написание собственных модулей для Ориентира. Ну и как частный
-случай: написание собственного виджета.
+
