@@ -1,14 +1,6 @@
 # The Setup of Development Environment
 
-https://github.com/OrienteerDW/Orienteer/wiki/How-to-run-Orienteer
-
 Go to orienteer-core module
-
-Run the following command in console mvn jetty:run
-
-If you made some changes in Orienteer consider running mvn clean jetty:run
-
-Go to in your browser to http://localhost:8080
 
 ##Prerequisites
 * java 7+
@@ -36,12 +28,9 @@ Go to in your browser to http://localhost:8080
 
   >mvn clean install
 
-3. Modify orienteer.properties file
-  See configuration section above
-4. Code compilation
+3. Modify orienteer.properties file (see [configuration section above](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
+4. Compile the code
   >mvn clean install
-5. Run jetty server by command
+5. Run jetty server
   >mvn jetty:run
-6. Goto the application
-  Open http://localhost:8080 is in your browser
-
+6. To access the application: in your browser, go to http://localhost:8080.
