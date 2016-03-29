@@ -1,9 +1,13 @@
 # The Setup of Development Environment
 
 ##Prerequisites
+
 java 7+
+
 git
+
 maven
+
 OrientDB, if you want to use OrientDB remotely
 
 ##Steps
