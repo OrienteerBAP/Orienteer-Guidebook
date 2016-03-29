@@ -26,6 +26,7 @@
    * [Special URLs](special_urls.md)
    * Creating Your Custom Guice Module
    * [Testing Your Solution](testing_your_solution.md)
+   * Using Orienteer as Development a Framework
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
