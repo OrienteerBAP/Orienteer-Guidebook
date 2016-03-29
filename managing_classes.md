@@ -61,8 +61,9 @@ On the **Localization** tab on a property page, you can ...
 
 ##The Indexes widget
 
-On the Indexes widget, you can ...
+With this widget, you can ...
 Indexies http://orientdb.com/docs/last/Indexes.html
 
 ##The Custom properties widget
-Whatever
+
+With this widget, you can set particular custom properties to the whole class.
