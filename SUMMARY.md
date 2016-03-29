@@ -18,11 +18,11 @@
 * [Orienteer Programming](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
-   * Developing a Module for Orienteer
-     * Writing your module
-     * Writing your widget
-     * Writing your web-application
-   *  Adding Calculable Properties
+   * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
+       * Writing your module
+       * Writing your widget
+       * Writing your web-application
+   * Adding Calculable Properties
    * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
    * [Special URLs](special_urls.md)
    * Creating Your Custom Guice Module
