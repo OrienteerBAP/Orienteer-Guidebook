@@ -25,7 +25,6 @@
        * Writing your web-application
    * Adding Calculable Properties
    * [Special URLs](special_urls.md)
-   * Creating Your Custom Guice Module
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
