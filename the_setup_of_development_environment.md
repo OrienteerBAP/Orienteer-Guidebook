@@ -1,7 +1,5 @@
 # The Setup of Development Environment
 
-Go to orienteer-core module
-
 ##Prerequisites
 * java 7+
 * git
