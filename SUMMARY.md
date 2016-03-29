@@ -14,7 +14,6 @@
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
-   * [Dashboards](dashboards.md)
 * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Service](service.md)
 * [Orienteer Programming (for Developers)](orienteer_programming_for_developers.md)
