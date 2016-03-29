@@ -9,7 +9,7 @@
    * [Creating a Database and Configuring its Properties](creating_a_database_and_configuring_its_properties.md)
    * [Logon and User Interface](orienteer_user_interface.md)
    * [Managing Users and their Access](managing_users.md)
-   * [Security](security.md)
+   * [Setting Security](security.md)
 * [Managing the Data Model](creating_and_managing_the_data_model.md)
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
