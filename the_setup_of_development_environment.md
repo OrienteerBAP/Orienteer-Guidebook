@@ -15,7 +15,6 @@ OrientDB, if you want to use OrientDB remotely
   >
   >mvn clean install
 
-
 2. Install Orienteer
 
   >cd ..
