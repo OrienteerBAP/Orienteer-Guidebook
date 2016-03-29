@@ -1,18 +1,20 @@
 # The Setup of Development Environment
 
 https://github.com/OrienteerDW/Orienteer/wiki/How-to-run-Orienteer
+
 Go to orienteer-core module
+
 Run the following command in console mvn jetty:run
+
 If you made some changes in Orienteer consider running mvn clean jetty:run
+
 Go to in your browser to http://localhost:8080
 
-
-
-Prerequisites
-1.	java 7+
-2.	git
-3.	maven
-4.	OrientDB, if you want to use OrientDB remotely
+##Prerequisites
+* java 7+
+* git
+* maven
+* OrientDB, if you want to use OrientDB remotely
 
 Steps
 1. Install of [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) github SNAPSHOT
