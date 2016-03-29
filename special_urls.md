@@ -6,11 +6,11 @@ You can access pages of the database with their URLs. Use the database URL + a U
 | URL | Description |
 | -- | -- |
 | /classes | View the list of all classes |
-| /class/Class | Configure a class |
-| /property/Class/Property | Configure Property of specified Class |
-| /index/Index | Configure Index |
-| /browse/Class |List of all objects of specified Class |
-| /doc/Document RID/Mode | Open specified by Document RID document in required Mode ("view" or "edit") |
+| /class/&lt;class name&gt; | Configure a class |
+| /property/&lt;class name&gt;/&lt;property name&gt; | Configure Property of specified Class |
+| /index/&lt;index name&gt; | Configure Index |
+| /browse/&lt;class name&gt; |List of all objects of specified Class |
+| /doc/&lt;document RID&gt;/[view|edit]; | Open specified by Document RID document in required Mode ("view" or "edit") |
 | /login | Login page |
 | /logout | Logout current user |
 | /search | Open search page |
