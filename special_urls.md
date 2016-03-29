@@ -1,6 +1,6 @@
 # Supplementary. Accessing Pages via URLs
 
-You can access pages of the database with their URLs. Use the database URL + a URL from the table below.
+You can access pages of the database with their URLs. Use the database URL + a URL from the table below. Example: *mydatabase.orienteer.org/classes*.
 
 
 | URL | Description |
@@ -15,4 +15,3 @@ You can access pages of the database with their URLs. Use the database URL + a U
 | /logout | Log off |
 | /search | Open the search page |
 
-Example: *mydatabase.orienteer.org/classes*.
