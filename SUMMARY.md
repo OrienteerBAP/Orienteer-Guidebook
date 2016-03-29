@@ -17,6 +17,7 @@
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Orienteer Programming (for Developers)](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
+   * Adding Calculable Properties
    * Writing your web-application
    * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
    * Writing your module
@@ -24,7 +25,6 @@
    * [Special URLs](special_urls.md)
    * Creating Your Custom Guice Module
    * [Testing Your Solution](testing_your_solution.md)
-   * Adding Calculable Properties
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
