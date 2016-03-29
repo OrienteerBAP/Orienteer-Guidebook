@@ -5,7 +5,7 @@ You can implement you data model by creating classes and setting their propertie
 *  Orienteer is a graph+document database, so, properties of a class may contain references to other documents.
 
 When you can create or edit a class, you see this class's page. On the **Configuration** tab you can set class parameters. 
-##Configuration area of class
+##The Configuration widget
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is ...
@@ -22,7 +22,7 @@ When you can create or edit a class, you see this class's page. On the **Configu
 * **Default Sorting** ...
 * **Default Sort Order** ...
 
-##Properties area and property page
+##The Properties widget
 
 When you create or edit a property, the **property** page opens.
 On the **Configuration** tab on a property page, you can set the following:
@@ -59,9 +59,10 @@ On the **Configuration** tab on a property page, you can set the following:
 You can edit some of these parameters right in the list of class's properties by clicking **Edit**.
 On the **Localization** tab on a property page, you can ...
 
-##Indexies
+##The Indexes widget
 
+On the Indexes widget, you can ...
 Indexies http://orientdb.com/docs/last/Indexes.html
 
-##Custom properties 
+##The Custom properties widget
 Whatever
