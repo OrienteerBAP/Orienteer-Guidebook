@@ -1,4 +1,6 @@
-# The Interface of the Schema
+# The Interface of the Schema Page
+
+You can access the Schema page by clicking **Schema** on the navigation page (URL: &lt;databaseURL&gt;/browse/OPerspective)
 
 ## The Class tab
 On this tab you can view all existing classes in your database and some of their attributes. Some are predefined ([see supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_predefined_classes.html)).
