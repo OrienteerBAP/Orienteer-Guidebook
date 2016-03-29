@@ -21,9 +21,9 @@
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
        * Writing your module
        * Writing your widget
+       * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
        * Writing your web-application
    * Adding Calculable Properties
-   * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
    * [Special URLs](special_urls.md)
    * Creating Your Custom Guice Module
    * [Testing Your Solution](testing_your_solution.md)
