@@ -6,7 +6,7 @@ A perspective defines what page a user sees after logging in and what pages are 
 
 > **Warning!** If users don't see a page in their perspective, this doesn't prevent them from accessing a page over its URL. To restrict the access, check that [database security settings](https://orienteer.gitbooks.io/orienteer/content/security.html) are configured properly.
 
-To configure perspectives, on the navigation pane, click **Perspectives** (URL: *&lt;databaseURL&gt;/browse/OPerspective*).
+To configure perspectives, on the navigation pane, click **Perspectives** (URL: *&lt;databaseURL&gt; /browse/OPerspective*).
 
 For each perspective, you can add properties, each defining a new section on the navigation pane. Properties have following attributes:
 * **Name**
