@@ -10,17 +10,4 @@ To localize a name of a class or a property
   * In the field **Value** type the translation.
 
 
-There is a system class called OLocalization.
-
-To localize you should:
-
-Visit place where you wish to have localization. 
-
-System will create required resource keys in OLocalization automatically.
-
-Goto OLocalization and find required keys.
-
-Modify property "value" as required and mark it active.
-Limitations
-
-Currently, system restart required to take effect after localization
+> **Note.** For a localization to take the effect, you need to restart the database.
