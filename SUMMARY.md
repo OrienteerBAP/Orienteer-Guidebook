@@ -17,8 +17,8 @@
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Orienteer Programming](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
-   * Developing a Module for Orienteer
    * Using Orienteer as Development a Framework
+   * Developing a Module for Orienteer
    * Adding Calculable Properties
    * Writing your web-application
    * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
