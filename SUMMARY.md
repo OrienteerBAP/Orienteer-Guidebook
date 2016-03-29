@@ -24,10 +24,10 @@
        * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
        * Writing your web-application
    * Adding Calculable Properties
-   * [Accessing Pages via URLs](special_urls.md)
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
+* [Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 
