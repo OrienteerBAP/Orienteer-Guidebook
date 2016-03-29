@@ -13,8 +13,8 @@
 * [Managing the Data Model](creating_and_managing_the_data_model.md)
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
+   * [Entering and Viewing Data](entering_data_to_the_database.md)
    * [Localization](localization.md)
-* [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Orienteer Programming (for Developers)](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Writing your web-application
