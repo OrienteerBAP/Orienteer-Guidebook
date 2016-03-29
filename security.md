@@ -4,7 +4,7 @@ Orienteer approach to security is based on [OrientDB security settings](http://o
 
 ## Class level security
 
-At the level of each class, you can define which roles can do what. For this, [go to the page of a  class](https://orienteer.gitbooks.io/orienteer/content/managing_classes.html), the **Security** tab.
+At the level of each class, you can define actions with the class available for each role. For this, [go to the page of a  class](https://orienteer.gitbooks.io/orienteer/content/managing_classes.html), the **Security** tab.
 
 ![Setting user rights for roles to manage a class](Security.png)
 
