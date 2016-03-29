@@ -36,3 +36,12 @@ etc
 
 ###Approach to building a data model
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of interconnected classes. Instances of classes are called documents. You can find out more about data models in [OrientDB documentation](http://orientdb.com/docs/last/).
+
+
+###Features coming in next versions
+
+* Backup/restore
+* Upgrading
+* Export/import
+* Logging
+* Integration with third party software
