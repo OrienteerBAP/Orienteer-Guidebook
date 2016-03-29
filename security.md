@@ -1,12 +1,12 @@
 # Setting Security
 
-What should we put here?
-
-Orienteer supports different levels of security configuration.
-Details from OrientDB: http://orientdb.com/docs/2.1/Database-Security.html
+Orienteer approach to security is based on [OrientDB security settings](http://orientdb.com/docs/2.1/Database-Security.html) and supports security on several levels.
 
 ## Class level security
 
+At the level of each class, you can define which roles can do what. For this, on the class page, select the **Security** tab
+
+![Setting user rights for roles to manage a class](Security.png)
 Go to required OClass in schema. Navigate to Security tab. Here you can difine who can read, can write or delete instancies of this class by role basis.
 
 ## Roles security rules
