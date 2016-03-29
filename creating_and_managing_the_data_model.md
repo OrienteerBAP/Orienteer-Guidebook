@@ -1,4 +1,4 @@
-# Creating and Managing the Data Model
+# Managing the Data Model
 
 Before you start building your schema, we recommend that you **plan your data model beforehand**. For example, you can first draw your data model in a UML diagram. Later  you will create classes in a schema, set their properties and connections. This will be easier for you to make if you refer to a data model diagram.
 
