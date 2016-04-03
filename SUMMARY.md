@@ -6,7 +6,7 @@
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
    * [Editing the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
-   * [Creating a Database and Configuring its Properties](creating_a_database_and_configuring_its_properties.md)
+   * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
    * [Logon and User Interface](orienteer_user_interface.md)
    * [Managing Users and their Access](managing_users.md)
    * [Setting Security](security.md)
