@@ -1,7 +1,5 @@
 # Creating a Database and Configuring its Properties
 
-How to create a new database? How to set its URL?
-
 You can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. Parameters:
 
 ####General settings
