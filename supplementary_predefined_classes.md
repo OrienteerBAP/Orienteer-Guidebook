@@ -19,7 +19,7 @@ One part of the predefined classes arrives from OrientDB:
 динамические функции вызывать при чтении, при записи и т.д. 
 Подробнее тут: http://orientdb.com/docs/last/Dynamic-Hooks.html
 
-* OUser - пользователи
+* OUser, users.
 
 Остальные классы от Orienteer. Из основных (я не вижу смысла все
 перечислять в документации):
