@@ -11,7 +11,7 @@ To configure perspectives, on the navigation pane, click **Perspectives** (URL: 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
 * **Perspective item**
 * **Name** is the name of the section that will show on the navigation pane.
-* **Perspective** is a list of perspectives in which a section will show on the navigation pane. You can copy properties between perspectives; for this enter the property editing page and add perspectives to this attribute.
+* **Perspective** is a list of perspectives in which the section will show on the navigation pane.
 * **Icon** ...
 * **Url** sets the page that will show when you click the section on a navigation pane.
 * **Sub items** ...
