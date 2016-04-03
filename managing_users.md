@@ -12,8 +12,8 @@ For each perspective, you can add sections to the navigation pane. Sections have
 * **Perspective item**
 * **Name** is the name of the section that will show on the navigation pane.
 * **Perspective** is a list of perspectives in which the section will show on the navigation pane.
-* **Icon** ...
-* **Url** sets the page that will show when you click the section on a navigation pane.
+* **Icon** is the 
+* **Url** sets the page that will show when you click the section.
 * **Sub items** ...
 
 ##Managing roles
