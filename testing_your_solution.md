@@ -5,18 +5,23 @@ Use Orienteer testing micro-framework
 
 There are 2 ways to enable Orienteer testing framework:
 
-Use of OrienteerTestRunner
+##Use of OrienteerTestRunner
 
 @RunWith(OrienteerTestRunner.class)
-@Singleton
-public class TestMyFunctionality
-{
-   @Inject
-   private OrienteerTester tester;
 
-   ....
-}
-Use of OrienteerRule
+@Singleton
+
+public class TestMyFunctionality
+
+    {
+
+       @Inject
+  
+       private OrienteerTester tester;
+       ....
+    }
+
+##Use of OrienteerRule
 
 public class TestMyFunctionality
 {
