@@ -8,9 +8,9 @@ A perspective defines what page a user sees after logging in and what pages are 
 
 To configure perspectives, on the navigation pane, click **Perspectives** (URL: *&lt;databaseURL&gt; /browse/OPerspective*).
 
-For each perspective, you can add properties, each defining a new section on the navigation pane. Properties have following attributes:
-* **Name**
+For each perspective, you can add sections to the navigation pane. Sections have following attributes:
 * **Perspective item**
+* **Name** is the name of the section that will show on the navigation pane.
 * **Perspective** is a list of perspectives in which a section will show on the navigation pane. You can copy properties between perspectives; for this enter the property editing page and add perspectives to this attribute.
 * **Icon** ...
 * **Url** sets the page that will show when you click the section on a navigation pane.
