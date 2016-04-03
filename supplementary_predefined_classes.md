@@ -12,12 +12,12 @@ One part of the predefined classes arrives from OrientDB:
 * ORole, roles.
 
 * OSchedule - планировщик задач - возможность запланировать ту или иную
-функцию по рассписанию
+функцию по расписанию
 
-* OTriggered - если класс наследуется от этого класса, то у объетов
-могут быть динамически параметры которые определяеют какие
-динамические функции вызывать при чтении, при записи и т.д. Подробнее
-тут: http://orientdb.com/docs/last/Dynamic-Hooks.html
+* OTriggered, deriving your class from this class lets your class's objects 
+у объетов могут быть динамически параметры которые определяеют какие
+динамические функции вызывать при чтении, при записи и т.д. 
+Подробнее тут: http://orientdb.com/docs/last/Dynamic-Hooks.html
 
 * OUser - пользователи
 
