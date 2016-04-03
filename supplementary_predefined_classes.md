@@ -15,7 +15,7 @@
 * OSchedule - планировщик задач - возможность запланировать ту или иную
 функцию по расписанию
 
-* OTriggered, deriving your class from this class lets your class's objects have dynamic parameters that define dynamic functions, which are called at reading or writing a document. For more details of using triggrs (hooks) see http://orientdb.com/docs/last/Dynamic-Hooks.html.
+* OTriggered, deriving your class from this class lets your class's objects have dynamic parameters that define dynamic functions, which are called at reading or writing a document. You can check for more details of using triggrs (hooks) [in OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
 * OUser, users.
 
