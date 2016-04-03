@@ -17,7 +17,14 @@ To view documents belonging to a class, click its **Browse class** button (on th
 
 ## The Indexes tab
 
-What is this?
+Lets you configure indexes. The indexing approach follows [that of OrientDB](http://orientdb.com/docs/2.1/Indexes.html).
+
+On this page you can view and configure the following attributes of indexes:
+* **Type**, a type of the index according to OrientDB approach.
+* **Fields** ...
+* **Collate** ...
+* **Is null values ignored**.
+
 ## The Database tab
 
 Lets you [configure general database settings](https://orienteer.gitbooks.io/orienteer/content/creating_a_database_and_configuring_its_properties.html).
