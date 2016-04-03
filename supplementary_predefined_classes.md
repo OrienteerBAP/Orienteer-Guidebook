@@ -1,6 +1,7 @@
 # Supplementary. Predefined Classes
 
-One part of the predefined classes arrives from OrientDB:
+**Predefined classes arriving from OrientDB**
+
 * OFunction, хранимые функции
 
 * OIdentity, a parent class for OUser, ORole classes.
@@ -21,14 +22,18 @@ One part of the predefined classes arrives from OrientDB:
 
 * OUser, users.
 
-Остальные классы от Orienteer. Из основных (я не вижу смысла все
-перечислять в документации):
-ODashboard - класс для хранения конфигурации дешбордов
-OLocalization - класс для хранения локализации - перевода на разные языки
-OModule - список модулей зарегистрированных в системе
-OPage - возможность иметь динамически страницы - легковестное CMS
-OPerspective - перспективы зарегестрированные в системе
-OPerspectiveItem - меню под перспективы
-OWidget - конфигурация виджетов на дешбордах
+**Predefined classes specific for Orienteer**
 
+* ODashboard - класс для хранения конфигурации дешбордов
+ 
+* OLocalization - класс для хранения локализации - перевода на разные языки
 
+* OModule - список модулей зарегистрированных в системе
+
+* OPage - возможность иметь динамически страницы - легковестное CMS
+
+* OPerspective - перспективы зарегестрированные в системе
+
+* OPerspectiveItem - меню под перспективы
+
+* OWidget - конфигурация виджетов на дешбордах
