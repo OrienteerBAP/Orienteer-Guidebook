@@ -25,12 +25,12 @@
  
 * OLocalization stores localized properties of classes.
 
-* OModule stores a list of modules registered in the OS.
+* OModule stores a list of modules registered in Orienteer.
 
 * OPage - возможность иметь динамически страницы - легковесное CMS
 
-* OPerspective - перспективы зарегестрированные в системе
+* OPerspective stores perspectives.
 
 * OPerspectiveItem - меню под перспективы
 
-* OWidget - конфигурация виджетов на дешбордах
+* OWidget stores configurations of widgets on dashboards.
