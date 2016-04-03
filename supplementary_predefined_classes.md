@@ -7,10 +7,9 @@ One part of the predefined classes arrives from OrientDB:
 
 * ORIDs, an utitily class.
 
-* ORestricted, a class - если кто-то наследует этот класс, то у него появляется
-возможность задавать условия безопасности "по объектно".
+* ORestricted, a class which you can use for configuring access rights of separate documents (for more [see the Security section](https://orienteer.gitbooks.io/orienteer/content/security.html)).
 
-* ORole - роли
+* ORole, roles.
 
 * OSchedule - планировщик задач - возможность запланировать ту или иную
 функцию по рассписанию
