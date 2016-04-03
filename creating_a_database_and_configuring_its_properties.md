@@ -1,4 +1,4 @@
-# Creating a Database and Configuring its Properties
+# Configuring Database Properties
 
 You can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. Parameters:
 
