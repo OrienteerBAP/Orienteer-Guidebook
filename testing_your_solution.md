@@ -1,5 +1,4 @@
 # Testing Your Solution
-https://github.com/OrienteerDW/Orienteer/wiki/Orienteer-testing-micro-framework
 
 Use Orienteer testing micro-framework
 
