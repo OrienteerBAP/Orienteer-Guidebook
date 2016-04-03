@@ -21,13 +21,13 @@
 
 **Predefined classes specific for Orienteer**
 
-* ODashboard - класс для хранения конфигурации дешбордов
+* ODashboard stores dashboards configurations.
  
-* OLocalization - класс для хранения локализации - перевода на разные языки
+* OLocalization stores localized properties of classes.
 
-* OModule - список модулей зарегистрированных в системе
+* OModule stores a list of modules registered in the OS.
 
-* OPage - возможность иметь динамически страницы - легковестное CMS
+* OPage - возможность иметь динамически страницы - легковесное CMS
 
 * OPerspective - перспективы зарегестрированные в системе
 
