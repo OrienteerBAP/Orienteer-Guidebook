@@ -1,6 +1,6 @@
 # Glossary
 
-а
+Glossary
 ## Class
 ## Document
 ## Perspective
