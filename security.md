@@ -19,3 +19,10 @@ If a document is an instance of a class, which extends the ORestricted class, yo
 For details, see [OrientDB guide](http://orientdb.com/docs/2.1/Database-Security.html#record-level-security).
 
  
+Есть 2 варианта это сделать:
+1) Использование типа документа (класса) OTriggered для того чтобы
+"реагировать" на onAfterRead: проверять значение и возвращать null
+
+2) С помощью java можно написать реализацию ORecordHook, которая бы и
+проверяла бы все что надо. Этот подход с точки зрения
+производительности более правильный.
