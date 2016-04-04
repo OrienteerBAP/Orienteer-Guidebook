@@ -28,7 +28,7 @@
 
 If something missing, Orienteer will use default settings.
 
-**Default property values**
+**Default settings**
 
 >orienteer.production=false
 >
