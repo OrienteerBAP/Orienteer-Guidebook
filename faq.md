@@ -32,7 +32,7 @@ A: A document is an object of a class.
 
 **Q: Can I implement actions that will work when a document fits to some criteria? For instance, when some property of a document takes a value within some range?
 
-A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For more information, [see OrientDB guide]().
+A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For more information, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 A document is an object of a class. 
 
 
