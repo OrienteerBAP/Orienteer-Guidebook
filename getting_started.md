@@ -1,7 +1,7 @@
 # Starting with Orienteer
 **Demo version**
 
-Before installing Orienteer, you may want to check the [demo version](http://demo.orienteer.org/login). You can access it in the web interface.
+Before installing Orienteer, you may want to check the [demo version](http://demo.orienteer.org/login).
 
 **Rollout checklist**
 * [Install](https://orienteer.gitbooks.io/orienteer/content/installation.html) and [configure](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html) Orienteer
