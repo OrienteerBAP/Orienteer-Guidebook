@@ -1,5 +1,7 @@
 # FAQ - Frequently Asked Questions
 
+##About Orienteer
+
 **Q: What is Orienteer? Is it just another data warehouse?**
 
 A: Orienteer is a framework for developing any kinds of applied data warehouses:
@@ -17,6 +19,7 @@ A: Yes, Orienteer platform will always be free. Our monetization is in:
 * customizing solutions
 * support
 
+## Data model, configurations etc
 **Q: Сan I attach an arbitrary file to a document?**
 
 A: Yes. In the class of the document, you need to specify a parameter of type BINARY. You will then be able to attach a file as this parameter to a document. This file will be downloadable from the document.
