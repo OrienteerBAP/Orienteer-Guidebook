@@ -12,21 +12,21 @@ On the top of OrientDB, Orienteer adds the following benefits:
 
 ##Orienteer key benefits
 
-Enhanced Business Intelligence
+**Enhanced Business Intelligence**
 
-Saves Time
+**Saves Time**
 
 **Big Data oriented**
 
-Enhanced Data Quality and Consistency
+**Enhanced Data Quality and Consistency**
 
 **Open Source**. Building your solution with Orienteer, you join a broad community that will support you and help you move on.
 
-Easy to Install and Use
+**Easy to Install and Use**
 
-High Return on Investment
+**High Return on Investment**
 
-... Orienteer-based solutions are scalable. A solution can go with a growing business from a single-persons workplace to a multi-branch business management solution.
+... Orienteer-based solutions are scalable. A solution can go with a growing business from a simple data model to a multi-branch business management solution.
 
 ##What businesses can enjoy Orienteer
 Developers of applied data warehouses, like ERP, CRM, whatever.
