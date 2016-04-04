@@ -26,11 +26,10 @@ A: Yes. In the class of the document, you need to specify a parameter of type BI
 
 If this file will be a picture, you can show its thumbnail in the document. For this, in the BINARY parameter's settings specify its visualization: Image.
 
-> и такой вопрос, не совсем уловил, что за сущность "Документ", это тот документ из документоориентированной базы данных или какое-то другое понятие?
+**Q: What do you call a document? 
 
-OrientDB является мультипарадигмной базой данных. Поэтому в ней
-документ и объект в общем-то одно и тоже понятие. Ровно и как вершина
-или ребро графа.
+A: A document is an object of a class. 
+
 
 > и ещё вопрос, можно ли настраивать видимость (доступ) к объектам, основываясь на значениях филдов например, есть роль "контролёр" и она может видеть только объекты в статусе "На контроле"
 
