@@ -21,10 +21,10 @@
   Set password for the default user on the OrientDB server.
 * >orientdb.db.installator.username=&lt;admin name&gt;
 
-  Set the name of the user that will perform administrative stuff on the OrientDB server.
+  Set the name of the user that will perform administrative tasks on the OrientDB server.
 * >orientdb.db.installator.password=&lt;admin password&gt;
 
-  Set the password of the user that will perform administrative stuff on the OrientDB server.
+  Set the password of the user that will perform administrative tasks on the OrientDB server.
 
 If something missing, Orienteer will use default settings.
 
