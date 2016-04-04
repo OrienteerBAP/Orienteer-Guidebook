@@ -1,6 +1,6 @@
 # Creating the Orienteer Configuration File
 
-*orienteer.properties* is the file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties).
+*orienteer.properties* is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties).
 
 **Configurations**
 
