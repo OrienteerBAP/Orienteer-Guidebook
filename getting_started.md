@@ -9,4 +9,4 @@ Before installing Orienteer, you may want to check the [demo version](http://dem
 * [Set perspectives, roles and users](https://orienteer.gitbooks.io/orienteer/content/managing_users.html)
 * [Set security](https://orienteer.gitbooks.io/orienteer/content/security.html)
 * [Implement the schema of your business data model](https://orienteer.gitbooks.io/orienteer/content/managing_classes.html)
-* [Localize](https://orienteer.gitbooks.io/orienteer/content/localization.html)
+* [Localize classes and properties](https://orienteer.gitbooks.io/orienteer/content/localization.html)
