@@ -14,12 +14,6 @@ You can define security at the level of roles. For this, [go to the page of a ro
 
 ## Document based security
 
-If a document is an instance of a class, which extends the ORestricted class, you can define security on the document-by-document basis. For example, you can make a document visible for just one particular user.
-
-For details, see [OrientDB guide](http://orientdb.com/docs/2.1/Database-Security.html#record-level-security).
-
- 
-Есть 2 варианта это сделать:
-1) Использование типа документа (класса) OTriggered для того чтобы "реагировать" на onAfterRead: проверять значение и возвращать null
-
-2) С помощью java можно написать реализацию ORecordHook, которая бы и проверяла бы все что надо. Этот подход с точки зрения производительности более правильный.
+There are two options for setting security on document-by-document basis:
+* If a document is an instance of a class, which extends the ORestricted class, you can define security on the document-by-document basis. For example, you can make a document visible for just one particular user. For details, see [OrientDB guide](http://orientdb.com/docs/2.1/Database-Security.html#record-level-security).
+* For providing higher performance, you can implement a ORecordHook ... which would check credentials of the user that works with data.
