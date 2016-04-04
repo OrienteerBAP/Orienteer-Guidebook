@@ -42,7 +42,7 @@ The approach to building a data model in Orienteer inherits much from OrientDB. 
 ##Features coming in next versions
 
 * Backup/restore
-* Upgrading
+* Software upgrading
 * Export/import
 * Logging
 * Integration with third party software
