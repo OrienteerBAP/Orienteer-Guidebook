@@ -1,5 +1,6 @@
 # Orienteer guidebook
 
+**Why read this guide**
 Orienteer is a modern data warehouse for everyone and everything... Positioning...
 This guide will help you to:
 * deploy Orienteer.
@@ -8,6 +9,7 @@ This guide will help you to:
 * put data to the database, retrieve and visualize it.
 * make a deeper customization by developing your modules for Orienteer.
 
+**Audience**
 This guide will be interesting to:
 * Business owners and executive managers, who can check if Orinenteer can add value to their business.
 * Integrators and developers, who can find guidelines for providing solutions to their customers.
