@@ -1,6 +1,6 @@
 # Installing Orienteer
----
-**Installation options**
+
+##Installation options
 
 You have two options for installing Orienteer:
 * In embedded mode (on an application server).   Orienteer can be installed on all famous compatible web containers:
@@ -14,8 +14,8 @@ You have two options for installing Orienteer:
 
 * In standalone mode (on any computer that runs Java environment).
 
----
-**Installing Orienteer in embedded mode**
+
+##Installing Orienteer in embedded mode
 
 
 Download the latest installation file *orienteer.war* ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
@@ -33,8 +33,8 @@ To install Orienteer over the administration console of your application server:
   * If you don't want to create a configuration file, you can set network parameters of Orienteer in management console and other parameters in system environment variables. 
 5. Run the application server.
 
----
-**Installing Orienteer in standalone mode**
+
+##Installing Orienteer in standalone mode
 
 In standalone mode, Orienteer runs itself with an embedded jetty server.
 
