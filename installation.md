@@ -3,28 +3,30 @@
 **Installation options**
 
 You have two options for installing Orienteer:
-* in embedded mode (on an application server)
-* in standalone mode (on any computer that runs Java environment)
+* In embedded mode (on an application server).   Orienteer can be installed on all famous compatible web containers:
+  * Jboss
+  * Weblogic
+  * IBM WebSphere
+  * Apache Tomcat
+  * Jetty
+  * and others
+
+* In standalone mode (on any computer that runs Java environment).
+
+
 ---
 **Installing Orienteer in embedded mode**
 
-Orienteer can be installed on all famous compatible web containers:
-* Jboss
-* Weblogic
-* IBM WebSphere
-* Apache Tomcat
-* Jetty
-* and others
 
-To install Orienteer in embedded mode, download the latest installation file *orienteer.war* ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
+Download the latest installation file *orienteer.war* ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
 
-If you want to install Orienteer without using the administration console:
+To install Orienteer without using the administration console:
 1. Copy the installation file to the  application deployment folder.
 2. Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 3. Copy the *orienteer.properties* file to the directory containing *orienteer.properties* file or to any directory above.
 4. Run the application server.
 
-If you want to install Orienteer over the administration console of your application server:
+To install Orienteer over the administration console of your application server:
 1. Deploy the installation file on your application server over administration console.
 2. Configure Orienteer by one of the following ways:
   * Create the Orienteer configuration file *orienteer.properties* and edit it according to your environment (see [Editing the Orienteer Configuration File](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)) and copy it to...
