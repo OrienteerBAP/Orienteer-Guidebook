@@ -1,6 +1,7 @@
 # Orienteer guidebook
 
 **Why read this guide**
+
 Orienteer is a modern data warehouse for everyone and everything... Positioning...
 This guide will help you to:
 * deploy Orienteer.
