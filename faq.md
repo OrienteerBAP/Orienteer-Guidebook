@@ -30,24 +30,13 @@ If this file will be a picture, you can show its thumbnail in the document. For 
 
 A: A document is an object of a class. 
 
-**Q: Can I implement actions that will work when a document fits to some criteria? For instance, when some property of a document takes a value within some range?
+**Q: Can I implement actions that will work when a document fits to some criteria? For instance, when some property of a document takes a value within some range?**
 
-A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
+A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. They may trigger  any automatic actions, from screen notifications or emails to making outomatic records to a log. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
-**Q: Similarly, can I set Orienteer to do specific actions on more complicated coincidences of data from many properties of many documents? For example, identifying statistical outlyers between many documents.
+**Q: Similarly, can Orienteer do specific actions on complicated coincidences of data from many properties of many documents? For example, identifying statistical outlyers.**
 
 A: Yes. Similarly, this will require using hooks (triggers) by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
-
-
-> ещё интересует штука с оповещениями
-> например, "при определенных значениях полей сделай то-то"
-
-Есть - использование того же OTriggered: на событие onBeforeUpdate
-
-> и есть ли такие вычислимые поля, которые позволят сделать такую штуку: задается пороговое значение и постоянно сравнивается с фактическим, при достижении некоторой дельты -- алярм, или объект раскрасить, или нотифай послать
-
-Не очен понял разницу с предыдущим вопросом. При записи можно
-вычислить все что надо и послать аларм.
 
 > ещё вопрос по производительности, на каком количестве объектов и классов начинает ощутимо тормозить? (отклик больше 500мс)
 
