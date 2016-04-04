@@ -51,7 +51,7 @@ To install Orienteer in standalone mode:
     the path to the Orienteer configuration file.
  * >--embedded
    
-    By default Orienteer runs an external OrientDB database. By giving this parameter you make it run an embedded OrientDB database.
+    By default Orienteer runs an external OrientDB database. If you give this parameter, Orienteer will run an embedded OrientDB database.
   * >--port=&lt;port number&gt;
   
     run Orienteer on a specified port (by default: 8080).
