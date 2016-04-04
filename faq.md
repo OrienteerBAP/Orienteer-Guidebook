@@ -32,8 +32,11 @@ A: A document is an object of a class.
 
 **Q: Can I implement actions that will work when a document fits to some criteria? For instance, when some property of a document takes a value within some range?
 
-A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For more information, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
-A document is an object of a class. 
+A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
+
+**Q: Similarly, can I set Orienteer to do specific actions on more complicated coincidences of data from many properties of many documents? For example, identifying statistical outlyers between many documents.
+
+A: Yes. Similarly, this will require using hooks (triggers) by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
 
 > ещё интересует штука с оповещениями
