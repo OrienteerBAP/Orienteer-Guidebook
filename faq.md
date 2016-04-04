@@ -21,7 +21,7 @@ A: Yes, Orienteer platform will always be free. Our monetization is in:
 
 A: Yes. In the class of the document, you need to specify a parameter of type BINARY. You will then be able to attach a file as this parameter to a document. This file will be downloadable from the document.
 
-If this file will be a picture, you can show its thumbnail in the document. For this, in the BINARY paramente's settings additionally specify *Visualization=Image*.
+If this file will be a picture, you can show its thumbnail in the document. For this, in the BINARY parameter's settings specify its visualization: Image.
 
 > и такой вопрос, не совсем уловил, что за сущность "Документ", это тот документ из документоориентированной базы данных или какое-то другое понятие?
 
