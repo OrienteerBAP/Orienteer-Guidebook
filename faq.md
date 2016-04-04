@@ -26,19 +26,15 @@ A: Yes. In the class of the document, you need to specify a parameter of type BI
 
 If this file will be a picture, you can show its thumbnail in the document. For this, in the BINARY parameter's settings specify its visualization: Image.
 
-**Q: What do you call a document? 
+**Q: What do you call a document? **
 
 A: A document is an object of a class. 
 
+**Q: Can I implement actions that will work when a document fits to some criteria? For instance, when some property of a document takes a value within some range?
 
-> и ещё вопрос, можно ли настраивать видимость (доступ) к объектам, основываясь на значениях филдов например, есть роль "контролёр" и она может видеть только объекты в статусе "На контроле"
+A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. For more information, [see OrientDB guide]().
+A document is an object of a class. 
 
-Есть 2 варианта это сделать:
-1) Использование типа документа (класса) OTriggered для того чтобы
-"реагировать" на onAfterRead: проверять значение и возвращать null
-2) С помощью java можно написать реализацию ORecordHook, которая бы и
-проверяла бы все что надо. Этот подход с точки зрения
-производительности более правильный.
 
 > ещё интересует штука с оповещениями
 > например, "при определенных значениях полей сделай то-то"
@@ -66,3 +62,12 @@ A: A document is an object of a class.
 но хотелось бы понять все в совокупности.
 
 
+
+> и ещё вопрос, можно ли настраивать видимость (доступ) к объектам, основываясь на значениях филдов например, есть роль "контролёр" и она может видеть только объекты в статусе "На контроле"
+
+Есть 2 варианта это сделать:
+1) Использование типа документа (класса) OTriggered для того чтобы
+"реагировать" на onAfterRead: проверять значение и возвращать null
+2) С помощью java можно написать реализацию ORecordHook, которая бы и
+проверяла бы все что надо. Этот подход с точки зрения
+производительности более правильный.
