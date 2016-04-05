@@ -8,7 +8,7 @@ Image: architecture
 | Module | Description |
 | -- | -- |
 | Orienteer Core | Core module of Orienteer which contains the most important things for system operation |
-| Orienteer Graph | |
+| Orienteer Graph | Module to work with graphs more easily and friendly|
 | Orienteer Pages | |
 | Orieneer PivotTable | |
 | Orienteer Standalone | |
