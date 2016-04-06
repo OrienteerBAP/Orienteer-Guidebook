@@ -1,12 +1,12 @@
 # Creating the Orienteer Configuration File
 
-*orienteer.properties* is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties).
+*orienteer.properties* is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties). 
 
 **Configurations**
 
 * >orienteer.production=[true|false]
 
-  Run Orienteer in the production mode (true) or in the development mode (false).
+    Run Orienteer in the production mode (true) or in the development mode (false). The production mode provides broader means for debugging. 
 * >orientdb.embedded=[true|false]
 
   Run an embedded OrientDB server (true) or an external OrientDB server (false).
