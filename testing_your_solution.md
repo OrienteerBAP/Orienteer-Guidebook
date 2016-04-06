@@ -1,6 +1,12 @@
 # Testing Your Solution
 
-Use Orienteer testing micro-framework
+You can use Orienteer testing micro-framework to test a module you develop for Orienteer or an application you build within Orienteer framework.
+
+Is this about using orienteer as a framework or about testing a module for orienteer?
+
+
+Actually both: and for custom module or custom web application on top of Orienteer. Whenever Orienteer is being used: this info might be useful
+
 
 There are 2 ways to enable Orienteer testing framework:
 
