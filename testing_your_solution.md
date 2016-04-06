@@ -2,8 +2,6 @@
 
 You can use Orienteer testing micro-framework to test a module you develop for Orienteer or a web application you build above Orienteer framework.
 
-There are 2 ways to enable Orienteer testing framework:
-
 ##Use of OrienteerTestRunner
 
     @RunWith(OrienteerTestRunner.class)
