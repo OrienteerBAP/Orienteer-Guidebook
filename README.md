@@ -1,13 +1,13 @@
 # Orienteer guidebook
 
 
-Orienteer is a modern data warehouse for everyone and everything... Positioning...
+Orienteer is a modern business application platform
 
 **Why read this guide**
 
 This guide will help you to:
 * deploy Orienteer.
-* set user rights and secutiry rules.
+* set user rights and security rules.
 * customize a data model for your specific business 
 * put data to the database, retrieve and visualize it.
 * make a deeper customization by developing your modules for Orienteer.
