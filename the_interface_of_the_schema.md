@@ -8,8 +8,9 @@ On this tab you can view all existing classes in your database and some of their
 Class management buttons:
 * **Cleate**, **Delete**  for creating and deleting classes.
 * **Edit**  for editing the parameters visible in the list of classes (Super Classes, Abstract etc).
-* **Reload**  for ...
-* **Export** and **Import**  for ...
+* **Reload**  for re-reading of schema from database
+* **Export** for exporting of whole schema to a file 
+* **Import** for importing of whole schema from a local file
 * **View in UML** for viewing the classes that you select with check boxes on a UML diagram.
 
 To edit properties of a class, click its name.
@@ -21,9 +22,9 @@ Lets you configure indexes. The indexing approach follows [that of OrientDB](htt
 
 On this page you can view and configure the following attributes of indexes:
 * **Type**, a type of the index according to OrientDB approach.
-* **Fields** ...
-* **Collate** ...
-* **Is null values ignored**.
+* **Fields** a list of fields which included into an index.
+* **Collate** a rule of comparison: either default of CI (case insensitive)
+* **Is null values ignored** flag to mark indexes which should ignore null values during index
 
 ## The Database tab
 
