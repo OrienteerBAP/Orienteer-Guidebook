@@ -2,17 +2,17 @@
 
 ##Installation options
 
-You have two options for installing Orienteer:
-* In embedded mode (on an application server).   Orienteer can be installed on all famous compatible web containers:
-  * Jboss
-  * Weblogic
-  * IBM WebSphere
-  * Apache Tomcat
-  * Jetty
+There are two options for Orienteer installation:
+* Embedded mode: on an application server.   Orienteer can be installed on all famous compatible web application servers:
+  * [WildFly/Jboss](http://wildfly.org/)
+  * [Weblogic](https://www.oracle.com/middleware/weblogic/index.html)
+  * [IBM WebSphere](http://www-03.ibm.com/software/products/en/appserv-was)
+  * [Apache Tomcat](http://tomcat.apache.org/)
+  * [Jetty](http://www.eclipse.org/jetty/)
   * and others
 
 
-* In standalone mode (on any computer that runs Java environment).
+* Standalone mode: on any computer that runs Java environment.
 
 
 ##Installing Orienteer in embedded mode
