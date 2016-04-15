@@ -1,11 +1,13 @@
 # Configuring Database Properties
 
-You can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. Parameters:
+Commonly there is no need to configure OrientDB database manually, because Orienteer take care of that, but in specific cases you can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. 
+
+###Parameters:
 
 ####General settings
-* **Type**
-* **Status**
-* **Default Cluster Id**
+* **Type** - type of the database. It's 'graph' by default
+* **Status** - status of a database. Should be ACTIVE.
+* **Default Cluster Id** - id of a cluster which should be considered by OrientDB as default
 
 ####Date, time and location
 * **Date Format**, e.g. *yyyy-MM-dd*
@@ -17,9 +19,9 @@ You can configure the database on the **Schema** page (URL */schema*), on the **
 
 ####Other settings
 
-* **Charset** sets the character encoding.
-* **Custom**
-* **Cluster Selection**
+* **Charset** - sets the character encoding.
+* **Custom** - some specific custom settings
+* **Cluster Selection** - approach for cluster selection
 * **Minimum Clusters**
-* **Conflict Strategy**
-* **Validation*** 
+* **Conflict Strategy** - selected strategy of conflicts resolution
+* **Validation*** - should validation be enabled
