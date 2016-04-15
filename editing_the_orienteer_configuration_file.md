@@ -30,18 +30,16 @@ If something missing, Orienteer will use default settings.
 
 **Default settings**
 
->orienteer.production=false
->
->orientdb.embedded=true
->
->orientdb.url=plocal:Orienteer
->
->orientdb.db.username=reader
->
->orientdb.db.password=reader
->
->orientdb.db.installator.username=admin
->
->orientdb.db.installator.password=admin
->
->orienteer.image.logo=/org/orienteer/core/web/logo.png
+You can always find default settings [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer-core/src/main/resources/orienteer-default.properties)
+
+```
+orienteer.production=false
+orientdb.embedded=true
+orientdb.url=plocal:Orienteer
+orientdb.db.username=reader
+orientdb.db.password=reader
+orientdb.db.installator.username=admin
+orientdb.db.installator.password=admin
+orienteer.image.logo=/org/orienteer/core/web/logo.png
+orienteer.authenticatelazy=true
+```
