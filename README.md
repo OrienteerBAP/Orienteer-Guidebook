@@ -6,11 +6,11 @@ Orienteer is a modern business application platform
 **Why read this guide**
 
 This guide will help you to:
-* deploy Orienteer.
-* set user rights and security rules.
-* customize a data model for your specific business 
-* put data to the database, retrieve and visualize it.
-* make a deeper customization by developing your modules for Orienteer.
+* install Orienteer
+* define a data model for your specific business
+* set user rights and security rules
+* put data to the database, retrieve and visualize it
+* make a deeper customization by developing your modules
 
 
 **Audience**
