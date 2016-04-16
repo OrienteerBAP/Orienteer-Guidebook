@@ -1,7 +1,7 @@
 # Orienteer guidebook
 
 
-Orienteer is a modern business application platform
+Orienteer is a flexible business application development platform. It lets you build full-feature dedicated enterprise apps, like CRM, ERP, Supply Chain Management or whatever. Orienteer provides flexible, scalable and extendable solutions that are easy to scale up as their underlying business grows.
 
 **Why read this guide**
 
@@ -16,8 +16,7 @@ This guide will help you to:
 **Audience**
 
 This guide will be interesting to:
-* Business owners and executive managers, who can check if Orinenteer can add value to their business.
+* Business owners and executive managers, who can check what value will  Orinenteer add to their business.
 * Integrators and developers, who can find guidelines for providing solutions to their customers.
-* System administrators, who will learn how to manage users and their rights in Orienteer database and to adjust the data model as its requirements change through time.
-* .... check this list agains the list of use cases and make it more genetic
+* Administrators of dedicated bysiness apps developed with Orienteer, who will learn how to manage users and their rights in Orienteer database and to adjust the data model without the need to involve developers.
 
