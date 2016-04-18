@@ -17,7 +17,7 @@
      * [Localization](localization.md)
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * User's chapter
-* [Orienteer Programming](orienteer_programming_for_developers.md)
+* [Developer's chapter](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
