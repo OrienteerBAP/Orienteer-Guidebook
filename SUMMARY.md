@@ -33,5 +33,5 @@
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
-* Supplementary. Supported visualisation types
+* [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
 
