@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
+       * User roles in this guide
    * [Architecture](architecture.md)
 * [The administrator's chapter](the_administrators_chapter.md)
    * [Starting with Orienteer](getting_started.md)
