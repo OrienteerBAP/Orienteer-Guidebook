@@ -14,17 +14,19 @@ Class management buttons:
 * **View in UML** for viewing the classes that you select on a UML diagram
 
 To edit properties of a class, click its name.
-To view documents belonging to a class, click its **Browse class** button (on the right of the screen).
+To view documents belonging to a class, click its **Browse class** button: 
+
+![Browse class button](Browse class1.png)
 
 ## The Indexes tab
 
-Lets you configure indexes. The indexing approach follows [that of OrientDB](http://orientdb.com/docs/2.1/Indexes.html).
+On this tab, you can configure indexes. The indexing approach follows [that of OrientDB](http://orientdb.com/docs/2.1/Indexes.html).
 
 On this page you can view and configure the following attributes of indexes:
-* **Type**, a type of the index according to OrientDB approach.
-* **Fields** a list of fields which included into an index.
-* **Collate** a rule of comparison: either default of CI (case insensitive)
-* **Is null values ignored** flag to mark indexes which should ignore null values during index
+* **Type**, the type of the index according to OrientDB approach
+* **Fields**, the list of fields included into the index
+* **Collate**, a rule of comparison: either default of CI (case insensitive)
+* **Is null values ignored** flags indexes that should ignore null values during indexing
 
 ## The Database tab
 
