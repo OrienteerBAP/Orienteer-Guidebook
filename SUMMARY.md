@@ -9,7 +9,7 @@
        * [Installation](installation.md)
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
-   * [Managing Users and their Access](managing_users.md)
+   * [Managing Users](managing_users.md)
    * [Setting Security](security.md)
    * [Managing the Data Model](creating_and_managing_the_data_model.md)
        * [The Interface of the Schema](the_interface_of_the_schema.md)
