@@ -30,8 +30,8 @@ On the **Configuration** tab on a property page, you can set the following:
 * Determining how the property values show when you view a document:
   * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
   * **Order** sets the order in which this property shows: after other properties with smaller **Order** value and before the rest.
-* **Type** sets the data type of the property. For a list of data types see [OrientDB manual](http://orientdb.com/docs/last/Types.html).
-* **Visualization** defines specific way to visualize value 
+* **Type** sets the data type of the property (for the list of available data types see [OrientDB manual](http://orientdb.com/docs/last/Types.html))
+* **Visualization** defines specific way to visualize value (for the list of available vizualization types, see supplementary)
 * **Linked Class** lets you connect the class with another class.
 * **Inverse** sets inverse property for linkage properties.
 * **Mandatory** makes this property mandatory for creating a document.
