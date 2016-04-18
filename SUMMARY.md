@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
+* Administrator's chapter
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
    * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
@@ -30,5 +31,4 @@
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
-* Administrator's chapter
 
