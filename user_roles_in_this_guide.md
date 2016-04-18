@@ -8,5 +8,8 @@ This guide includes three chapters for three kinds of users:
   *  configure perspectives, which is the ways users can see the data
   *  configure security
 *  Orienteer application users, who input and retrieve the data.
-*  Develpers, who extend Orienteer application capacity beyond its basic 
-*  with customized software, provide its 
+*  Develpers, who extend Orienteer application capacity according to their advanced expericence, namely
+  *  use advanced Orienteer features (calculable properties etc)
+  *  develop customized software, widgets to work in Orienteer
+  *  integrate Orienteer application with other business applications
+  *  and do many other things  
