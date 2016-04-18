@@ -1,6 +1,4 @@
-# Orienteer Programming
-
-
+# The developer's chapter
 
 This chapter is for developers. Reading it may require experience in coding and database management.
 This chapter explains how you can:
