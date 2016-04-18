@@ -15,8 +15,8 @@
      * [The Interface of the Schema](the_interface_of_the_schema.md)
      * [Managing Classes](managing_classes.md)
      * [Localization](localization.md)
-   * [Entering and Viewing Data](entering_data_to_the_database.md)
 * User's chapter
+   * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Developer's chapter](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
