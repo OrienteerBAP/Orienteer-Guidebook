@@ -1,0 +1,2 @@
+# Supplementary. Supported visualisation types
+
