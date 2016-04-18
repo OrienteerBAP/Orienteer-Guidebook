@@ -3,6 +3,7 @@
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
+* User's chapter
 * Administrator's chapter
    * [Starting with Orienteer](getting_started.md)
        * [Installation](installation.md)
@@ -31,5 +32,4 @@
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
-* User's chapter
 
