@@ -14,7 +14,7 @@
        * [The Interface of the Schema](the_interface_of_the_schema.md)
        * [Managing Classes](managing_classes.md)
        * [Localization](localization.md)
-* The user's chapter
+* [The user's chapter](the_users_chapter.md)
    * [Logon and User Interface](orienteer_user_interface.md)
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [The developer's chapter](orienteer_programming_for_developers.md)
