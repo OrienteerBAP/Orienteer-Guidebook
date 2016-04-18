@@ -2,32 +2,31 @@
 
 | OType | Visualisation | View | Edit | Comment |
 | -- | -- | -- | -- | -- |
-| 0:2 | 1:2 | 2:2 | 3:2 | 4:2 |
-| 0:3 | 1:3 | 2:3 | 3:3 | 4:3 |
-| 0:4 | 1:4 | 2:4 | 3:4 | 4:4 |
-| 0:5 | 1:5 | 2:5 | 3:5 | 4:5 |
-| 0:6 | 1:6 | 2:6 | 3:6 | 4:6 |
-| 0:7 | 1:7 | 2:7 | 3:7 | 4:7 |
-| 0:8 | 1:8 | 2:8 | 3:8 | 4:8 |
-| 0:9 | 1:9 | 2:9 | 3:9 | 4:9 |
-| 0:10 | 1:10 | 2:10 | 3:10 | 4:10 |
-| 0:11 | 1:11 | 2:11 | 3:11 | 4:11 |
-| 0:12 | 1:12 | 2:12 | 3:12 | 4:12 |
-| 0:13 | 1:13 | 2:13 | 3:13 | 4:13 |
-| 0:14 | 1:14 | 2:14 | 3:14 | 4:14 |
-| 0:15 | 1:15 | 2:15 | 3:15 | 4:15 |
-| 0:16 | 1:16 | 2:16 | 3:16 | 4:16 |
-| 0:17 | 1:17 | 2:17 | 3:17 | 4:17 |
-| 0:18 | 1:18 | 2:18 | 3:18 | 4:18 |
-| 0:19 | 1:19 | 2:19 | 3:19 | 4:19 |
-| 0:20 | 1:20 | 2:20 | 3:20 | 4:20 |
-| 0:21 | 1:21 | 2:21 | 3:21 | 4:21 |
-| 0:22 | 1:22 | 2:22 | 3:22 | 4:22 |
-| 0:23 | 1:23 | 2:23 | 3:23 | 4:23 |
-| 0:24 | 1:24 | 2:24 | 3:24 | 4:24 |
-| 0:25 | 1:25 | 2:25 | 3:25 | 4:25 |
-| 0:26 | 1:26 | 2:26 | 3:26 | 4:26 |
-| 0:27 | 1:27 | 2:27 | 3:27 | 4:27 |
-| 0:28 | 1:28 | 2:28 | 3:28 | 4:28 |
-| 0:29 | 1:29 | 2:29 | 3:29 | 4:29 |
-
+|BOOLEAN|default|true or false text|Checkbox||
+|INTEGER|default|text|text field||
+|SHORT|default|text|text field||
+|LONG|default|text|text field||
+|FLOAT|default|text|text field||
+|DOUBLE|default|text|text field||
+|DATETIME|default|text|text field with date-time picker||
+|STRING|default|text|text field||
+|BINARY|default|Link for file download|File upload||
+|BINARY|image|Image preview|Image upload|TBD Issue #42|
+|EMBEDDED|default|NOT SUPPORTED|NOT SUPPORTED|Should be improved|
+|EMBEDDEDLIST|default|table with a list|table with a list and modify controls|Linked Class is not supported|
+|EMBEDDEDSET|default|table with a set|table with a list and modify controls|Linked Class is not supported|
+|EMBEDDEDMAP|default|table with a map|table with a map|Linked Class is not supported|
+|LINK|default|A href to the entity|Document selector||
+|LINK|embedded|Embedded panel with the object|Selector|TBD Issue #21|
+|LINKLIST|default|List of links|List of links with controls||
+|LINKLIST|table|Table with references documents|Buttons to add, remove, select, release||
+|LINKSET|default|List of links|List of linkgs with controls||
+|LINKSET|table|Table with references documents|Buttons to add, remove, select, release||
+|LINKMAP|default|NOT SUPPORTED|NOT SUPPORTED|TBD|
+|BYTE|default|text|text field||
+|TRANSIENT|default|NOT SUPPORTED|NOT SUPPORTED||
+|DATE|default|text|text field with date picker||
+|CUSTOM|default|NOT SUPPORTED|NOT SUPPORTED||
+|DECIMAL|default|text|text field||
+|LINKBAG|default|List of links|NOT SUPPORTED|TBD|
+|ANY|default|NOT SUPPORTED|NOT SUPPORTED||
