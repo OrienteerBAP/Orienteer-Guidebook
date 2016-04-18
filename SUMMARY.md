@@ -30,4 +30,5 @@
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
+* Administrator's chapter
 
