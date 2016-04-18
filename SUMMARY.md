@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
-* Administrator's chapter
+* The administrator's chapter
    * [Starting with Orienteer](getting_started.md)
        * [Installation](installation.md)
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
@@ -15,9 +15,9 @@
      * [The Interface of the Schema](the_interface_of_the_schema.md)
      * [Managing Classes](managing_classes.md)
      * [Localization](localization.md)
-* User's chapter
+* The user's chapter
    * [Entering and Viewing Data](entering_data_to_the_database.md)
-* [Developer's chapter](orienteer_programming_for_developers.md)
+* The dDeveloper's chapter](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
