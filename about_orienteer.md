@@ -35,7 +35,8 @@ etc
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of classes connected as nodes. Objects (instances) of classes are called documents. You can find out more about OrientDB data model in [OrientDB documentation](http://orientdb.com/docs/last/).
 
 
-##Features coming in next versions
+##
+Features coming in next versions
 
 * Backup/restore
 * Software upgrading
