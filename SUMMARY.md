@@ -3,7 +3,7 @@
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
    * [Architecture](architecture.md)
-* The administrator's chapter
+* [The administrator's chapter](the_administrators_chapter.md)
    * [Starting with Orienteer](getting_started.md)
        * [Installation](installation.md)
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
