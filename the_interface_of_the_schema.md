@@ -6,12 +6,12 @@ You can access the Schema page by clicking **Schema** on the navigation page (UR
 
 On this tab you can view all existing classes in your database and some of their attributes. Some are predefined ([see supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_predefined_classes.html)).
 Class management buttons:
-* **Cleate**, **Delete**  for creating and deleting classes.
-* **Edit**  for editing the parameters visible in the list of classes (Super Classes, Abstract etc).
+* **Cleate**, **Delete**  for creating and deleting classes
+* **Edit**  for editing the parameters Super Classes, Abstract and Strict mode (the ones you can see in list of classes)
 * **Reload**  for re-reading of schema from database
-* **Export** for exporting of whole schema to a file 
-* **Import** for importing of whole schema from a local file
-* **View in UML** for viewing the classes that you select with check boxes on a UML diagram.
+* **Export** for exporting the whole schema to a file 
+* **Import** for importing the whole schema from a local file
+* **View in UML** for viewing the classes that you select on a UML diagram
 
 To edit properties of a class, click its name.
 To view documents belonging to a class, click its **Browse class** button (on the right of the screen).
