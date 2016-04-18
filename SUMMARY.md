@@ -11,10 +11,10 @@
    * [Managing Users and their Access](managing_users.md)
    * [Setting Security](security.md)
    * [Logon and User Interface](orienteer_user_interface.md)
-  * [Managing the Data Model](creating_and_managing_the_data_model.md)
-     * [The Interface of the Schema](the_interface_of_the_schema.md)
-     * [Managing Classes](managing_classes.md)
-     * [Localization](localization.md)
+       * [Managing the Data Model](creating_and_managing_the_data_model.md)
+       * [The Interface of the Schema](the_interface_of_the_schema.md)
+       * [Managing Classes](managing_classes.md)
+       * [Localization](localization.md)
    * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Orienteer Programming](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
@@ -31,4 +31,5 @@
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
+* User's chapter
 
