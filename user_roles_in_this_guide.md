@@ -12,4 +12,3 @@ This guide includes three chapters for three kinds of users:
   *  they use advanced Orienteer features (calculable properties etc)
   *  they develop customized software, widgets to work in Orienteer
   *  they integrate Orienteer application with other business applications
-  *  and they also do many other things  
