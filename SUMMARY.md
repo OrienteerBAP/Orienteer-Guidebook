@@ -9,7 +9,7 @@
      * [Installing as a Standalone Application](Installing as a Standalone Application.md)
      * [Installing as a WAR](Installing as a WAR.md)
    * [Architecture](architecture.md)
-   * * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
+   * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
    * [Managing Users](managing_users.md)
    * [Setting Security](security.md)
