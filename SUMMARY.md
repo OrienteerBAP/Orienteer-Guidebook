@@ -9,6 +9,7 @@
      * Installing as a Standalone Application
      * Installing in the Embedded Mode
    * [Architecture](architecture.md)
+   * Understanding Orienteer UI
    * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
    * [Managing Users](managing_users.md)
