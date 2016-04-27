@@ -7,7 +7,7 @@
    * [Installation](installation.md)
      * [System Requirements](System Requirements.md)
      * [Installing as a Standalone Application](Installing as a Standalone Application.md)
-     * [Installing as a WAR](Installing as a WAR.md)
+     * Installing as a WAR
    * [Architecture](architecture.md)
    * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
