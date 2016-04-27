@@ -5,8 +5,8 @@
    * [User roles in this guide](user_roles_in_this_guide.md)
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
-     * [System Requirements](System Requirements.md)
-     * [Installing as a Standalone Application](Installing as a Standalone Application.md)
+     * System Requirements
+     * Installing as a Standalone Application
      * Installing as a WAR
    * [Architecture](architecture.md)
    * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
