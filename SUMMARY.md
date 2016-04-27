@@ -18,7 +18,7 @@
    * [Setting Security](security.md)
 * [Create Your First Business Application](the_administrators_chapter.md)
 * Business Application Configuration
-* [The Data Model](creating_and_managing_the_data_model.md)
+   * [The Data Model](creating_and_managing_the_data_model.md)
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
