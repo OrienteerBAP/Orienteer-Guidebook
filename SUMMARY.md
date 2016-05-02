@@ -43,7 +43,7 @@
    * [Create a "Hello World" Widget](create_a_hello_world_widget.md)
    * Create a Custom Web Application
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
-       * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
+   * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
