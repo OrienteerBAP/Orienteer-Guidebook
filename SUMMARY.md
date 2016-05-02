@@ -21,7 +21,7 @@
        * [Calculable Properties](adding_calculable_properties.md)
        * Data Consistency Support
    * [User Interface Configuration](user_interface_configuration.md)
-   * [Setting Security](security.md)
+   * Security and User Access Management
        * [Managing Users](managing_users.md)
        * Document Level Security
    * [The Interface of the Schema](the_interface_of_the_schema.md)
