@@ -40,11 +40,11 @@
 * [Custom Orienteer Development](custom_orienteer_development.md)
    * Create Your Own Module
    * [Create a "Hello World" Widget](create_a_hello_world_widget.md)
+   * Create a Custom Web Application
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
        * [Creating Your Custom Guice Module](creating_your_custom_guice_module.md)
-       * Writing your web-application
    * [Testing Your Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
