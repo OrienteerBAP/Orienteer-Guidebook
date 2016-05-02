@@ -30,7 +30,9 @@
    * Triggers
    * Scheduler Setup
    * Pages
-   * Extensions and Other Widgets
+   * Creating Extensions and Other Widgets
+     * HTML JS Widget
+     * Pivot Table Module
 * [The developer's chapter](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
