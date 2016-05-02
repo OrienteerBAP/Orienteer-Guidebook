@@ -1,4 +1,4 @@
-# Adding Calculable Properties
+# Calculable Properties
 
 When configuring a property, you can set it to take a calculable value. For this, [on the **edit property** page](https://orienteer.gitbooks.io/orienteer/content/managing_classes.html) check **Calculable** and put a script to the field **Script**. Use a script in OrientDB format. 
 
