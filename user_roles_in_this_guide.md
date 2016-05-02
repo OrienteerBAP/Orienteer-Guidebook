@@ -2,16 +2,14 @@
 
 This book will guide you through the Orienteer app lifecycle.
 
-**Orienteer app deployment and maintenance**
-* Installing Orienteer
-* Building an Orienteer app
-  * building a data model
-  * configuring the UI 
-  * importing the model and other configurations
-* Extending Orienteer with custom app modules
-* Integration with other apps
-* Maintenance
-
-**App usage**
-*  security and user management (app admin)
-*  entering, retrieving and inspecting the data (app user)
+| Activity | Role |
+| -- | -- |
+| **Orienteer app deployment and maintenance** |  |
+| Installing Orienteer |  |
+| Building an Orienteer app: building a data model, configuring the UI, importing the model and other configurations |  |
+| Extending Orienteer with custom app modules | Developer |
+| Integration with other apps | 1:6 |
+| Maintenance | 1:6 |
+| **App usage** |  |
+| security and user management | app admins |
+| entering, retrieving and inspecting the data | app users |
