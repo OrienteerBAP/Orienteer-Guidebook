@@ -31,15 +31,15 @@
    * Scheduler Setup
    * Pages
    * Creating Extensions and Other Widgets
-     * HTML JS Widget
-     * Pivot Table Module
-     * Graph Module
-     * Map Visualisation Module
+       * HTML JS Widget
+       * Pivot Table Module
+       * Graph Module
+       * Map Visualisation Module
 * Integration with Other Business Applications
    * REST/HTTP API
 * [Custom Orienteer Development](custom_orienteer_development.md)
    * Create Your Own Module
-   * Create a "Hello World" Widget
+   * [Create a "Hello World" Widget](create_a_hello_world_widget.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
