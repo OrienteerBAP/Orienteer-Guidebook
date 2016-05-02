@@ -24,7 +24,7 @@
    * Security and User Access Management
        * [Managing Users](managing_users.md)
        * Document Level Security
-   * Managing Perspectives
+   * Perspectives Management
    * [Localization](localization.md)
 * [The user's chapter](the_users_chapter.md)
    * [Logon and User Interface](orienteer_user_interface.md)
