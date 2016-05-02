@@ -1,15 +1,15 @@
 # User roles in this guide
 
-This guide includes three chapters for three kinds of users:
+This book will guide you through the Orienteer app lifecycle.
 
-* Orienteer administrators, who maintain the Orienteer-based application, namely
-  *  install Orienteer
-  *  build the data model and omplement it in the particular schema
-  *  configure users and their rights
-  *  configure perspectives, which is the ways users can see the data
-  *  configure security
-*  Orienteer application users, who  input,  retrieve and inspect data.
-*  Developers, who extend Orienteer application capacity according to their advanced experience. For example:
-  *  they use advanced Orienteer features (calculable properties etc)
-  *  they develop customized software, widgets to work in Orienteer
-  *  they integrate Orienteer application with other business applications
+**Orienteer app deployment and maintenance**
+* Installing Orienteer
+* Building the app
+  * building a data model
+  * configuring the UI 
+* Extending Orienteer with custom app modules
+* Maintenance
+
+**App usage**
+*  security and user management (app admin)
+*  entering, retrieving and inspecting the data (app user)
