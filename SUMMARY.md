@@ -13,7 +13,6 @@
    * Understanding Orienteer UI
      * Dashboards and Widgets
      * Perspectives
-   * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Create Your First Business Application](the_administrators_chapter.md)
 * Business Application Configuration
    * [The Data Model](creating_and_managing_the_data_model.md)
@@ -38,6 +37,7 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
+* -onfiguring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
