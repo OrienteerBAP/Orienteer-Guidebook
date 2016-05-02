@@ -19,8 +19,10 @@
      * Initial Data Model Configuration
      * Visualizers
      * [Calculable Properties](adding_calculable_properties.md)
+     * Data Consistency Support
    * [Setting Security](security.md)
      * [Managing Users](managing_users.md)
+     * Document Level Security
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
