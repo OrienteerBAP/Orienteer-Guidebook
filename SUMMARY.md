@@ -41,7 +41,7 @@
    * [Set up the Development Environment](the_setup_of_development_environment.md)
    * Create Your Own Module
    * [Create a "Hello World" Widget](create_a_hello_world_widget.md)
-   * Create a Custom Web Application
+   * [Create a Custom Web Application](create_a_custom_web_application.md)
    * [Create a Custom Guice Module](creating_your_custom_guice_module.md)
    * [Test Your Custom Solution](testing_your_solution.md)
 * [FAQ - Frequently Asked Questions](faq.md)
