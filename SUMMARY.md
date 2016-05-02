@@ -37,7 +37,7 @@
      * Map Visualisation Module
 * Integration with Other Business Applications
    * REST/HTTP API
-* [The developer's chapter](orienteer_programming_for_developers.md)
+* [Custom Orienteer Development](orienteer_programming_for_developers.md)
    * [The Setup of Development Environment](the_setup_of_development_environment.md)
    * Using Orienteer as Development a Framework
    * [Developing a Module for Orienteer](developing_a_module_for_orienteer.md)
