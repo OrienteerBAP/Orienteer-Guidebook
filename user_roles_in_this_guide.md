@@ -4,7 +4,7 @@ This book will guide you through the Orienteer app lifecycle.
 
 **Orienteer app deployment and maintenance**
 * Installing Orienteer
-* Building the app
+* Building an Orienteer app
   * building a data model
   * configuring the UI 
   * importing the model and other configurations
