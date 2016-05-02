@@ -20,6 +20,7 @@
      * Visualizers
      * [Calculable Properties](adding_calculable_properties.md)
      * Data Consistency Support
+   * User Interface Configuration
    * [Setting Security](security.md)
      * [Managing Users](managing_users.md)
      * Document Level Security
