@@ -1,4 +1,4 @@
-# The developer's chapter
+# Custom Orienteer Development
 
 This chapter is for developers. Reading it may require experience in coding and database management.
 This chapter explains how you can:
