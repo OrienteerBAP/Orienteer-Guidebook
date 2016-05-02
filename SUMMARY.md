@@ -24,7 +24,6 @@
    * Security and User Access Management
        * [Managing Users](managing_users.md)
        * Document Level Security
-   * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
 * [The user's chapter](the_users_chapter.md)
@@ -42,7 +41,8 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
-* -onfiguring Database Properties](creating_a_database_and_configuring_its_properties.md)
+* [The Interface of the Schema](the_interface_of_the_schema.md)
+* [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
