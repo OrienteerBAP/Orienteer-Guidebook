@@ -5,25 +5,25 @@
    * [User roles in this guide](user_roles_in_this_guide.md)
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
-     * System Requirements
-     * Installing as a Standalone Application
-     * Installing in the Embedded Mode
-     * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
+       * System Requirements
+       * Installing as a Standalone Application
+       * Installing in the Embedded Mode
+       * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Architecture](architecture.md)
    * Understanding Orienteer UI
-     * Dashboards and Widgets
-     * Perspectives
+       * Dashboards and Widgets
+       * Perspectives
 * [Create Your First Business Application](the_administrators_chapter.md)
 * Business Application Configuration
    * [The Data Model](creating_and_managing_the_data_model.md)
-     * Initial Data Model Configuration
-     * Visualizers
-     * [Calculable Properties](adding_calculable_properties.md)
-     * Data Consistency Support
-   * User Interface Configuration
+       * Initial Data Model Configuration
+       * Visualizers
+       * [Calculable Properties](adding_calculable_properties.md)
+       * Data Consistency Support
+   * [User Interface Configuration](user_interface_configuration.md)
    * [Setting Security](security.md)
-     * [Managing Users](managing_users.md)
-     * Document Level Security
+       * [Managing Users](managing_users.md)
+       * Document Level Security
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [Managing Classes](managing_classes.md)
    * [Localization](localization.md)
