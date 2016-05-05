@@ -7,7 +7,7 @@
    * [Installation](installation.md)
        * System Requirements
        * [Installing Orienteer as a Standalone Application](installing_as_a_standalone_application.md)
-       * Installing in the Embedded Mode
+       * Installing Orienteer in the Embedded Mode
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
