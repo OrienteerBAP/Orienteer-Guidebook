@@ -10,10 +10,6 @@ To select another perspective available for your role, on the top right, click !
 
 
 
-dashboard,
-widget, 
-widget's domains,
-perspective
-
-
-
+dashboard
+widget
+widget's domains
