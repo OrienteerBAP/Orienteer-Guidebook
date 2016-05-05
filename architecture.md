@@ -9,9 +9,9 @@ Image: architecture
 | -- | -- |
 | Orienteer Core | The core module of Orienteer, which contains its operation essentials |
 | Orienteer Graph | The module that makes working with graphs easier and friendlier|
-| Orienteer Pages | The basic  CMS functionality (letting you )|
+| Orienteer Pages | The basic CMS functionality |
 | Orieneer PivotTable | Integration with [JS Pivot Table](http://nicolas.kruchten.com/pivottable/examples/)|
-| Orienteer Standalone | Wrapper to run Orienteer in standalone mode|
+| Orienteer Standalone | The wrapper used to run Orienteer in the standalone mode|
 | Orienteer WAR | Packer to default war file which can be deployed on any web application|
 | Orienteer Maven Jar Archetype | Maven Archetype to bootstrap your own module for Orienteer|
 | Orienteer Maven War Archetype | Maven Archetype to bootstrap your custom web application on top of Orienteer|
