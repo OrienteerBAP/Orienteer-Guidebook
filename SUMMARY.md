@@ -11,8 +11,6 @@
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
-       * Dashboards and Widgets
-       * Perspectives
 * [Create Your First Business Application](the_administrators_chapter.md)
 * Business Application Configuration
    * [The Data Model](creating_and_managing_the_data_model.md)
