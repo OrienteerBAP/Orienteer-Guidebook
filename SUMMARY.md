@@ -52,10 +52,11 @@
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
-* [The Interface of the Schema](the_interface_of_the_schema.md)
-* [Managing Classes](managing_classes.md)
-* [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
-* [Entering and Viewing Data](entering_data_to_the_database.md)
+* Temp
+  * [The Interface of the Schema](the_interface_of_the_schema.md)
+  * [Managing Classes](managing_classes.md)
+  * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
+  * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
