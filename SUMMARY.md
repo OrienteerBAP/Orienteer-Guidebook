@@ -35,7 +35,7 @@
        * Pivot Table Module
        * Graph Module
        * Map Visualisation Module
-* Integration with Other Business Applications
+* Integration of a Business Application
    * REST/HTTP API
 * [Custom Orienteer Development](custom_orienteer_development.md)
    * [Set up the Development Environment](the_setup_of_development_environment.md)
