@@ -45,10 +45,9 @@
    * [Create a Custom Guice Module](creating_your_custom_guice_module.md)
    * [Test Your Custom Solution](testing_your_solution.md)
 * How-To's
-* Administration
+* Administration and Maintenance
    * [Migrating Data from RDBMs](migrating_data_from_rdbms.md)
    * Troubleshooting
-   * Maintenance
    * Backup and Restore
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
