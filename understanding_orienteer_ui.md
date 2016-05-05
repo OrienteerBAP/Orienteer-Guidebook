@@ -23,5 +23,4 @@ Example: the default set of widgets on a page of a class includes tabs: *Configu
 widget's domains
 
 ## Dashboards
-dashboard
-
+...
