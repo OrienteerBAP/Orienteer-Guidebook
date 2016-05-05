@@ -18,8 +18,6 @@ The administrator sets each page to display a particular set of **widgets**. Wid
 Example: the default set of widgets on a page of a class includes widgets Configuration, Properties, Indexes, Custom properties.
 
 
-
-
 widget's domains
 
 ## Dashboards
