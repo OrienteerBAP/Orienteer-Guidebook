@@ -30,7 +30,7 @@
    * Triggers
    * Scheduler Setup
    * Pages
-   * Creating Extensions and Other Widgets
+   * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
        * HTML JS Widget
        * Pivot Table Module
        * Graph Module
