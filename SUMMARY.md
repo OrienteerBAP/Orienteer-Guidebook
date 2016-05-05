@@ -21,10 +21,10 @@
        * [Calculable Properties](adding_calculable_properties.md)
        * Data Consistency Support
    * [User Interface Configuration](user_interface_configuration.md)
+   * Perspectives Management
    * Security and User Access Management
        * [Managing Users](managing_users.md)
        * Document Level Security
-   * Perspectives Management
    * [Localization](localization.md)
    * Functions
    * Triggers
