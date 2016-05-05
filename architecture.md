@@ -23,5 +23,5 @@ Image: architecture
 | -- | -- |
 | [OrientDB](https://github.com/orientechnologies/orientdb) | A paradigmatic NoSQL database to provide the Persistence Layer in Orienteer|
 | [Apache Wicket](http://wicket.apache.org/) | A lightweight and extremely powerful web framework |
-| [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) | The itilitary library for comform work with OrientDB in Apache Wicket |
-| [Google Guice](https://github.com/google/guice) | The dependencies injection | 
+| [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) | An itilitary library for comform work with OrientDB in Apache Wicket |
+| [Google Guice](https://github.com/google/guice) | A framework for dependencies injection | 
