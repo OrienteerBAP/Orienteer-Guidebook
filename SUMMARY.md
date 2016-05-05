@@ -14,7 +14,7 @@
 * [Create Your First Business Application](the_administrators_chapter.md)
 * Business Application Configuration
    * [The Data Model](creating_and_managing_the_data_model.md)
-       * Initial Data Model Configuration
+       * [Initial Data Model Configuration](initial_data_model_configuration.md)
        * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
        * Data Consistency Support
@@ -51,10 +51,10 @@
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
 * Temp
-  * [The Interface of the Schema](the_interface_of_the_schema.md)
-  * [Managing Classes](managing_classes.md)
-  * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
-  * [Entering and Viewing Data](entering_data_to_the_database.md)
+   * [The Interface of the Schema](the_interface_of_the_schema.md)
+   * [Managing Classes](managing_classes.md)
+   * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
+   * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
