@@ -20,7 +20,7 @@ Example: the default set of widgets on a page of a class includes tabs: *Configu
 
 ![](Pages&widgets.png)
 
-widget's domains
+widget's domains ...
 
 ## Dashboards
 ...
