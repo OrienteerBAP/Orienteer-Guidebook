@@ -13,8 +13,8 @@ Image: architecture
 | Orieneer PivotTable | Integration with [JS Pivot Table](http://nicolas.kruchten.com/pivottable/examples/)|
 | Orienteer Standalone | The wrapper used to run Orienteer in the standalone mode|
 | Orienteer WAR | Packer to default war file which can be deployed on any web application|
-| Orienteer Maven Jar Archetype | Maven Archetype to bootstrap your own module for Orienteer|
-| Orienteer Maven War Archetype | Maven Archetype to bootstrap your custom web application on top of Orienteer|
+| Orienteer Maven Jar Archetype | The Maven Archetype toolkit to bootstrap your own module for Orienteer|
+| Orienteer Maven War Archetype | The Maven Archetype toolkit to bootstrap your custom web application on top of Orienteer|
 
 
 ## Libraries
