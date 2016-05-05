@@ -10,7 +10,7 @@
        * Installing in the Embedded Mode
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
    * [Architecture](architecture.md)
-   * Understanding Orienteer UI
+   * [Understanding Orienteer UI](understanding_orienteer_ui.md)
        * Dashboards and Widgets
        * Perspectives
 * [Create Your First Business Application](the_administrators_chapter.md)
@@ -45,10 +45,10 @@
    * [Create a Custom Guice Module](creating_your_custom_guice_module.md)
    * [Test Your Custom Solution](testing_your_solution.md)
 * Administration
-  * Initial Data Migration
-  * Troubleshooting
-  * Maintenance
-  * BAckup and Restore
+   * Initial Data Migration
+   * Troubleshooting
+   * Maintenance
+   * BAckup and Restore
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
