@@ -13,12 +13,12 @@ Example (the default perspective):
 
 For each user role, the Orienteer app administrator allocates a set of available perspectives to select from, one of which is the default. When a user logs in, he views the default perspective. To select another perspective, the user will need to click ![](UI-selecting-perspectives.jpg) on the top right.
 
-## Tabs
-The administrator can set each page to display a given set of tabs. 
+## Tabs and widgets
+The administrator can set each page to display a given set of **tabs**, and each tab to display a particular set of **widgets**. Widgets may display a variety of data, including tables, graphs and custom widgets developed for a particular app.
 
-## Widgets
-The administrator can set each page or a tab to display a particular set of **widgets**. Widgets may display a variety of data, including tables, graphs and custom widgets developed for a particular app.
-Example: the default set of widgets on a page of a class includes widgets Configuration, Properties, Indexes, Custom properties.
+Example: the default set of widgets on a page of a class includes tabs: *Configuration*, *Localization*, *Security*, *Subclasses*. The *Configuration* tab includes widgets *Configuration*, *Properties*, *Indexes*, *Custom properties*.
+
+
 
 
 widget's domains
