@@ -1,2 +1,2 @@
-# Installing as a Standalone Application
+# Installing Orienteer as a Standalone Application
 
