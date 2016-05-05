@@ -7,9 +7,9 @@ Image: architecture
 
 | Module | Description |
 | -- | -- |
-| Orienteer Core | Core module of Orienteer which contains the most important things for system operation |
-| Orienteer Graph | Module to work with graphs more easily and friendly|
-| Orienteer Pages | Simple CMS functionality|
+| Orienteer Core | The core module of Orienteer, which contains its operation essentials |
+| Orienteer Graph | The module that makes working with graphs easier and friendlier|
+| Orienteer Pages | The basic  CMS functionality (letting you )|
 | Orieneer PivotTable | Integration with [JS Pivot Table](http://nicolas.kruchten.com/pivottable/examples/)|
 | Orienteer Standalone | Wrapper to run Orienteer in standalone mode|
 | Orienteer WAR | Packer to default war file which can be deployed on any web application|
