@@ -5,9 +5,11 @@ You implement you data model by creating classes and setting their properties. Y
 *  Orienteer supports inheritance between classes, so, a class may have a parent class.
 *  Orienteer is a graph + document type of database, so, properties of a class may contain links (references to other documents).
 
-When you can create or edit a class, you see this class's page. On the **Configuration** tab you can set class parameters. 
 
 ##Class Configuration
+
+You can create or edit a class on this class's page. On the **Configuration** tab you can set class parameters. 
+
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is shorten alias for the class name to be used in SQL to simplify wording.
