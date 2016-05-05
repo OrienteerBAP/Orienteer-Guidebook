@@ -46,7 +46,7 @@
    * [Test Your Custom Solution](testing_your_solution.md)
 * How-To's
 * Administration
-   * Initial Data Migration
+   * Migrating Data from RDMSs
    * Troubleshooting
    * Maintenance
    * BAckup and Restore
