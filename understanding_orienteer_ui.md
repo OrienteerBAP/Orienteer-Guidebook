@@ -18,7 +18,7 @@ The administrator can set each page to display a given set of **tabs**, and each
 
 Example: the default set of widgets on a page of a class includes tabs: *Configuration*, *Localization*, *Security*, *Subclasses*. The *Configuration* tab includes widgets *Configuration*, *Properties*, *Indexes*, *Custom properties*.
 
-
+![](Pages&widgets.png)
 
 
 widget's domains
