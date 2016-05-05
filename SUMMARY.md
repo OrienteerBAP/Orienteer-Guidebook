@@ -12,7 +12,7 @@
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
 * [Create Your First Business Application](the_administrators_chapter.md)
-* Business Application Configuration
+* [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Initial Data Model Configuration](initial_data_model_configuration.md)
        * Visualizers
