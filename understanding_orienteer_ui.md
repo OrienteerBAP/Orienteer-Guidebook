@@ -8,7 +8,7 @@ A perspective defines what page a user sees after logging in and what pages are 
 When you log in, you view the default perspective defined for your [role](https://orienteer.gitbooks.io/orienteer/content/managing_users.html). 
 To select another perspective available for your role, on the top right, click ![](UI-selecting-perspectives.jpg).
 
-
+## Dashboards
 
 dashboard
 widget
