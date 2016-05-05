@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
+   * Conventions of this Document
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
        * [Installation Options and System Requirements](installation_options_and_system_requirements.md)
