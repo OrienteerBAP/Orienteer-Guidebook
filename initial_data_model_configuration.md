@@ -54,7 +54,7 @@ On the **Localization** tab on a property page, you can ...
 ##Class Indexes
 
 With this widget, you can ...
-Indexies http://orientdb.com/docs/last/Indexes.html
+Indexes http://orientdb.com/docs/last/Indexes.html
 
 ##Class Custom properties
 
