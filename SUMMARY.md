@@ -46,7 +46,7 @@
    * [Test Your Custom Solution](testing_your_solution.md)
 * How-To's
 * Administration
-   * Migrating Data from RDBMs
+   * [Migrating Data from RDBMs](migrating_data_from_rdbms.md)
    * Troubleshooting
    * Maintenance
    * Backup and Restore
