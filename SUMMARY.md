@@ -46,10 +46,10 @@
    * [Test Your Custom Solution](testing_your_solution.md)
 * How-To's
 * Administration
-   * Migrating Data from RDMSs
+   * Migrating Data from RDBMs
    * Troubleshooting
    * Maintenance
-   * BAckup and Restore
+   * Backup and Restore
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Glossary](GLOSSARY.md)
