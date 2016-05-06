@@ -7,7 +7,7 @@ The **Roles** page URL: */browse/ORole*.
 A role determines what operations a user can perform against a resource. When you create a role, you can make it inherit from another role. To edit all properties of a role, click its name. 
 
 On the **Properties** tab:
-* The role's **Name** 
+* The role's **Name**.
 * **Inherited Role** sets the parent role from which the role will inherit its parameters.
 * **Rules** and **Mode** regulate rules that apply to a role and how those rules work. 
 * **Perspective** defines which perspective will be available for users with this role.
