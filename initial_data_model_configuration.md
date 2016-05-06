@@ -31,7 +31,7 @@ On the **Configuration** tab you can set class parameters.
 ##Class Properties
 
 When you create or edit a property, the **property** page opens.
-On the **Configuration** tab on a property page, you can set the following:
+On the **Configuration** tab of a property page, you can set the following:
 * **Name** and **Description** are what it says
 * Determining how the property values show when you view a document:
   * **Tab**:  if you give a name for a tab here, the property will show on a separate tab
