@@ -20,7 +20,7 @@ On the **Configuration** tab you can set class parameters.
 * **Over Size** is ...
 * **Strict Mode**, checking this box will prevent documents of this class having extra properties not defined for the class.
 * **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only as parents to other classes.
-* **Java Class** is name of original java class from which this class was generated. For manually created classes value is null. 
+* **Java Class** is the name of the original java class from which this class was generated. For manually created classes, its value is null. 
 * **Cluster Selection** defines strategy for cluster selection.
 * **Document Name Property** sets the parameter, the value of which will show as a document's name in the list of documents.
 * **Parent Document Property** name of a property which refer to logical parent of an instastance of this class. Parent hierarchy allow more easily navigate through you data.
