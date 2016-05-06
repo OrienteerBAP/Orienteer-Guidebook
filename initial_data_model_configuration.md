@@ -47,7 +47,7 @@ On the **Configuration** tab of a property page, you can set the following:
 * **Regexp** sets a pattern for value of this property.
 * **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
 * **Displayable** says if a property will be displayed in the list of documents of this class.
-* **Hidden** makes this property hidden in UI.
+* **Hidden** hides a property from the UI.
 * **Calculable** for making [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
 
