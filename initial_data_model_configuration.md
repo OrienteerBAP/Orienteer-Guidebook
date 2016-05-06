@@ -18,7 +18,7 @@ On the **Configuration** tab you can set class parameters.
 * **Description** is a description of the class.
 * **Super Classes** sets the class's parent class.
 * **Over Size** is ...
-* **Strict Mode**, checking this box will prevent adding extra properties not defined for the class to its documents.
+* **Strict Mode**, checking this box will prevent documents of this class having extra properties not defined for the class.
 * **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only as parents to other classes.
 * **Java Class** is name of original java class from which this class was generated. For manually created classes value is null. 
 * **Cluster Selection** defines strategy for cluster selection.
