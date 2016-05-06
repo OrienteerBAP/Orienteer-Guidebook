@@ -15,7 +15,7 @@ On the **Configuration** tab you can set class parameters.
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is a short alias for the class name used in SQL to simplify wording.
-* **Description** is a whatever description you give to the class.
+* **Description** is a description of the class.
 * **Super Classes** sets the class's parent class.
 * **Over Size** is ...
 * **Strict Mode** is flag which shows is this class runs in strict mode or not. Strict mode prevents extra properties which were not defined in a schema.
