@@ -26,7 +26,7 @@ On the **Configuration** tab you can set class parameters.
 * **Parent Document Property** sets the name of a property which refers to logical parent of an instance of this class. Parent hierarchy allows for easier navigation through you data.
 * **Default Tab** sets the tab that will show by default when you open a document.
 * **Default Sorting** defines property used by default for sorting.
-* **Default Sort Order** defines default order of sorting.
+* **Default Sort Order** defines the default sorting order.
 
 ##Class Properties
 
