@@ -1,6 +1,6 @@
 # Managing Users and User Roles
 
-##Managing roles
+##Managing user roles
 
 The **Roles** page URL: */browse/ORole*.
 
