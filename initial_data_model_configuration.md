@@ -8,7 +8,7 @@ You implement you data model by creating classes and setting their properties. Y
 
 ##Class Configuration
 
-You can create or edit a class its page. On the **Configuration** tab you can set class parameters. 
+You can create or edit a class its page ([..]/class/&gtclass name>). On the **Configuration** tab you can set class parameters. 
 
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
