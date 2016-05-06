@@ -6,9 +6,10 @@ You implement you data model by creating classes and setting their properties. Y
 *  Orienteer is a graph + document type of database, so, properties of a class may contain links (references to other documents).
 
 To create a class, click ![+ Create](Create.png). 
+
 To configure a class, go to its page by clicking its name (URL [..]/class/&lt;class name&gt;). 
 
-##Class Configuration
+##Class Configuration widget
 
 On the **Configuration** tab you can set class parameters. 
 
@@ -28,7 +29,7 @@ On the **Configuration** tab you can set class parameters.
 * **Default Sorting** defines property used by default for sorting.
 * **Default Sort Order** defines the default sorting order.
 
-##Class Properties
+##Class Properties widget
 
 When you create or edit a property, the **property** page opens.
 On the **Configuration** tab of a property page, you can set the following:
@@ -51,11 +52,11 @@ On the **Configuration** tab of a property page, you can set the following:
 * **Calculable** makes [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
 
-##Class Indexes
+##Class Indexes widget
 
 With this widget, you can ...
 Indexes http://orientdb.com/docs/last/Indexes.html
 
-##Class Custom properties
+##Class Custom properties widget
 
 With this widget, you can set particular custom properties to the whole class.
