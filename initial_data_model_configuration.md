@@ -40,13 +40,13 @@ On the **Configuration** tab of a property page, you can set the following:
 * **Linked Class** lets you connect the class with another class.
 * **Inverse** sets inverse property for linkage properties.
 * **Mandatory** makes this property mandatory for creating a document.
-* **ReadOnly** makes this property read-only in UI in on API level.
+* **ReadOnly** makes this property read-only in UI on the API level.
 * **UI ReadOnly** makes this property read-only in UI.
 * **Not Null** sets that value of this property can't be null.
-* **Min** and **Max** define limitations for quantifiable properties.
-* **Regexp** sets pattern for value of this property.
+* **Min** and **Max** defines the limits for quantifiable properties.
+* **Regexp** sets a pattern for value of this property.
 * **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
-* **Displayable** states this this property should be displayed in table views for documents of this class.
+* **Displayable** says if a property will be displayed in the list of documents of this class.
 * **Hidden** makes this property hidden in UI.
 * **Calculable** for making [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
