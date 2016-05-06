@@ -18,3 +18,6 @@ For more details, see [**Security** section of the OrientDB manual](http://orien
 The **Users** page URL: */browse/OUser*.
 
 Users are particular persons that you permit to work with the database. For each user, you can set a name, a password, assign one or many roles, change status.
+
+
+
