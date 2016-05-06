@@ -52,7 +52,6 @@
 * [Glossary](GLOSSARY.md)
 * Temp
    * [The Interface of the Schema](the_interface_of_the_schema.md)
-   * [Managing Classes](managing_classes.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
    * [User roles in this guide](user_roles_in_this_guide.md)
    * [Entering and Viewing Data](entering_data_to_the_database.md)
