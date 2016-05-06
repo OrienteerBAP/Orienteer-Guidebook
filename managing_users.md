@@ -1,4 +1,4 @@
-# Managing Users and their Access
+# Managing Users and User Roles
 
 ##Managing roles
 
