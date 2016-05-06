@@ -51,8 +51,6 @@ On the **Configuration** tab of a property page, you can set the following:
 * **Calculable** makes [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
 
-You can edit some of these parameters right in the list of class's properties by clicking **Edit**.
-On the **Localization** tab on a property page, you can ...
 
 ##Class Indexes
 
