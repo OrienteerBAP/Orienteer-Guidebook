@@ -18,8 +18,8 @@ On the **Configuration** tab you can set class parameters.
 * **Description** is a description of the class.
 * **Super Classes** sets the class's parent class.
 * **Over Size** is ...
-* **Strict Mode** is flag which shows is this class runs in strict mode or not. Strict mode prevents extra properties which were not defined in a schema.
-* **Abstract** makes the class abstract, meaning there can be no instances of it (documents) in the database. Abstract classes can only be parent to other classes.
+* **Strict Mode**, checking this box you will prevent adding extra properties not defined for the class to its documents.
+* **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only as parents to other classes.
 * **Java Class** is name of original java class from which this class was generated. For manually created classes value is null. 
 * **Cluster Selection** defines strategy for cluster selection.
 * **Document Name Property** sets the parameter, the value of which will show as a document's name in the list of documents.
