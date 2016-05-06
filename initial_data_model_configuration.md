@@ -21,8 +21,8 @@ On the **Configuration** tab you can set class parameters.
 * **Strict Mode**, checking this box will prevent documents of this class having extra properties not defined for the class.
 * **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only as parents to other classes.
 * **Java Class** is the name of the original java class from which this class was generated. For manually created classes, its value is null. 
-* **Cluster Selection** defines strategy for cluster selection.
-* **Document Name Property** sets the parameter, the value of which will show as a document's name in the list of documents.
+* **Cluster Selection** defines the [strategy for cluster selection](http://orientdb.com/docs/last/Cluster-Selection.html).
+* **Document Name Property** sets what name will for a document in the list of documents.
 * **Parent Document Property** name of a property which refer to logical parent of an instastance of this class. Parent hierarchy allow more easily navigate through you data.
 * **Default Tab** sets the tab that will show by default when you open a document.
 * **Default Sorting** defines property which should be used by default for sorting.
