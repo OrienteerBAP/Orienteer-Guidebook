@@ -6,6 +6,10 @@
     "pluginsConfig": {
         "github": {
             "url": "https://github.com/OrienteerDW/Orienteer"
+        },
+        "ga": {
+            "token": "UA-55684820-3",
+            "configuration": "auto"
         }
     }
 }
