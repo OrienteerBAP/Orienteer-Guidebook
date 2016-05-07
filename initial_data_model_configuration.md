@@ -1,9 +1,8 @@
 #Managing Classes
 
+To create a class, on the schema page ([..]/schema), on the **Classes** tab, click ![+ Create](Create.png). You will be guided to the class page.
 
-To create a class, click ![+ Create](Create.png). 
-
-To configure a class, go to its page by clicking its name (URL [..]/class/&lt;class name&gt;). 
+After you create a class, you can always return to editing it by clicking its name in the list on the schema page.
 
 ##Editing Class Parameters
 
@@ -26,7 +25,7 @@ On the **Configuration** tab, on the **Configuration** widget, you can set class
 
 ##Managing Class Properties
 
-On a class page, on the **Properties** widget, you can create class properties and make some of their settings. To edit more, you can go to the property page by clicking its name.
+On the **Configuration** tab, on the **Properties** widget, you can create class properties and make some of their settings. To edit more, you can go to the property page by clicking its name.
 
 On the property page, on the **Configuration** tab, you can set the following:
 * **Name** and **Description** are what it says.
@@ -52,10 +51,9 @@ On the property page, on the **Configuration** tab, you can set the following:
 
 To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click ![](Create index.png). The index page will open.
 
-Later 
+After you create an index, you can always return to editing it by clicking its name on the class page, on the *Configuration** tab, on the **Indexes** widget.
 
-With this widget, you can ...
-Indexes http://orientdb.com/docs/last/Indexes.html
+To learn more about indexes in OrientDB, see http://orientdb.com/docs/last/Indexes.html.
 
 ##Class Custom properties widget
 
