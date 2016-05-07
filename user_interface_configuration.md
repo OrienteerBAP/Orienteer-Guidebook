@@ -1,6 +1,6 @@
 # User Interface Configuration
 
-[Including info about using Orienteer on mobile devices]
+Orienteer provides adaptive UI, making Orienteer apps available on mobile devices.
 
 ##Allocating perspectives to user roles
 
