@@ -11,7 +11,7 @@ To configure a class, go to its page by clicking its name (URL [..]/class/&lt;cl
 
 ##Editing Class Parameters
 
-On the **Configuration** tab you can set class parameters:
+On the **Configuration** tab, on the **Configuration** widget, you can set class parameters:
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is a short alias for the class name used in SQL to simplify wording.
@@ -30,7 +30,8 @@ On the **Configuration** tab you can set class parameters:
 
 ##Managing Class Properties
 
-When you create or edit a property, the **property** page opens.
+On the **Properties** widget, you can create class properties and make some settings. To edit more, you can click the property name ang do to the property page.
+
 On the **Configuration** tab of a property page, you can set the following:
 * **Name** and **Description** are what it says.
 * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
