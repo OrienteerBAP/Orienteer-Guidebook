@@ -1,9 +1,10 @@
 {
     "plugins": [
-        "github"
+        "github",
+        "ga"
     ],
     "pluginsConfig": {
-    "github": {
+        "github": {
             "url": "https://github.com/OrienteerDW/Orienteer"
         }
     }
