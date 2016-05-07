@@ -30,7 +30,7 @@ On the **Configuration** tab, on the **Configuration** widget, you can set class
 
 ##Managing Class Properties
 
-On the **Properties** widget, you can create class properties and make some settings. To edit more, you can click the property name ang do to the property page.
+On a class page, on the **Properties** widget, you can create class properties and make some settings. To edit more, you can click the property name ang do to the property page.
 
 On the **Configuration** tab of a property page, you can set the following:
 * **Name** and **Description** are what it says.
@@ -52,8 +52,9 @@ On the **Configuration** tab of a property page, you can set the following:
 * **Calculable** makes [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
 
-##Class Indexes widget
+##Managing Class Indexes
 
+To create an index, on a class page, on the **Properties** widget, select properties that you want to be 
 With this widget, you can ...
 Indexes http://orientdb.com/docs/last/Indexes.html
 
