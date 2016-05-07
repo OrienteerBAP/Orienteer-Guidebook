@@ -32,7 +32,7 @@ On the **Configuration** tab, on the **Configuration** widget, you can set class
 
 On a class page, on the **Properties** widget, you can create class properties and make some of their settings. To edit more, you can go to the property page by clicking its name.
 
-On the **Configuration** tab of a property page, you can set the following:
+On the property page, on the **Configuration** tab, you can set the following:
 * **Name** and **Description** are what it says.
 * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
 * **Order** sets the order in which this property shows: after other properties with smaller **Order** value and before the rest.
@@ -54,7 +54,7 @@ On the **Configuration** tab of a property page, you can set the following:
 
 ##Managing Class Indexes
 
-To create an index, on a class page, on the **Properties** widget, select properties that you want to be 
+To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click 
 With this widget, you can ...
 Indexes http://orientdb.com/docs/last/Indexes.html
 
