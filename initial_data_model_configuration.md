@@ -30,7 +30,7 @@ On the **Configuration** tab, on the **Configuration** widget, you can set class
 
 ##Managing Class Properties
 
-On a class page, on the **Properties** widget, you can create class properties and make some settings. To edit more, you can click the property name ang do to the property page.
+On a class page, on the **Properties** widget, you can create class properties and make some of their settings. To edit more, you can go to the property page by clicking its name.
 
 On the **Configuration** tab of a property page, you can set the following:
 * **Name** and **Description** are what it says.
