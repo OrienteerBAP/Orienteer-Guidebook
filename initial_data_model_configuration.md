@@ -29,7 +29,7 @@ On the **Configuration** tab you can set class parameters.
 * **Default Sorting** defines property used by default for sorting.
 * **Default Sort Order** defines the default sorting order.
 
-##Class Properties widget
+##Managing Class Properties
 
 When you create or edit a property, the **property** page opens.
 On the **Configuration** tab of a property page, you can set the following:
