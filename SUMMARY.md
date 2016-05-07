@@ -17,7 +17,7 @@
        * [Initial Data Model Configuration](initial_data_model_configuration.md)
        * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
-       * Data Consistency Support
+       * [Data Consistency Support](data_consistency_support.md)
    * [User Interface Configuration](user_interface_configuration.md)
    * Security and User Access Management
        * [Managing Users and User Roles](managing_users.md)
