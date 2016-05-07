@@ -53,7 +53,6 @@
 * Temp
    * [The Interface of the Schema](the_interface_of_the_schema.md)
    * [User roles in this guide](user_roles_in_this_guide.md)
-   * [Entering and Viewing Data](entering_data_to_the_database.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
