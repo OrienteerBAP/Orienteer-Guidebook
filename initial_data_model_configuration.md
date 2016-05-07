@@ -9,10 +9,9 @@ To create a class, click ![+ Create](Create.png).
 
 To configure a class, go to its page by clicking its name (URL [..]/class/&lt;class name&gt;). 
 
-##Class Configuration widget
+##Editing Class Parameters
 
-On the **Configuration** tab you can set class parameters. 
-
+On the **Configuration** tab you can set class parameters:
 
 * **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is a short alias for the class name used in SQL to simplify wording.
