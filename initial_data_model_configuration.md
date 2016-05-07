@@ -1,7 +1,6 @@
-# Initial Data Model Configuration
+#Managing Classes
 
 
-##Managing Classes
 To create a class, click ![+ Create](Create.png). 
 
 To configure a class, go to its page by clicking its name (URL [..]/class/&lt;class name&gt;). 
