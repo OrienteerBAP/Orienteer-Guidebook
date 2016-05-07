@@ -47,6 +47,8 @@ On the property page, on the **Configuration** tab, you can set the following:
 * **Calculable** makes [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
 * **Default Value** sets the default value of the property.
 
+You can add custom properties to a class. You can do it on the class page, on the **Configuration** tab, on the **Custom properties** widget.
+
 ##Managing Class Indexes
 
 To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click ![](Create index.png). The index page will open.
@@ -55,6 +57,3 @@ After you create an index, you can always return to editing it by clicking its n
 
 To learn more about indexes in OrientDB, see http://orientdb.com/docs/last/Indexes.html.
 
-##Class Custom properties widget
-
-With this widget, you can set particular custom properties to the whole class.
