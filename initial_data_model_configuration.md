@@ -5,6 +5,7 @@ You implement you data model by creating classes and setting their properties. Y
 *  Orienteer supports inheritance between classes, so, a class may have a parent class.
 *  Orienteer is a graph + document type of database, so, properties of a class may contain links (references to other documents).
 
+##Managing Classes
 To create a class, click ![+ Create](Create.png). 
 
 To configure a class, go to its page by clicking its name (URL [..]/class/&lt;class name&gt;). 
@@ -54,7 +55,10 @@ On the property page, on the **Configuration** tab, you can set the following:
 
 ##Managing Class Indexes
 
-To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click 
+To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click ![](Create index.png). The index page will open.
+
+Later 
+
 With this widget, you can ...
 Indexes http://orientdb.com/docs/last/Indexes.html
 
