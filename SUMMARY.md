@@ -14,7 +14,7 @@
 * [Creating Your First Business Application](creating_your_first_business_application.md)
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
-       * [Initial Data Model Configuration](initial_data_model_configuration.md)
+       * [Managing Classes](initial_data_model_configuration.md)
        * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
        * [Data Consistency Support](data_consistency_support.md)
