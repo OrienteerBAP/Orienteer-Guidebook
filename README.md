@@ -11,7 +11,7 @@ This guide will help you to:
 * set security,
 * manage users and their rights,
 * put data to the database, retrieve and visualize it,
-* make deeper customization by developing your modules.
+* augment your Orienteer app by developing custom modules.
 
 
 **Audience**
