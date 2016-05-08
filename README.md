@@ -7,10 +7,9 @@ Orienteer is a flexible business application development platform. It lets you b
 
 This guide will help you to:
 * install Orienteer,
-* define a data model and business logics for your specific business,
+* build an Orienteer app,
 * set security,
 * manage users and their rights,
-* put data to the database, retrieve and visualize it,
 * augment your Orienteer app by developing custom modules.
 
 
