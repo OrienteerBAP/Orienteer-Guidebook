@@ -1,28 +1,27 @@
 # About Orienteer
 
 ##What is Orienteer
-Orienteer is a platform for building business applications of any complexity: CRM, ERP, CMS, BPM, mobile apps, web site backend etc. 
+Orienteer is a platform for building business applications of any complexity: CRM, ERP, CMS, BPM, mobile apps, web site back-end etc. 
 
-**Technically** Orienteer is a Java Servlet 3.1 web application built on top of the [OrientDB database](http://orientdb.com/). OrientDB is NoSQL based and implements [document-graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). This approach suits best for today's trends in managing data and provides performance, scalability, productivity and flexibility.
-
+**Technically**, Orienteer is a Java Servlet 3.1 web application built on top of the [OrientDB database](http://orientdb.com/). OrientDB is NoSQL based and implements the [document-graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). This approach suits best for today's trends in managing data and provides performance, scalability, productivity and flexibility.
 
 ##Orienteer key benefits
 
-**Enhanced Business Intelligence**
+* **Provides enhanced business intelligence**
 
-**Saves Time**
+* **Saves time**
 
-**Big Data oriented**
+* **Is big data-oriented**
 
-**Enhanced Data Quality and Consistency**
+* **Provides enhanced data quality and consistency**
 
-**Open Source**. Building your solution with Orienteer, you join a broad community that will support you and help you move on.
+* **Is open source**. Building your solution with Orienteer, you join a broad community that will support you and help you move on.
 
-**Easy to Install and Use**
+* **Is easy to install and use**
 
-**High Return on Investment**
+* **Provides high return on investment**
 
-... Orienteer-based solutions are highly scalable. A solution can go with a growing business from a simple data model to a multi-branch business management solution.
+Orienteer-based solutions are highly scalable. A solution can go with a growing business from a simple data model to a multi-branch business management solution.
 
 ##What businesses can enjoy Orienteer
 Developers of applied data warehouses, like ERP, CRM, whatever.
@@ -31,12 +30,10 @@ Web service providers.
 
 etc
 
-##Approach to building a data model
-The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of classes connected as nodes. Objects (instances) of classes are called documents. You can find out more about OrientDB data model in [OrientDB documentation](http://orientdb.com/docs/last/).
+##Building a Business App on Orienteer: the Approach
+The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of classes connected as nodes. Objects (instances) of classes are called documents. You can find more on OrientDB data model in [OrientDB documentation](http://orientdb.com/docs/last/).
 
-
-##
-Features coming in next versions
+##Features Coming in Next Versions
 
 * Backup/restore
 * Software upgrading
