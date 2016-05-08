@@ -24,9 +24,11 @@ Orienteer is a platform for building business applications of any complexity: CR
 Orienteer-based solutions are highly scalable. A solution can go with a growing business from a simple data model to a multi-branch business management solution.
 
 ##What Businesses can Benefit from Orienteer
-Developers of applied data warehouses, like ERP, CRM, whatever.
+Developers of business apps, like ERP, CRM, whatever.
 
 Web service providers.
+
+
 
 etc
 
