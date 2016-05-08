@@ -24,13 +24,11 @@ Orienteer is a platform for building business applications of any complexity: CR
 Orienteer-based solutions are highly scalable. A solution can go with a growing business from a simple data model to a multi-branch business management solution.
 
 ##What Businesses can Benefit from Orienteer
-Developers of business apps (ERP, CRM, etc.)
+* Developers of business apps (ERP, CRM, etc.)
 
-Web service providers.
+* Web service providers.
 
-
-
-etc
+* and many others others.
 
 ##Building a Business App on Orienteer: the Approach
 The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of classes connected as nodes. Objects (instances) of classes are called documents. You can find more on OrientDB data model in [OrientDB documentation](http://orientdb.com/docs/last/).
