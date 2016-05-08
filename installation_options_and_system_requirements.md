@@ -9,4 +9,5 @@ There are two options for Orienteer installation:
   * [Jetty](http://www.eclipse.org/jetty/),
   * and others.
 
+
 * The standalone mode: on any computer that runs Java environment.
