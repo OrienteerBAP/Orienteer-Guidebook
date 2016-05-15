@@ -22,8 +22,6 @@
    * [User Interface Configuration](user_interface_configuration.md)
    * [Security and User Access Management](managing_users.md)
    * Document Level Security
-   * Security and User Access Management
-       * Document Level Security
    * [Localization](localization.md)
    * Functions
    * Triggers
