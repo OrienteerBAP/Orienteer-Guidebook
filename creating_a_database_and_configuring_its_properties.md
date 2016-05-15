@@ -23,5 +23,5 @@ Commonly there is no need to configure OrientDB database manually, because Orien
 * **Custom** - some specific custom settings.
 * **Cluster Selection** - approach for cluster selection.
 * **Minimum Clusters**
-* **Conflict Strategy** - selected strategy of conflicts resolution.
-* **Validation*** - should validation be enabled.
+* **Conflict Strategy** - selects strategy of conflicts resolution.
+* **Validation*** - enables or disables validation.
