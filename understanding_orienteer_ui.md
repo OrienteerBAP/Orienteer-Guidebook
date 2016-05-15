@@ -23,7 +23,7 @@ Example: the default dashboard of a class contains several widgets *Configuratio
 
 To add new widgets, re-size and move them around on the dashboard, click  ![](UI-adding-widgets.jpg) on the top right of the dashboard. 
 
-You can add the pre-defined Orienteer widgets only to particular pages.
+You can add the pre-defined Orienteer widgets only to particular pages. The set of these pages is a wiget's scope.
 
 |Page|URL|Scope in Orienteer 1.1|
 | -- | -- | -- |
