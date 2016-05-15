@@ -5,7 +5,7 @@ The Orienteer UI is based on several basic concepts.
 ## Pages and perspectives
 An Orienteer app is displayed as a set of **pages**. Some pages may be universal for all Orienteer apps, like *Users* or *Classes*. Others will be specific to particular apps. Users can access pages by clicking their links (e.g. on the menu) and [via their URLs](https://orienteer.gitbooks.io/orienteer/content/special_urls.html).
 
-A **perspective** defines what pages are available for the user on the navigation pane and what is the default page that a user sees after logging in. 
+A **perspective** defines what pages are available for the user on the menu and what is the default page that a user sees after logging in. 
 
 Example (the default perspective):
 
@@ -22,5 +22,3 @@ Example: the default dashboard of a class contains several widgets *Configuratio
 ![](Pages&widgets.png)
 
 To move widgets around and resize them on the dashboard, click  ![](UI-adding-widgets.jpg) on the top right of the dashboard.
-
-widget's domains ...
