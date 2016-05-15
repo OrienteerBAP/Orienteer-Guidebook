@@ -1,6 +1,6 @@
 # Security and User Access Management
 
-##Role-based Security
+##User Role-Based Security
 
 For each user, you can set a password and assign one or many roles (the **Users** page URL: */browse/OUser*).
 
@@ -13,6 +13,6 @@ On the **Properties** tab of a role, you can set the following:
 * **Perspective** defines which perspective will be available for users with this role.
 For more details, see [**Security** section of the OrientDB manual](http://orientdb.com/docs/last/Studio-Security.html).
 
-##Document-level Security
+##Document-Level Security
 
-By using triggers, 
+You can apply different security rules to documents by using hooks (triggers), that will check for security rights of users or processes that access a document. To learn more about triggers, see [OrientDB manual](http://orientdb.com/docs/last/Hook.html).
