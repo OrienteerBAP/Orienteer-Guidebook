@@ -21,9 +21,4 @@ Example: the default dashboard of a class contains several widgets *Configuratio
 
 ![](Pages&widgets.png)
 
-A widget can show 
-Each widget 
 widget's domains ...
-
-## Dashboards
-...
