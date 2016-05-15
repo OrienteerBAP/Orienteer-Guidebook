@@ -11,7 +11,7 @@ Example (the default perspective):
 
 ![](Perspectives-small.png)
 
-For each user role, the Orienteer app administrator allocates a set of available perspectives. To select another perspective, the user needs to click ![](UI-selecting-perspectives.jpg) on the top right.
+For each user role, the Orienteer app administrator allocates a set of available perspectives. To select another perspective, click ![](UI-selecting-perspectives.jpg) on the top right.
 
 ## Tabs, dashboards and widgets
 
