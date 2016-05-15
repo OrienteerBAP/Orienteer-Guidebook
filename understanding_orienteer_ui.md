@@ -17,7 +17,7 @@ For each user role, the Orienteer app administrator allocates a set of available
 
 What the user sees on a page is a **dashboard**. On a dashboard, there can be several **widgets** that display a variety of data. These may be tables, graphs, custom widgets developed for a particular app. Selecting other **tabs** on the page, user will see other widgets.
 
-Example: the default set of widgets on a page of a class includes tabs: *Configuration*, *Localization*, *Security*, *Subclasses*. The *Configuration* tab includes widgets *Configuration*, *Properties*, *Indexes*, *Custom properties*.
+Example: the default dashboard of a class contains several widgets *Configuration*, *Properties*, *Indexes*, *Custom properties*. The user can also select between tabs: *Configuration*, *Localization*, *Security*, *Subclasses*.
 
 ![](Pages&widgets.png)
 
