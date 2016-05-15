@@ -21,4 +21,6 @@ Example: the default dashboard of a class contains several widgets *Configuratio
 
 ![](Pages&widgets.png)
 
+To move widgets around and resize them on the dashboard, click  ![](UI-adding-widgets.jpg) on the top right of the dashboard.
+
 widget's domains ...
