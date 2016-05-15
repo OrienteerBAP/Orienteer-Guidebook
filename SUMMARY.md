@@ -21,7 +21,7 @@
        * [Data Consistency Support](data_consistency_support.md)
    * [User Interface Configuration](user_interface_configuration.md)
    * Security and User Access Management
-       * [Managing Users and User Roles](managing_users.md)
+       * [Security and User Access Management](managing_users.md)
        * Document Level Security
    * [Localization](localization.md)
    * Functions
