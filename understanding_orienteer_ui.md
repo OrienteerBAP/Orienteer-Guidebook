@@ -21,4 +21,15 @@ Example: the default dashboard of a class contains several widgets *Configuratio
 
 ![](Pages&widgets.png)
 
-To move widgets around and resize them on the dashboard, click  ![](UI-adding-widgets.jpg) on the top right of the dashboard.
+To add new widgets, re-size and move them around on the dashboard, click  ![](UI-adding-widgets.jpg) on the top right of the dashboard. 
+
+You can add the pre-defined Orienteer widgets only to particular pages.
+
+|Page|URL|Scope in Orienteer 1.1|
+| -- | -- | -- |
+|ODocumentPage|/doc/&lt;rid&gt;|Schema class of a document|
+|BrowseOClassPage|/browse/&lt;class name&gt;|Schema class|
+|SchemaPage|/schema or /classes|Global|
+|OClassPage|/classes/&lt;class name&gt;|Global|
+|OPropertyPage|/property/&lt;class name&gt;/&lt;property name&gt;|Global|
+|OIndexPage|/index/&lt;index name&gt;|Global|
