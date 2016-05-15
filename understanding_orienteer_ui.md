@@ -1,6 +1,6 @@
 # Understanding Orienteer UI
 
-The Orienteer UI is based on several basic concepts.
+The Orienteer UI is based on HTML5, which makes it highly compatible.
 
 ## Pages and perspectives
 An Orienteer app is displayed as a set of **pages**. Some pages may be universal for all Orienteer apps, like *Users* or *Classes*. Others will be specific to particular apps. Users can access pages by clicking their links (e.g. on the menu) and [via their URLs](https://orienteer.gitbooks.io/orienteer/content/special_urls.html).
