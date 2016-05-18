@@ -23,7 +23,7 @@
    * [Security and User Access Management](managing_users.md)
    * [Localization](localization.md)
    * [Functions](functions.md)
-   * Triggers
+   * [Triggers](triggers.md)
    * Scheduler
    * Adding Custom Pages
    * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
