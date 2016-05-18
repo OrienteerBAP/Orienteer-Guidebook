@@ -22,7 +22,7 @@
    * [User Interface Configuration](user_interface_configuration.md)
    * [Security and User Access Management](managing_users.md)
    * [Localization](localization.md)
-   * [Functions](Functions.md)
+   * [Functions](functions.md)
    * Triggers
    * Scheduler
    * Adding Custom Pages
