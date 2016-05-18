@@ -12,10 +12,20 @@ To add a custom page, create a document of the class OPage. The document paramet
   
   > wicket:property wicket:id="<attribute>" object="<link>", 
   
-  where *link* is the path to the target object and *attribute* is its target attribute. For example:
-  > wicket:property wicket:id="name" object="first.second.third"
+  where *link* is the path to the target object and *attribute* is its target attribute. 
+  
+  For example:
+  > wicket:property wicket:id="name" object="first_link.second_link.third_link"
    
-  works if the current object (/${rid}) has the link property "first" to another object having the link property "second" to yet another object having the link property "third". The wicket will return the name of the object *third*, 
+  /${rid} has a link property "first_link"---> 
+  
+  ---> the 1st target object has a link property "second_link" ---> 
+  
+  ---> the 2nd target object has a link property "third_link" ---> 
+  
+  ---> the 3rd target object has a property "name". 
+  
+  The wicket will return this "name" property. 
   
 * **Script** is a JavaScript run by the server.
 * **Embedded**:
