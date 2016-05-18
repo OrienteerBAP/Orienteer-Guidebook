@@ -1,8 +1,5 @@
 # Architecture
 
-Image: architecture
-
-
 ## Modules
 
 | Module | Description |
