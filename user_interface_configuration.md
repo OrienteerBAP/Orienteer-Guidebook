@@ -15,7 +15,7 @@ For each perspective, you can add sections to the navigation pane. Sections have
 * **Sub items** ...
 * **Footer** ...
 
-> **Warning!** If users don't see a page in their perspective, this doesn't prevent them from accessing a page over its URL. To restrict the access, configure the [database security settings].
+> **Warning!** If users don't see a page in their perspective, this doesn't prevent them from accessing a page over its URL. To restrict the access, configure the [database security settings](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
 
 ##Adding Widgets
 On each page, the administrator can see a set of widgets displaying data. For example, by default, editing a class, you can see panes **Configuration**, **Properties** etc. The administrator can customize each page by adding and configuring widgets. 
