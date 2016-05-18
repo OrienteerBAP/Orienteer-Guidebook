@@ -4,5 +4,5 @@ In Orienteer, you can use custom functions to process data. To read more about f
 
 To create a function, you need to create a document of the class OFunction. The parameter **Language** ...
 
-You can test a function on a widget **Function executor**.
+You can test your function on a widget **Function executor**.
 
