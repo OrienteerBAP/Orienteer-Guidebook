@@ -24,8 +24,8 @@
    * [Localization](localization.md)
    * Functions
    * Triggers
-   * Scheduler Setup
-   * Pages
+   * Scheduler
+   * Adding Custom Pages
    * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
        * HTML JS Widget
        * Pivot Table Module
