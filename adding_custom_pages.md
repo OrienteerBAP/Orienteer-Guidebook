@@ -27,6 +27,8 @@ To add a custom page, create a document of the class OPage. The document paramet
   
   The wicket will return this "name" property. 
   
+  The returned property is displayed according to its visualisation type. For example, if it is a table, it will be displayed as a table.
+  
 * **Script** is a JavaScript run by the server.
 * **Embedded**:
   * yes: displays the page as a widget.
