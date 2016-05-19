@@ -14,6 +14,5 @@ After that, on the new widget, click, **Actions > Settings**. On the widget prop
 * **Resources**
 * **Col**
 * **Row**
-* **Size X** and **Size Y** 
+* **Size X** and **Size Y** set the size of the widget.
 * **Hidden**
-* 
