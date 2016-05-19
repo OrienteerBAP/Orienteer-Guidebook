@@ -2,17 +2,16 @@
 
 You can add a custom HTML / JS widgets to pages. For this, add the  *Browse Html Js Pane* widget, and on the top right, click **Save**.
 
-![![](adding-a-html-js-widget.png)
+![](adding-a-html-js-widget.png)
 
 After that, on the new widget, click, **Actions > Settings**. On the widget properties page, you can edit the widget.
 
-* **Title**
-* **Html**
-* **Dashboard**
-* **Script**
-* **Type id**
-* **Resources**
-* **Col**
-* **Row**
+* **Title**.
+* **Html** and  **Script** add the HTML code and a script to the widget.
+* **Dashboard** ...
+* **Type id** ...
+* **Resources** ...
+* **Col** ...
+* **Row** ...
 * **Size X** and **Size Y** set the size of the widget.
-* **Hidden**
+* **Hidden** ...
