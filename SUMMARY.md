@@ -27,7 +27,7 @@
    * [Adding Custom Pages](adding_custom_pages.md)
    * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
        * [HTML and JavaScript Widgets](adding_html_and_javascript_widgets.md)
-       * Pivot Table Module
+       * [Pivot Table Module](pivot_table_module.md)
        * Graph Module
        * Map Visualisation Module
 * Integration of a Business Application
