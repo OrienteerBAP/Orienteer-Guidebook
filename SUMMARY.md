@@ -26,7 +26,7 @@
    * [Triggers](triggers.md)
    * [Adding Custom Pages](adding_custom_pages.md)
    * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
-       * Adding HTML and JavaScript Widgets
+       * [Adding HTML and JavaScript Widgets](adding_html_and_javascript_widgets.md)
        * Pivot Table Module
        * Graph Module
        * Map Visualisation Module
