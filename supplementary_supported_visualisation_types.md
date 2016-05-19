@@ -1,6 +1,6 @@
 # Supported Visualisation Types
 
-| OType | Visualisation | View | Edit | Comment |
+| OType | Visualisation | View | User interface | Comment |
 | -- | -- | -- | -- | -- |
 |BOOLEAN|default|true or false text|Checkbox||
 |INTEGER|default|text|text field||
