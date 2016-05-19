@@ -59,5 +59,6 @@ To learn more about indexes in OrientDB, see http://orientdb.com/docs/last/Index
 
 ## Viewing the Data Model on a Diagram
 
-To 
+You can view your data model on a UML diagram. On the **Scheme** page, check the classes that you want to see on the diagram and at click ![](View UML.png).
 
+![](UML.png)
