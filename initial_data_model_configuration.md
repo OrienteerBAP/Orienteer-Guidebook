@@ -57,3 +57,7 @@ After you create an index, you can always return to editing it by clicking its n
 
 To learn more about indexes in OrientDB, see http://orientdb.com/docs/last/Indexes.html.
 
+## Viewing the Data Model on a Diagram
+
+To 
+
