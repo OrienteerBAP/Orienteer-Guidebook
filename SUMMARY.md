@@ -16,6 +16,7 @@
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Managing Classes](initial_data_model_configuration.md)
+       * [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
        * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
        * [Data Consistency Support](data_consistency_support.md)
@@ -52,5 +53,4 @@
    * [User roles in this guide](user_roles_in_this_guide.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
-* [Supplementary. Supported visualisation types](supplementary_supported_visualisation_types.md)
 
