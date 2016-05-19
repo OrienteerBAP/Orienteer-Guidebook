@@ -19,7 +19,7 @@ For each perspective, you can add sections to the navigation pane. Sections have
 * **Name** is the name of the section that will show on the navigation pane.
 * **Perspective**, a list of perspectives in which the section is present.
 * **Icon**, the icon that will show on the navigation pane by the section's name. Set it similarly to the icon of the perspective. 
-* **Home Url** sets the page that will show when you click the section.
+* **Url**, the page that will show when you click the section.
 * **Sub items** are the 
 
 
