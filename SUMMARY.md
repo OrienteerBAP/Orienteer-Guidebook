@@ -17,7 +17,6 @@
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Managing Classes](initial_data_model_configuration.md)
        * [Supported Visualisation Types](supplementary_supported_visualisation_types.md)
-       * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
        * [Data Consistency Support](data_consistency_support.md)
    * [User Interface Configuration](user_interface_configuration.md)
