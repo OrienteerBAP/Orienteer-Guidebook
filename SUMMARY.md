@@ -29,7 +29,7 @@
        * [HTML and JavaScript Widgets](adding_html_and_javascript_widgets.md)
        * [Pivot Table Module](pivot_table_module.md)
        * Graph Module
-* Integration of a Business Application
+* [Integration of a Business Application](integration_of_a_business_application.md)
    * REST/HTTP API
 * [Custom Orienteer Development](custom_orienteer_development.md)
    * [Set up the Development Environment](the_setup_of_development_environment.md)
