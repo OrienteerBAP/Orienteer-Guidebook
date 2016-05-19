@@ -16,7 +16,7 @@
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Managing Classes](initial_data_model_configuration.md)
-       * [Supported isualisation types](supplementary_supported_visualisation_types.md)
+       * [Supported Visualisation Types](supplementary_supported_visualisation_types.md)
        * Visualizers
        * [Calculable Properties](adding_calculable_properties.md)
        * [Data Consistency Support](data_consistency_support.md)
