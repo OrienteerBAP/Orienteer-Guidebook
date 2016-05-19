@@ -2,7 +2,7 @@
 
 Orienteer provides adaptive UI, making Orienteer apps available on mobile devices.
 
-##Allocating Perspectives to User Roles
+##Configuring Perspectives
 
 The administrator allocates perspectives available for each user role.
 
