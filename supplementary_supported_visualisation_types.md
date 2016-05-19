@@ -1,4 +1,4 @@
-# Supplementary. Supported visualisation types
+# Supported Visualisation Types
 
 | OType | Visualisation | View | Edit | Comment |
 | -- | -- | -- | -- | -- |
