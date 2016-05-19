@@ -29,7 +29,6 @@
        * [HTML and JavaScript Widgets](adding_html_and_javascript_widgets.md)
        * [Pivot Table Module](pivot_table_module.md)
        * Graph Module
-       * Map Visualisation Module
 * Integration of a Business Application
    * REST/HTTP API
 * [Custom Orienteer Development](custom_orienteer_development.md)
