@@ -16,6 +16,8 @@ For a perspective, you can set:
 
 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
+
+* **Perspective item**
 * **Name** is the name of the section that will show on the navigation pane.
 * **Perspective**, a list of perspectives in which the section is present.
 * **Icon**, the icon that will show on the navigation pane by the section's name. Set it similarly to the icon of the perspective. 
