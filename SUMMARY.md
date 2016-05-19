@@ -48,7 +48,6 @@
 * [Glossary](GLOSSARY.md)
 * Temp
    * [The Interface of the Schema](the_interface_of_the_schema.md)
-   * [User roles in this guide](user_roles_in_this_guide.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
 
