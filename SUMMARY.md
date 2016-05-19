@@ -24,7 +24,6 @@
    * [Localization](localization.md)
    * [Functions](functions.md)
    * [Triggers](triggers.md)
-   * [Scheduler](scheduler.md)
    * [Adding Custom Pages](adding_custom_pages.md)
    * [Creating Extensions and Other Widgets](creating_extensions_and_other_widgets.md)
        * HTML JS Widget
