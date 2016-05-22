@@ -16,6 +16,6 @@ After that, on the new widget, click, **Actions > Settings**. On the widget prop
 * **Size X** and **Size Y** set the size of the widget.
 * **Hidden** ...
 
-Example: you can add a widget with a google map by setting the following HTML cole:
+Example: you can add a widget with a google map by setting the following HTML code:
 
 > &lt;div&gt;  &lt;iframe width="100%" height="600" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC1vj2XnFZv0CpiuOVoJsGl0ZhDtM6rv5c&q=${postalAddress.region} ${postalAddress.city} ${postalAddress.street} ${postalAddress.streetNumber}" allowfullscreen&gt; &lt;/iframe&gt;  &lt;/div&gt;
