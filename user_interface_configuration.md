@@ -12,7 +12,7 @@ For a perspective, you can set:
 * **Name**
 * **Icon**, set it by its name (you can check it here: http://fontawesome.io/icons/)
 * **Home Url** the default page of the perspective.
-* **Footer**: 
+* **Footer** is for the footer that will show in the perspective. Set it in HTML / JS. 
 
 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
