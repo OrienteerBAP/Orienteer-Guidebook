@@ -2,13 +2,10 @@
 
 ##Prerequisites
 
-java 7+
-
-git
-
-maven
-
-OrientDB, if you want to use OrientDB remotely
+* java 7+
+* git
+* maven
+* OrientDB, if you want to use OrientDB remotely
 
 ##Steps
 1. Install of [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) github SNAPSHOT. This step is optional: wicket-orientdb SNAPSHOT is always available on Maven central
