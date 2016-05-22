@@ -6,5 +6,10 @@ To read more about triggers in OrientDB, see http://orientdb.com/docs/last/Hook.
 
 To create a trigger, derive a class from the abstract class OTriggered.
 
+##Class level hooks
+...
+##Document level hooks
+...
+
 
 
