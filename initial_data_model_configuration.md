@@ -34,7 +34,7 @@ On the property page, on the **Configuration** tab, you can set the following:
 * **Type** sets the data type of the property (for the list of available data types see [OrientDB manual](http://orientdb.com/docs/last/Types.html)).
 * **Visualization** defines way the property value is visualized (for the list of available visualisation types, see [supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_supported_visualisation_types.html)).
 * **Linked Class** lets you connect the class with another class.
-* **Inverse** sets inverse property for linkage properties.
+* **Inverse** is used for properties containing links and sets the property of the linked class that contains the back link.
 * **Mandatory** makes this property mandatory for creating a document.
 * **ReadOnly** makes this property read-only in UI on the API level.
 * **UI ReadOnly** makes this property read-only in UI.
