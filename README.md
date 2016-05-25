@@ -1,7 +1,7 @@
 # Orienteer Guidebook
 
 
-Orienteer is a flexible business application development platform. It lets you build full-featured dedicated enterprise apps, like CRM, ERP, Supply Chain Management or whatever. Orienteer provides flexible, scalable and extendable solutions.
+Orienteer is a flexible business application development platform. It lets you build full-featured dedicated enterprise apps, like CRM, ERP, supply chain management apps etc. Orienteer provides flexible, scalable and extendable solutions.
 
 **Why read this guide**
 
