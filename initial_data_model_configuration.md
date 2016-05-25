@@ -37,7 +37,7 @@ On the property page, on the **Configuration** tab, you can set the following:
 * **Inverse** is used for properties containing links to other classes and sets the property of the linked class that contains the back link.
 * **Mandatory** makes this property mandatory for creating a document.
 * **ReadOnly** makes this property read-only in UI on the API level.
-* **UI ReadOnly** makes this property read-only in UI.
+* **UI ReadOnly** makes this property read-only in the UI.
 * **Not Null** sets that value of this property can't be null.
 * **Min** and **Max** defines the limits for quantifiable properties.
 * **Regexp** sets a pattern for value of this property.
