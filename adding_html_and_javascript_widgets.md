@@ -4,17 +4,12 @@ You can add a custom HTML / JS widgets to pages. For this, add the  *Browse Html
 
 ![](adding-a-html-js-widget.png)
 
-After that, on the new widget, click, **Actions > Settings**. On the widget properties page, you can edit the widget.
+After that, on the new widget, click, **Actions > Settings**. On the widget properties page, you can edit the widget. 
 
-* **Title**.
+Disambiguation of properties specific to this widget:
+
 * **Html** and  **Script** add the HTML code and a script to the widget.
-* **Dashboard** ...
-* **Type id** ...
 * **Resources** ...
-* **Col** ...
-* **Row** ...
-* **Size X** and **Size Y** set the size of the widget.
-* **Hidden** ...
 
 Example: you can add a widget with a google map by setting the following HTML code:
 
