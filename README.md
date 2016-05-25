@@ -12,8 +12,8 @@ Orienteer is a flexible business application development platform. It lets you b
 
 **Audience**
 
-This guide will be interesting to:
-* **business owners and executive managers**: how Orienteer can enhance your business
-* **integrators and developers** will find guidelines how to configure and customize business applications on top of Orienteer 
-* **system administrators** will find required information about how to support and manage Orienteer 
+This guide will be especially helpful:
+* to **business owners and executive managers**, who will learn how Orienteer can enhance their business,
+* to **integrators and developers**, who will learn how to configure and customize business applications on top of Orienteer 
+* to **system administrators**, who will find how to support and manage Orienteer and apps built on it.
 
