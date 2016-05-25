@@ -2,7 +2,6 @@
 
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
-   * [Conventions of this Document](conventions_of_this_document.md)
 * [Starting with Orienteer](getting_started.md)
    * [Installation](installation.md)
        * [Creating the Orienteer Configuration File](editing_the_orienteer_configuration_file.md)
