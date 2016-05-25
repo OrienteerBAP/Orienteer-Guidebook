@@ -29,7 +29,7 @@
    * [REST/HTTP API](resthttp_api.md)
 * [Custom Orienteer Development](custom_orienteer_development.md)
    * [Set up the Development Environment](the_setup_of_development_environment.md)
-   * Create Your Own Module
+   * [Create Your Own Module](create_your_own_module.md)
    * [Create a "Hello World" Widget](create_a_hello_world_widget.md)
    * [Create a Custom Web Application](create_a_custom_web_application.md)
    * [Create a Custom Guice Module](creating_your_custom_guice_module.md)
