@@ -1,6 +1,5 @@
 # Creating Your First Business Application
 
-This chapter will walk you through Orienteer basics by creating a simple business application, a CRM. You will learn how to manage classes, create new users, manage security and visualize data.
+It's time to create your business application. Assuming that you know what you want to have finally, this chapter will walk you through Orienteer basics configuration technicues. You will learn how to manage data model, create new users, configure dashboards, manage security and many other useful stuff.
 
-[a walkthrough]
 
