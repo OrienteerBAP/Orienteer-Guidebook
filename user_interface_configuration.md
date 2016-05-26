@@ -9,10 +9,10 @@ The administrator allocates perspectives available for each user role.
 To configure perspectives, on the navigation pane, click **Perspectives** (URL: *&lt;databaseURL&gt; /browse/OPerspective*).
 
 For a perspective, you can set:
-* **Name**
-* **Icon**, set it by its name (you can check it here: http://fontawesome.io/icons/)
-* **Home Url** the default page of the perspective.
-* **Footer** is for the footer that will show in the perspective. Set it in HTML / JS. 
+* **Name** - localizable name of a perspective
+* **Icon** - name of an icon to be displayed (you can pick any icon name from [Font Awesome project](http://fontawesome.io/icons/))
+* **Home Url** - default page of the perspective
+* **Footer** - textarea to define html code to be shown on any page footer. 
 
 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
