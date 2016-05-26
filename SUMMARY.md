@@ -41,7 +41,7 @@
    * Backup and Restore
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
-* Resources
+* [Resources](resources.md)
 * [Glossary](GLOSSARY.md)
 * [Supplementary. Accessing Pages via URLs](special_urls.md)
 * [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
