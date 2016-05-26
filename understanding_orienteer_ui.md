@@ -1,17 +1,17 @@
 # Understanding Orienteer UI
 
-The Orienteer UI is based on HTML5, which makes it highly compatible.
+The Orienteer UI based on HTML5 with adoptive design techniques, which allow to use Orienteer on desktop, tablet and mobile devices.
 
 ## Pages and perspectives
-An Orienteer app is displayed as a set of **pages**. Some pages may be universal for all Orienteer apps, like *Users* or *Classes*. Others will be specific to particular apps. Users can access pages by clicking their links (e.g. on the menu) and [via their URLs](https://orienteer.gitbooks.io/orienteer/content/special_urls.html).
+Orienteer is displayed as a set of **pages**. Some pages may be universal for all Orienteer apps, like *Users* or *Classes*. Others will be specific to particular apps. Users can access pages by clicking their links (e.g. on the menu) and [via their URLs](https://orienteer.gitbooks.io/orienteer/content/special_urls.html).  
 
-A **perspective** defines what pages are available for the user on the menu and what is the default page that a user sees after logging in. 
+A **perspective** is quite useful feature to personalize UI for different roles. For example one perspective can show analysis dashboards for executive managers, but other perspective can be used for everyday operational activities. Perspective defines menu structure and generic UI properties, for example home page location. 
 
 Example (the default perspective):
 
 ![](Perspectives-small1.png)
 
-For each user role, the Orienteer app administrator allocates a set of available perspectives. To select another perspective, click ![](UI-selecting-perspectives.jpg) on the top right.
+To switch between perspective, click ![](UI-selecting-perspectives.jpg) on the top right and select required one.
 
 ## Tabs, dashboards and widgets
 
