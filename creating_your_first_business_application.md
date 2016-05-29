@@ -14,5 +14,5 @@ What to show:
   * Dashboards, tabs
   * Setting perspectives
 * Localization
-* Pivot table
+* Pivot table, other custom and configurable widgets.
 
