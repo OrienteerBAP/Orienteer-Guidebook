@@ -23,7 +23,7 @@ There are two options for Orienteer installation:
 In standalone mode, Orienteer utilizes an embedded [jetty server](http://www.eclipse.org/jetty/) to run itself as a web application.
 
 To install Orienteer in standalone mode:
-1. Download the latest installation file *orienteer-standalone.war* file ([link](https://github.com/OrienteerDW/Orienteer/releases), select latest version).
+1. Download the latest installation file *orienteer-standalone.war* file (follow [this link](https://github.com/OrienteerDW/Orienteer/releases), select the latest version).
 2. Put the *orienteer-standalone.war* file into any directory.
 3. [Create the Orienteer configuration file *orienteer.properties*](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html).
 4. Run Orinteer by executing the command  
