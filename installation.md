@@ -7,6 +7,7 @@ Before installing, you may want [to test-drive a deployed Orienteer database](ht
 ## Installation Options and System Requirements
 
 There are two options for Orienteer installation:
+* The standalone mode: on any computer that runs Java environment.
 * The embedded mode: on an application server. Orienteer can be installed on all famous compatible web application servers:
   * [WildFly/Jboss](http://wildfly.org/),
   * [Weblogic](https://www.oracle.com/middleware/weblogic/index.html),
@@ -16,7 +17,6 @@ There are two options for Orienteer installation:
   * and others.
 
 
-* The standalone mode: on any computer that runs Java environment.
 
 ## Installing Orienteer as a Standalone Application
 
