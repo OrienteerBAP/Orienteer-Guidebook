@@ -30,7 +30,7 @@ If something missing, Orienteer will use default settings.
 
 **Default settings**
 
-You can always find default settings [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer-core/src/main/resources/orienteer-default.properties)
+You can check default settings [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer-core/src/main/resources/orienteer-default.properties)
 
 ```
 orienteer.production=false
