@@ -15,7 +15,7 @@ Orienteer is a platform for developing business applications of any complexity: 
 
 * **Provides enhanced data quality and consistency.**
 
-* **Is open source**. Building your solution with Orienteer, you join a broad community that will support you and help you move on.
+* **Is open source**. Building your solution with Orienteer, you join the broad community that will support you and help you to move on.
 
 * **Is easy to install and use.**
 
@@ -31,7 +31,7 @@ Orienteer-based solutions are highly scalable. A solution can go with a growing 
 * and many others.
 
 ##Building a Business App on Orienteer: the Approach
-The approach to building a data model in Orienteer inherits much from OrientDB. The schema is built of classes connected as nodes. Objects (instances) of classes are called documents. You can find more on OrientDB data model in [OrientDB documentation](http://orientdb.com/docs/last/).
+The Orienteer approach  inherits much from OrientDB. The data model is represented by classes connected as nodes. Objects (instances) of classes are called documents. For more about OrientDB approach, see [OrientDB documentation](http://orientdb.com/docs/last/).
 
 ##Features Coming in Next Versions
 
