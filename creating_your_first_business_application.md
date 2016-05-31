@@ -3,6 +3,7 @@
 It's time to create your business application. Assuming that you know what you want to have finally, this chapter will walk you through Orienteer basics configuration techniques. You will learn how to manage data model, create new users, configure dashboards, manage security and make many other operations with your app.
 
 > Note. This chapter shows configurations in the default Orienteer perspective.
+> Giving names to classes and properties, we follow the [Orienteer naming conventions](https://github.com/OrienteerBAP/Orienteer/wiki/Schema-naming-convention).
 
 ## Building The Data Model
 We will build a simple data model and augment it in a step-by-step manner. 
