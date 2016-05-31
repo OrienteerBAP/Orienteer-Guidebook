@@ -13,7 +13,7 @@ We will start with the simplest model, with only one class, *Customer*. It will 
 
 1. Go to page */schema*.
 2. To create a new class, сlick **Create**.
-3. On the class page, fill the parameter Name: *CMSCustomer*, then click **Save**.
+3. On the class page, fill the parameter Name: *CmsCustomer*, then click **Save**.
 4. On the widget **Properties** create three properties by clicking **Create**. Set their  parameters and click **Save**. 
   * For the *Customer name* property, set the parameters:
     * Name: customerName
@@ -38,7 +38,7 @@ Now think of using the app we have just created. The users are free to enter con
 For the start, let us make it so that each customer may have several separate contact records. The operators will select from a dropbox the type of the contact they enter to the database.
 
 Do the following:
-1. We want each customer's contact to be stored as a separate item. This is why we will create a separate class, *Contact*.
+1. We want each customer's contact to be stored as a separate item. This is why we will create a separate class, *CmsContact*.
 
 
 ### Links
