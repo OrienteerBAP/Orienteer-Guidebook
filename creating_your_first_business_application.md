@@ -13,7 +13,7 @@ We will start with the simplest model, with only one class, *Customer*. It will 
 
 1. Go to page */schema*.
 2. To create a new class, сlick **Create**.
-3. On the class page, fill the parameter Name: *CMS_Customer*, then click **Save**.
+3. On the class page, fill the parameter Name: *CMSCustomer*, then click **Save**.
 4. On the widget **Properties** create three properties by clicking **Create**. Set their  parameters and click **Save**. 
   * For the *Customer name* property, set the parameters:
     * Name: customerName
