@@ -35,8 +35,11 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 ### Linking Classes
 Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
 
-For the start, let us 
-So, we want to restrict 
+For the start, let us make it so that each customer may have several separate contact records. The operators will select from a dropbox the type of the contact they enter to the database.
+
+Do the following:
+1. 
+
 
 ### Links
 
