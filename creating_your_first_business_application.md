@@ -4,7 +4,7 @@ It's time to create your business application. Assuming that you know what you w
 
 What to show (a sample business model, a CRM from video)
 ## Building The Data Model
-
+We will build a simple data model 
   * Creating classes, properties
   * Link type properties.
   * UML
