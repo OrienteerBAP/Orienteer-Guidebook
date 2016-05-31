@@ -40,6 +40,8 @@ For the start, let us make it so that each customer may have several separate co
 
 Do the following:
 1. We want each customer's contact to be stored as a separate item. This is why we will create a separate class, *CmsContact*.
+2. We will ling the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
+  *  
 
 
 ### Links
