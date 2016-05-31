@@ -44,7 +44,7 @@ Do the following:
   *  
 
 
-### Links
+### ...
 
   * Link type properties.
   * UML
