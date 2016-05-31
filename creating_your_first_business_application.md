@@ -32,11 +32,10 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 2. To create a new document, click **Create**.
 3. Now you can fill new client's data and save it.
 
-###
+### 
 
 ### Links
 
-  * Creating classes, properties
   * Link type properties.
   * UML
   * Creating documents.
