@@ -25,6 +25,16 @@ We will start with the simplest model, with only one class, *Customer*. It will 
     * Name: Customer_name
     * Type: String
 
+Now we can create documents of the class Customer. Each document will correspond to a person.
+
+Once we want to add a new customer or to edit an existing one, we will need to go to the list of class's documents.
+1. Go to /browse/Customer (otherwise, you could go to /schema and in the line Customer, on the right, click **Browse Class**).
+2. 
+
+
+
+### Links
+
   * Creating classes, properties
   * Link type properties.
   * UML
