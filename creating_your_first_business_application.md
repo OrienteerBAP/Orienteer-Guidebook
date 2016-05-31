@@ -32,7 +32,11 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 2. To create a new document, click **Create**.
 3. Now you can fill new client's data and save it.
 
-### 
+### Linking Classes
+Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
+
+For the start, let us 
+So, we want to restrict 
 
 ### Links
 
