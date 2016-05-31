@@ -4,13 +4,13 @@ It's time to create your business application. Assuming that you know what you w
 
 ## Building The Data Model
 We will build a simple data model and augment it in a step-by-step manner. 
-We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support).
+We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
 
 ### Creating a Class
 We will start with the simplest model, with only one class, *Customer*. 
 1. Go to page /schema.
-2. Click 
-2. 
+2. Click ![+ Create](Create.png) to create a new class.
+2. On the class page, fill the parameter Name: *Customer*.
   * Creating classes, properties
   * Link type properties.
   * UML
