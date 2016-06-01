@@ -60,7 +60,7 @@ Do the following:
 With this, we are done for this part. Now, when you create a customer, you do not give its contacts, only their name and stage of interaction. To add contacts, you will go to each customer's page and on a separate tab **Contacts** add as many contacts as you need.
 
 
-### ...
+### About dropboxes
 Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
 
 For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
