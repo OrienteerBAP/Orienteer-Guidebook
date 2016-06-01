@@ -26,6 +26,8 @@ We will start with the simplest model, with only one class, *Customer*. It will 
     * Name: interaction
     * Type: String
 
+5. Specify which of the parameters will identify a document. In our case each document corresponds to a customer's name. So, in the class *CmsCustomer*, on the widget *Configuration*, set the parameter **Document Name Property**: *customerName*.
+
 Now we can create documents of the class Customer. Each document will correspond to a person.
 
 Once we want to add a new customer or to edit an existing one, we will need to go to the list of class's documents.
@@ -51,7 +53,7 @@ Do the following:
   * Set the parameter **Tab**: *Contacts*. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
   * Set **Visualization**: *table*. This kind of visualization enables UI elements like **Create** or **Save** buttons etc, that will be useful for creating and managing contacts.
  
-After this, 
+After this, you can create 
 
 
 ### ...
