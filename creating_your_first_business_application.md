@@ -43,12 +43,15 @@ Do the following:
 2. Create a new class for storing contacts, *CmsContact*
 
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
+  
 3. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
-  *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact* .
-  *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
+  *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact*.
+  *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINK* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
   *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *linkToCustomer*.
 
-4. We were 
+4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts* by specifying the parameter **Tab**. Whatever we give here will be a separate tab that will contain the list of documents (contacts) linked to the particular customer.
+
+  Let us call this tab *Contacts*.
 
 
 
