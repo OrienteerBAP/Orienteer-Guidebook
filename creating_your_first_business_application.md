@@ -34,9 +34,7 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ### Linking Classes
-Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
-
-For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
+In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
 
 Do the following:
 1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
@@ -53,10 +51,15 @@ Do the following:
   * Set the parameter **Tab**: *Contacts*. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
   * Set **Visualization**: *table*. This kind of visualization enables UI elements like **Create** or **Save** buttons etc, that will be useful for creating and managing contacts.
  
-
+After this, 
 
 
 ### ...
+Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
+
+For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
+
+
 
   * Link type properties.
   * UML
