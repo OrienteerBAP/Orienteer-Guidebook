@@ -36,17 +36,20 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 ### Linking Classes
 Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
 
-For the start, let us make it so that each customer may have several separate contact records. The operators will select from a dropbox the type of the contact they enter to the database.
+For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
 
 Do the following:
 1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
 2. Create a new class for storing contacts, *CmsContact*
 
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
-2. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
+3. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
   *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact* .
   *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
   *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *linkToCustomer*.
+
+4. We were 
+
 
 
 ### ...
