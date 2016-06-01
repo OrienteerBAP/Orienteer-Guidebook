@@ -52,9 +52,7 @@ Do the following:
 4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts*.
   * Set the parameter **Tab**: *Contacts*. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
   * Set **Visualization**: *table*. This kind of visualization enables UI elements like **Create** or **Save** buttons etc, that will be useful for creating and managing contacts.
-  * 
-
-  Let us call this tab *Contacts*.
+ 
 
 
 
