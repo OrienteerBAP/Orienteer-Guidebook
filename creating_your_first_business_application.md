@@ -34,7 +34,7 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ### Linking Classes
-In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
+In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
 
 Do the following:
 1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
