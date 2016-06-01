@@ -39,12 +39,13 @@ Now think of using the app we have just created. The users are free to enter con
 For the start, let us make it so that each customer may have several separate contact records. The operators will select from a dropbox the type of the contact they enter to the database.
 
 Do the following:
-1. Delete the property **
+1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
 2. Create a new class for storing contacts, *CmsContact*
 
-We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
+  We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
 2. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
-  *  To the *CmsContact* class we will add a property *contactLink*
+  *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set **LINKLIST** and as its **Linked Class** set **CmsContact** .
+  *  To the *CmsContact* class we add a property *linkToCustomer* and set its type as **LINKLIST**.
 
 
 ### ...
