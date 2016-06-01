@@ -49,7 +49,10 @@ Do the following:
   *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINK* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
   *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *linkToCustomer*.
 
-4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts* by specifying the parameter **Tab**. Whatever we give here will be a separate tab that will contain the list of documents (contacts) linked to the particular customer.
+4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts*.
+  * Set the parameter **Tab**: *Contacts*. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
+  * Set **Visualization**: *table*. This kind of visualization enables UI elements like **Create** or **Save** buttons etc, that will be useful for creating and managing contacts.
+  * 
 
   Let us call this tab *Contacts*.
 
