@@ -45,7 +45,7 @@ Do the following:
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
 2. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
   *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact* .
-  *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class CmsCustomer is **linkToContacts**.
+  *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
   *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *linkToCustomer*.
 
 
