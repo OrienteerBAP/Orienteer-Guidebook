@@ -16,13 +16,13 @@ We will start with the simplest model, with only one class, *Customer*. It will 
 2. To create a new class, сlick **Create**.
 3. On the class page, fill the parameter Name: *CmsCustomer*, then click **Save**.
 4. On the widget **Properties** create three properties by clicking **Create**. Set their  parameters and click **Save**. 
-  * For the *Customer name* property, set the parameters:
+  * For the *customerName* property, set the parameters:
     * Name: customerName
     * Type: String
-  * For the *Contact* property, set the parameters:
+  * For the *contact* property, set the parameters:
     * Name: contact
     * Type: String
-  * For the *Interaction* property, set the parameters:
+  * For the *interaction* property, set the parameters:
     * Name: interaction
     * Type: String
 
@@ -39,9 +39,12 @@ Now think of using the app we have just created. The users are free to enter con
 For the start, let us make it so that each customer may have several separate contact records. The operators will select from a dropbox the type of the contact they enter to the database.
 
 Do the following:
-1. We want each customer's contact to be stored as a separate item. This is why we will create a separate class, *CmsContact*.
-2. We will ling the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
-  *  
+1. Delete the property **
+2. Create a new class for storing contacts, *CmsContact*
+
+We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
+2. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
+  *  To the *CmsContact* class we will add a property *contactLink*
 
 
 ### ...
