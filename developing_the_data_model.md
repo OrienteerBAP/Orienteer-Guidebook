@@ -57,7 +57,7 @@ With this, we are done for this part. Now, when you create a customer, you do no
 
 Now that we have several classes implemented, we can view them all on an UML diagram.
 
-On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click 
+On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click [!View](View UML.png)
 
 ## About dropboxes
 Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
