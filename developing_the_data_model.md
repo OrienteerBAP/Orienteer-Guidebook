@@ -62,12 +62,16 @@ On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click
 ![](CMS_UML.png)
 
 
-## About dropboxes
-Now each customer in our CMS may have several contacts. But the way they are entered relies on the habits of the operator that types them in. Just think of how many ways there are to write the word *email*! The bunch of data on addresses that we will have will be 
+## Making a Document Property Selectable from a List
+Now let's move to our interaction with clients. We don't want the operator to type in the interaction stage. This field is crucial for our filtering, and we want the operator to select from a strictly defined list of interaction stages.
 
-think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
 
-For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
+
+each customer in our CMS may have several contacts. But the way they are entered relies on the habits of the operator that types them in. Just think of how many ways there are to write the word *email*! The bunch of data on addresses we will acquire won't be indexable. 
+
+Let us add a property to each contact that will be 
+
+The type of each contact will be selectable from a drop box.
 
 
 
