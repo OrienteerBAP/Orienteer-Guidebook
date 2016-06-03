@@ -40,8 +40,8 @@ Do the following:
   
 3. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
   *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact*.
-  *  To the *CmsContact* class we add a property *linkToCustomer*. As its **Type** set *LINK* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
-  *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *linkToCustomer*.
+  *  To the *CmsContact* class we add a property *Customer*. As its **Type** set *LINK* and as its **Linked Class** set *CmsCustomer*. Set the **Inverse** parameter. It will let you choose from the list of link type parameters of the linked class. In our case, the only available property of this kind in the class *CmsCustomer* is *linkToContacts*.
+  *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *Customer*.
 
 4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts*.
   * Set the parameter **Tab**: *Contacts*. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
@@ -76,7 +76,7 @@ For this, we will create yet another class, *CmsContactType*. This class will co
   * *skype*
   * *snail mail*
   * *telephone*
-3. In the class *CmsContact*, add a property *Contact_Type* with following parameters:
+3. In the class *CmsContact*, add a property *ContactType* with following parameters:
   * Type: LINK.
   * Visualization: listbox (this will let the user select the type of contact from a drop box).
   * Linked Class: CmsContactType.
