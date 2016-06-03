@@ -63,4 +63,23 @@ On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click
 
 
 ## Making a Document Property Selectable from a List
+
+Now we can make several contats for a client. But if we'd like to index them, we will face the fact that the app operators type in the data in a very different style. Just think of how many ways there are to write the work *email*!
+
+So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box.
+
+For this, we will create yet another class, *CmsContactType*. This class will contain three instances (documents) that will represent the allowed contact types.
+
+1. Create the class *CmsContactType* with just a single STRING type property, *contactTypeName*.
+2. In this class, create four documents: 
+  * *email* 
+  * *skype*
+  * *snail mail*
+  * *telephone*
+3. 
+
+
+##Deriving Classes
+Making an abstract interaction class
+
 Now let's move to our interaction with clients. We don't want the operator to type in the interaction stage. This field is crucial for our filtering, and we want the operator to select from a strictly defined list of interaction stages.
