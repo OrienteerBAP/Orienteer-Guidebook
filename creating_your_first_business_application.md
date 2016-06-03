@@ -59,6 +59,9 @@ Do the following:
 
 With this, we are done for this part. Now, when you create a customer, you do not give its contacts, only their name and stage of interaction. To add contacts, you will go to each customer's page and on a separate tab **Contacts** add as many contacts as you need.
 
+###Viewing the UML of the Data Model
+
+Now that we have several classes implemented, we can view them all
 
 ### About dropboxes
 Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
