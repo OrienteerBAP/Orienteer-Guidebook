@@ -57,10 +57,15 @@ With this, we are done for this part. Now, when you create a customer, you do no
 
 Now that we have several classes implemented, we can view them all on an UML diagram.
 
-On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click [!View](View UML.png)
+On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click ![](View UML.png). You will see the two classes with their links and properties on an UML diagram.
+
+![](CMS_UML.png)
+
 
 ## About dropboxes
-Now think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
+Now each customer in our CMS may have several contacts. But the way they are entered relies on the habits of the operator that types them in. Just think of how many ways there are to write the word *email*! The bunch of data on addresses that we will have will be 
+
+think of using the app we have just created. The users are free to enter contacts in any manner they like. They will each write the word *email* in another way (like *E-mail*). They will enter data in the way that you won't be able to analyze and index.
 
 For the start, let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer. The type of each contact will be selectable from a drop box.
 
