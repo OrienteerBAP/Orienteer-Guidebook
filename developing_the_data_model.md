@@ -4,6 +4,8 @@ We will build a simple data model and augment it in a step-by-step manner.
 We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
 
 ## Creating a Class
+In this part, we create a class and set its properties.
+
 We will start with the simplest model, with only one class, *Customer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
 
 1. Go to page */schema*.
