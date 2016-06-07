@@ -93,6 +93,8 @@ Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
 ##Deriving from Abstract Classes
+In this part, we will derive several 
+Deriving from abstract classes let you have similar parameters for several derived classes
 Making an abstract interaction class
 
 Now let's move to our interaction with clients. We don't want the operator to type in the interaction stage. This field is crucial for our filtering, and we want the operator to select from a strictly defined list of interaction stages.
