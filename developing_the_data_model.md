@@ -86,7 +86,10 @@ For this, we will create yet another class, *CmsContactType*. This class will co
   * Type: LINK.
   * Visualization: listbox (this will let the user select the type of contact from a drop box).
   * Linked Class: CmsContactType.
-4. 
+
+Now you can check any customer's contacts. When you add a new contact or edit an existing one, you will have a drop box to select from a pre-defined set of values.
+
+Let's view the new UML:
 
 ##Deriving Classes
 Making an abstract interaction class
