@@ -32,7 +32,7 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ## Linking Classes and Managing Property Visualization
-> This part will guide you through linking classes. You will also learn how to display a property on a separate tab and how to enable basic UI to manage linked properties of a document.
+> This part will guide you through linking classes. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
 
 In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
 
