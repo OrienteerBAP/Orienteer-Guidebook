@@ -4,7 +4,7 @@ We will build a simple data model and augment it in a step-by-step manner.
 We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
 
 ## Creating a Class
-In this part, we create a class and set its properties.
+> This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document).
 
 We will start with the simplest model, with only one class, *Customer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
 
@@ -32,6 +32,8 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ## Linking Classes
+> In this part we guide you through linking classes.
+
 In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
 
 Do the following:
