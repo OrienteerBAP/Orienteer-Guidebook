@@ -110,8 +110,19 @@ We want this to be more formalized. We want there to be three types of interacti
 The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. So, this is natural to create an abstract class *Interacton* with common properties and three derived subclasses.
 
 Steps to go:
-1. 
+1. Create a class *CmsInteraction*. In its parameters, check the box **Abstract**.
+2. For this class, create properties:
+  * *customer*:
+    * Type: LINK
+    * Linked Class: CmsCustomer
+  * *timestamp*: 
+    * Type: DATETIME
 
+
+
+1. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
+
+   So, delete the property *interaction* and create a new property with similar name with parameters Type: LINKLIST, Visualization: table
 
 
 ## Scaling the Data Model
