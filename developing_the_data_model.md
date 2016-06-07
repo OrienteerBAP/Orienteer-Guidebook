@@ -43,7 +43,7 @@ Do the following:
   *  To the *CmsContact* class we add a property *Customer*. Set the following:
     * Type: LINK
     * Linked Class: CmsCustomer
-    * Visualization: listbox (this will let the user select the linked customer from a drop box).
+    * Visualization: listbox (this will let the user select the linked customer for a contact from a drop box).
     *  Inverse: linkToContacts (it lets you choose a back link from the list of link type parameters of the linked class, *CmsCustomer*).
   *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *Customer*.
 
