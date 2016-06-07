@@ -117,7 +117,11 @@ Steps to go:
     * Linked Class: CmsCustomer
   * *timestamp*: 
     * Type: DATETIME
-
+3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Create three derived classes:
+  * Purchase, with following parameters:
+    * 
+  * Return
+  * Support
 
 
 1. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
