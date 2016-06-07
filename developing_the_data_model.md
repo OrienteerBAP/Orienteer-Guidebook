@@ -101,7 +101,7 @@ Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
 ##Deriving Classes
-In this part, we will derive several subclasses from a parent class. 
+> This part will guide you through deriving subclasses from a parent class.
 
 So far, we store information about interaction with customers in a string record of each customer. This record is voluntarily filled by the CMS operator. 
 
