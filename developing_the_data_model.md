@@ -32,7 +32,7 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ## Linking Classes and Managing Property Visualization
-> This part will guide you through linking classes. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
+> This part will guide you through linking classes in Orienteer. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
 
 In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
 
@@ -65,7 +65,7 @@ With this, we are done for this part. Now, when you create a customer, you do no
 
 ##Viewing the UML of the Data Model
 
-> This part will help you view the UML of your data model.
+> This part will help you view the UML of your data model in Orienteer.
 
 Now that we have several classes implemented, we can view them all on an UML diagram.
 
@@ -76,7 +76,7 @@ On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click
 
 ## Making a Document Property Selectable from a List
 
-> In this part, you will learn how to make a property with values selectable from a list.
+> This part will help you make a property with values selectable from a list.
 
 Now we can make several contats for a client. But if we'd like to index them, we will face the fact that the app operators type in the data in a very different style. Just think of how many ways there are to write the work *email*!
 
@@ -101,7 +101,7 @@ Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
 ##Deriving Classes
-> This part will guide you through deriving subclasses from a parent class.
+> This part will guide you through deriving subclasses from a parent class in Orienteer.
 
 So far, we store information about interaction with customers in a string record of each customer. This record is voluntarily filled by the CMS operator. 
 
@@ -139,6 +139,6 @@ So, now can log our interactions with clients on a separate tab. Let's view the 
 ![](CMS_UML_step_3.png)
 
 ## Calculable Properties
-
+> This part will show you an example of using calculable properties in Orienteer.
 
 ## Scaling the Data Model
