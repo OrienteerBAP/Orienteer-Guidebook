@@ -134,7 +134,7 @@ Steps to go:
 5. For the class *CmsInteraction*, for the property *customer* set Inverse: interaction.
 6. Let us also have interactions for each customer on a separate tab. So, for the class *CmsCustomer*, for the parameter *interactions*, set Tab: Interactions.
 
-So, now 
+So, now can log our interactions with clients on a separate tab.
 
 ## Calculable Properties
 
