@@ -118,7 +118,7 @@ Steps to go:
   * *timestamp*: 
     * Type: DATETIME
 3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Create three derived classes:
-  * Purchase, with following parameters:
+  * *CmsPurchase*, with following properties:
     * 
   * Return
   * Support
