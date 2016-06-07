@@ -76,6 +76,8 @@ On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click
 
 ## Making a Document Property Selectable from a List
 
+> In this part, you will learn how to make a property with values selectable from a list.
+
 Now we can make several contats for a client. But if we'd like to index them, we will face the fact that the app operators type in the data in a very different style. Just think of how many ways there are to write the work *email*!
 
 So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box.
