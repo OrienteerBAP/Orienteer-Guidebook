@@ -118,8 +118,9 @@ Steps to go:
   * *timestamp*: 
     * Type: DATETIME
 3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Create three derived classes:
-  * *CmsPurchase*, with following properties:
-    * 
+  * *CmsPurchase*:
+    * On the **Properties** widget, click **Save** to confirm the inherited properties.
+    * Create the specific string-type property *products* that will stope the list of purchased products.
   * Return
   * Support
 
