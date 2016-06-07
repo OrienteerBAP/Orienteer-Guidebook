@@ -42,7 +42,7 @@ Do the following:
   *  To the *CmsCustomer* class we add a property *linkToContacts* with following parameters:
     *  Type: LINKLIST
     *  Linked Class: CmsContact
-  *  To the *CmsContact* class we add a property *Customer* with following parametes:
+  *  To the *CmsContact* class we add a property *Customer* with following parameters:
     * Type: LINK
     * Linked Class: CmsCustomer
     * Visualization: listbox (this will let the user select the linked customer for a contact from a drop box).
