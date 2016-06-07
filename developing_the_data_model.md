@@ -93,23 +93,14 @@ Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
 ##Deriving Classes
+In this part, we will derive several subclasses from a parent class. 
+
 So far, we store information about interaction with customers in a string record of each customer. This record is voluntarily filled by the CMS operator. 
 
 We want this to be more formalized. We want there to be three types of interaction: purchase, return, support. Each will have a timestamp and a desctiption.
 
-The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. 
-
-have three types of interaction with customers, 
-
-In this part, we will derive several subclasses from a parent class. 
+The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. So, this is  
 
 
-
-This will let us keep common parameters in related classes.
-
-Deriving from abstract classes let you have similar parameters for several derived classes
-Making an abstract interaction class
-
-Now let's move to our interaction with clients. We don't want the operator to type in the interaction stage. This field is crucial for our filtering, and we want the operator to select from a strictly defined list of interaction stages.
 
 ## Scaling the Data Model
