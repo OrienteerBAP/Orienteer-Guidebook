@@ -39,7 +39,9 @@ Do the following:
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
   
 3. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
-  *  To the *CmsCustomer* class we add a property *linkToContacts*. As its **Type** set *LINKLIST* and as its **Linked Class** set *CmsContact*.
+  *  To the *CmsCustomer* class we add a property *linkToContacts*. Set the following:
+    *  Type: LINKLIST
+    *  Linked Class: CmsContact
   *  To the *CmsContact* class we add a property *Customer*. Set the following:
     * Type: LINK
     * Linked Class: CmsCustomer
