@@ -4,7 +4,7 @@ We will build a simple data model and augment it in a step-by-step manner.
 We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
 
 ## Creating a Class
-> This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document).
+> This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document) in Orienteer.
 
 We will start with the simplest model, with only one class, *Customer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
 
