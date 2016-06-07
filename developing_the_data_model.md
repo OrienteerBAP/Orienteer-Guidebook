@@ -92,7 +92,7 @@ Now you can check any customer's contacts. When you add a new contact or edit an
 Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
-##Deriving Classes
+##Deriving from Abstract Classes
 Making an abstract interaction class
 
 Now let's move to our interaction with clients. We don't want the operator to type in the interaction stage. This field is crucial for our filtering, and we want the operator to select from a strictly defined list of interaction stages.
