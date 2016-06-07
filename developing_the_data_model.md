@@ -131,6 +131,6 @@ Steps to go:
    * Visualization: table
    * Linked Class: CmsInteraction
    * Inverse: customer.
-
+5. For the class *CmsInteraction*, for the property *customer* set Inverse: interaction.
 
 ## Scaling the Data Model
