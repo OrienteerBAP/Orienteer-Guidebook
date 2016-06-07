@@ -31,7 +31,7 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 2. To create a new document, click **Create**.
 3. Now you can fill new client's data and save it.
 
-## Linking Classes and Managing Property 
+## Linking Classes and Managing Property Visualization in Documents
 > In this part we guide you through linking classes, 
 
 In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
