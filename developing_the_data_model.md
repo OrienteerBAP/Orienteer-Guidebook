@@ -117,12 +117,12 @@ Steps to go:
     * Linked Class: CmsCustomer
   * *timestamp*: 
     * Type: DATETIME
-3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Create three derived classes:
-  * *CmsPurchase*:
+3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Do the following:
+  * Create the derived class *CmsPurchase*:
     * On the **Properties** widget, click **Save** to confirm the inherited properties.
-    * Create the specific string-type property *products* that will stope the list of purchased products.
-  * Return
-  * Support
+    * Create the class-specific string-type property *products* that will store the list of purchased products.
+  * Derive the class *CmsReturn* with specific string-type properties *returnProducts* and *claimReason*.
+  * Derive the class *CmsSupport* with spec 
 
 
 1. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
