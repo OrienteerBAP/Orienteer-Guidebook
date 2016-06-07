@@ -124,10 +124,13 @@ Steps to go:
   * Derive the class *CmsReturn* with specific string properties *returnProducts* and *claimReason*.
   * Derive the class *CmsSupport* with the specific string property *chatHistory*.
 
+4. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
 
-1. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
-
-   So, delete the property *interaction* and create a new property with similar name with parameters Type: LINKLIST, Visualization: table
+   So, delete the property *interaction* and create a new property with similar name with parameters:
+   * Type: LINKLIST
+   * Visualization: table
+   * Linked Class: CmsInteraction
+   * Inverse: customer.
 
 
 ## Scaling the Data Model
