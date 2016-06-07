@@ -89,7 +89,8 @@ For this, we will create yet another class, *CmsContactType*. This class will co
 
 Now you can check any customer's contacts. When you add a new contact or edit an existing one, you will have a drop box to select from a pre-defined set of values.
 
-Let's view the new UML:
+Let's check the new UML:
+![](CMS_UML_step_2.png)
 
 ##Deriving Classes
 Making an abstract interaction class
