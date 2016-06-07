@@ -92,8 +92,9 @@ Now you can check any customer's contacts. When you add a new contact or edit an
 Let's check the new UML:
 ![](CMS_UML_step_2.png)
 
-##Deriving from Abstract Classes
-In this part, we will derive several 
+##Deriving Classes
+In this part, we will derive several subclasses from a parent class
+
 Deriving from abstract classes let you have similar parameters for several derived classes
 Making an abstract interaction class
 
