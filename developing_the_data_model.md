@@ -140,4 +140,5 @@ So, now can log our interactions with clients on a separate tab. Let's view the 
 
 ## Calculable Properties
 
+
 ## Scaling the Data Model
