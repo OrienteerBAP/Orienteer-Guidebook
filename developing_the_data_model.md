@@ -99,7 +99,7 @@ So far, we store information about interaction with customers in a string record
 
 We want this to be more formalized. We want there to be three types of interaction: purchase, return, support. Each will have a timestamp and a desctiption.
 
-The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. So, this is  
+The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. So, this is natural to create an abstract class *Interacton* with common 
 
 
 
