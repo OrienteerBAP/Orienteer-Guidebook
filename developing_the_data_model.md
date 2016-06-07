@@ -120,9 +120,9 @@ Steps to go:
 3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Do the following:
   * Create the derived class *CmsPurchase*:
     * On the **Properties** widget, click **Save** to confirm the inherited properties.
-    * Create the class-specific string-type property *products* that will store the list of purchased products.
-  * Derive the class *CmsReturn* with specific string-type properties *returnProducts* and *claimReason*.
-  * Derive the class *CmsSupport* with spec 
+    * Create the class-specific string property *products* that will store the list of purchased products.
+  * Derive the class *CmsReturn* with specific string properties *returnProducts* and *claimReason*.
+  * Derive the class *CmsSupport* with the specific string property *chatHistory*.
 
 
 1. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
