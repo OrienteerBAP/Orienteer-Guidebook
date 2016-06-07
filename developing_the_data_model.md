@@ -75,12 +75,12 @@ For this, we will create yet another class, *CmsContactType*. This class will co
   * *email* 
   * *skype*
   * *snail mail*
-  * *telephone*
+  * *telephone* 
 3. In the class *CmsContact*, add a property *ContactType* with following parameters:
   * Type: LINK.
   * Visualization: listbox (this will let the user select the type of contact from a drop box).
   * Linked Class: CmsContactType.
-
+4. 
 
 ##Deriving Classes
 Making an abstract interaction class
