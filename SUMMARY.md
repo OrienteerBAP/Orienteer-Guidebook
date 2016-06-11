@@ -10,7 +10,7 @@
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
-   * [Managing Users]
+   * Creating Users
    * Managing the UI
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
