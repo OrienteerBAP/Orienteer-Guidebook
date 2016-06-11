@@ -138,9 +138,8 @@ So, now can log our interactions with clients on a separate tab. Let's view the 
 
 ![](CMS_UML_step_3.png)
 
-## Calculable Properties
+## Calculable Properties [...]
 > This part will show you an example of using calculable properties in Orienteer.
 
 You may have noticed that the interactions with customer shown on a separate tab 
-
-## Scaling the Data Model
+[...]
