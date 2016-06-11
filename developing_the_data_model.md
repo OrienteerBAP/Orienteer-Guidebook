@@ -1,6 +1,6 @@
 # Developing The Data Model
 
-In this section, we go through building a simple data model and augment it in a step-by-step manner. 
+In this section, we go through building a simple data model and augmenting it step-by-step.
 We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
 
 ## Creating a Class
