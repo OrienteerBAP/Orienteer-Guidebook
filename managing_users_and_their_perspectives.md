@@ -22,6 +22,9 @@ To check the new perspective, select it with the icon on the top right: ![](UI-s
    * Name: Jane
    * Status: Account manager
    * Password: qwerty
+   
+   After you click **Save**, in the **Roles** tab, add the role *Account manager*
+ 
 
 
 
