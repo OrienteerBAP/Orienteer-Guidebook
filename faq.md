@@ -45,6 +45,11 @@ A: Yes. There are two main ways for that:
 * If a class extends the *OTriggered* class, you can set it to call the event *onAfterRead* that will check user rights. For details, see [OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 * For providing higher performance, you can implement a java hook with the *ORecordHook* interface, which would check credentials of the user that works with data. For details, see [OrientDB guide](http://orientdb.com/docs/last/Java-Hooks.html).
 
+**Q: Can I change the type of a property? Are there any limitations?**
+ 
+ A:  [1) allowed transitions; 2) calculatung values for a new property from the old one]
+ 
+ 
 ##Performance
 
 **Q: What are performance limitations or Orienteer?**
