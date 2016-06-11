@@ -143,3 +143,7 @@ So, now can log our interactions with clients on a separate tab. Let's view the 
 
 You may have noticed that the interactions with customer shown on a separate tab 
 [...]
+
+## Localization
+
+...
