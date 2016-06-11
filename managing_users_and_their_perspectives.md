@@ -1,6 +1,6 @@
 # Managing Users and their Perspectives
 
-In this section, we go through managing perspectives, user roles and creating users.
+In this section, we go through managing perspectives and creating users.
 
 A perspective is the user work space that displays only those sections of the data base that this kind of user needs. Perspectives are assigned to roles.
 
@@ -14,16 +14,19 @@ On the menu on the left, click **Perspectives**, create a perspective with param
 
 To check the new perspective, select it with the icon on the top right: ![](UI-selecting-perspectives.jpg).
 
-##Creating a User
+##Creating a User role and a User
+On the menu on the left, click **Roles**. Create a role with parameters:
+* Name: Account manager
+* Perspective: Account manager
+
 On the menu on the left, click **Users**. Create a user with parameters:
 * Name: Jane
 * Status: Account manager
 * Perspective: Account manager
 * Password: qwerty
-   
- 
 
+Now when Jane logs in, she will see her default perspective.
 
-
+>Warning! 
 Security
 Availability 
