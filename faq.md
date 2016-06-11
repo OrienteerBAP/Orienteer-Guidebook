@@ -57,7 +57,7 @@ A: ... [obligatory correction at next document edit]
  
  [1) allowed transitions; 2) calculatung values for a new property from the old one (e.g. STRING -> DATE)]
  
- 
+ **Q: What happens to documents when I delete their class?**
  
 ##Performance
 
