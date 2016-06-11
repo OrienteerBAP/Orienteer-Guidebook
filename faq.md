@@ -34,7 +34,7 @@ A: A document is an object of a class.
 
 A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered class. They may trigger  any automatic actions, from screen notifications or emails to making outomatic records to a log. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
-**Q: Similarly, can Orienteer do specific actions on complicated coincidences of data from many properties of many documents? For example, identifying statistical outlyers.**
+**Q: Similarly, can Orienteer do specific actions on coincidences of data from many properties of many documents? For example, identifying statistical outlyers.**
 
 A: Yes. Similarly, this will require using hooks (triggers) by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
@@ -44,6 +44,8 @@ A: Yes. There are two main ways for that:
 
 * If a class extends the *OTriggered* class, you can set it to call the event *onAfterRead* that will check user rights. For details, see [OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 * For providing higher performance, you can implement a java hook with the *ORecordHook* interface, which would check credentials of the user that works with data. For details, see [OrientDB guide](http://orientdb.com/docs/last/Java-Hooks.html).
+
+##Integrity and data control
 
 **Q: What happens if I change parameters of a property so that the existing property values are no more valid?**
 
