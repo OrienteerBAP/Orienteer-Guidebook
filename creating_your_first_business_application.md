@@ -8,9 +8,6 @@ It's time to create your business application. Assuming that you know what you w
 
 
 [to add to this chapter]
-* Configuring the UI
-  * Dashboards, tabs
- 
-* Data Visualisation: Pivot table, other custom and configurable widgets.
+
 * Localization
 
