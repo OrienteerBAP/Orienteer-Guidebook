@@ -47,7 +47,7 @@ A: Yes. There are two main ways for that:
 
 **Q: What happens if I change parameters of a property so that the existing property values are no more valid?**
 
-A: ... 
+A: ... [obligatory correction at next document edit]
 
 **Q: Can I change the type of a property? Are there any limitations?**
  
