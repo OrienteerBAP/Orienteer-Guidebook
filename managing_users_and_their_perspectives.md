@@ -19,7 +19,9 @@ To check the new perspective, select it with the icon on the top right: ![](UI-s
    *  Name: Account manager
    *  Perspective: Account manager
 2. On the menu on the left, click **Users**. Create a user with parameters:
-   * 
+   * Name: Jane
+   * Status: Account manager
+   * Password: qwerty
 
 
 
