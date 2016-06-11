@@ -47,7 +47,9 @@ A: Yes. There are two main ways for that:
 
 **Q: Can I change the type of a property? Are there any limitations?**
  
- A:  [1) allowed transitions; 2) calculatung values for a new property from the old one]
+ A:  ...
+ 
+ [1) allowed transitions; 2) calculatung values for a new property from the old one (e.g. STRING -> DATE)]
  
  
 ##Performance
