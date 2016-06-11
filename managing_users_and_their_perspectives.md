@@ -14,16 +14,13 @@ On the menu on the left, click **Perspectives**, create a perspective with param
 
 To check the new perspective, select it with the icon on the top right: ![](UI-selecting-perspectives.jpg).
 
-##Creating a User Role and a User
-1. On the menu on the left, click **Roles**. Create a  role with parameters:
-   *  Name: Account manager
-   *  Perspective: Account manager
-2. On the menu on the left, click **Users**. Create a user with parameters:
-   * Name: Jane
-   * Status: Account manager
-   * Password: qwerty
+##Creating a User
+On the menu on the left, click **Users**. Create a user with parameters:
+* Name: Jane
+* Status: Account manager
+* Perspective: Account manager
+* Password: qwerty
    
-   After you click **Save**, in the **Roles** tab, add the role *Account manager*
  
 
 
