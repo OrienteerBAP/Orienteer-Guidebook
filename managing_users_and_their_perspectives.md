@@ -19,7 +19,8 @@ The users who will use our CRM app and work with clients, need only several sect
 To check the new perspective, select it with the icon on the top right: ![](UI-selecting-perspectives.jpg).
 
 ##Creating a User Role
-
+1. On the menu on the left, click **Roles**.
+2. 
 
 
 Security
