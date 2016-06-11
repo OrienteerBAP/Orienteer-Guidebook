@@ -141,6 +141,6 @@ So, now can log our interactions with clients on a separate tab. Let's view the 
 ## Calculable Properties
 > This part will show you an example of using calculable properties in Orienteer.
 
-Maybe you have noticed that 
+You may have noticed that the interactions with customer shown on a separate tab 
 
 ## Scaling the Data Model
