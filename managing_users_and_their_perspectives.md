@@ -23,7 +23,8 @@ To check the new perspective, select it with the icon on the top right: ![](UI-s
 2. Click **Create**.
 3. Set the following:
    *  Name: Account manager
-   *  Perspective: 
+   *  Perspective: Account manager
+4. Click **Save**.
 
 
 Security
