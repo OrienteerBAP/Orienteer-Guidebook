@@ -3,4 +3,6 @@
 
 * Dashboards, 
 * tabs
-* Data Visualisation: Pivot table, other custom and configurable widgets.
+* Data Visualisation: 
+  * Pivot table, 
+  * other custom and configurable widgets.
