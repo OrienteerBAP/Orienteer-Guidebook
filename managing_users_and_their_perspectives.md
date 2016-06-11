@@ -22,11 +22,15 @@ On the menu on the left, click **Roles**. Create a role with parameters:
 On the menu on the left, click **Users**. Create a user with parameters:
 * Name: Jane
 * Status: Account manager
-* Perspective: Account manager
 * Password: qwerty
+
+After you click **Save**, in the table below, select the role *Account manager*.
 
 Now when Jane logs in, she will see her default perspective.
 
 >Warning! 
 Security
 Availability 
+
+You may have noticed that we could 
+
