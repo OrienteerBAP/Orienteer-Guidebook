@@ -10,7 +10,17 @@ The users who will use our CRM app and work with clients, need only several sect
 
 1. On the menu on the left, click **Perspectives**.
 2. Click **Create**.
-3. For Name, click **Add**. In the drop box, you will need to type in the localization of the 
+3. For Name, click **Add**. In the drop box, you will need to type in the localization of the perspective name. Type *en*. On the right, type *Account manager*.
+4. Home URL: /browse/CmsContact
+
+    This is the relative URL of the list of contacts, the page that we want this user to see after the logon. 
+5. Click **Save**.
+
+To check the new perspective, select it with the icon on the top right: ![](UI-selecting-perspectives.jpg).
+
+##Creating a User Role
 
 
-##
+
+Security
+Availability 
