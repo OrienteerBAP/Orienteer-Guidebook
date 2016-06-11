@@ -20,7 +20,10 @@ To check the new perspective, select it with the icon on the top right: ![](UI-s
 
 ##Creating a User Role
 1. On the menu on the left, click **Roles**.
-2. 
+2. Click **Create**.
+3. Set the following:
+   *  Name: Account manager
+   *  Perspective: 
 
 
 Security
