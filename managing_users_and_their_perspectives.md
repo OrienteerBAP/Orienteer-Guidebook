@@ -28,7 +28,6 @@ After you click **Save**, in the table below, select the role *Account manager*.
 
 Now when Jane logs in, she will see her default perspective.
 
->Warning! Users still can access other pages of the data base via their URLs. If you want to restrict users from modifying anything out of their allowed work space, [configure security at the level of roles and / or documents](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
-
 You may have noticed that we could skip creating a role and specify the perspective in the user settings directly. This will work, but setting roles for users is a good practice because security control at user rights level is based on roles.
 
+>Warning! Users still can access other pages of the data base via their URLs. If you want to restrict users from modifying anything out of their allowed work space, [configure security at the level of roles and / or documents](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
