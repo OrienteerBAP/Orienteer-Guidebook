@@ -8,7 +8,9 @@ A perspective is the user work space that displays only those sections of the da
 
 The users who will use our CRM app and work with clients, need only several sections of the data base. They do not need the tools for creating classes, managing users etc. So, we will create a perspective for them that will show only their part of work.
 
-1. On the menu on the left, click [!sa](perspectives-small1.png)
+1. On the menu on the left, click **Perspectives**.
+2. Click **Create**.
+3. For Name, click **Add**. In the drop box, you will need to type in the localization of the 
 
 
 ##
