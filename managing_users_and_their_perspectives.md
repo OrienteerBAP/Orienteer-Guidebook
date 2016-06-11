@@ -17,7 +17,7 @@ To check the new perspective, select it with the icon on the top right: ![](UI-s
 ##Creating a User role and a User
 On the menu on the left, click **Roles**. Create a role with parameters:
 * Name: Account manager
-* Perspective: Account manager
+* Perspective: Account manager (and you can add more than one perspective to a role).
 
 On the menu on the left, click **Users**. Create a user with parameters:
 * Name: Jane
@@ -32,5 +32,5 @@ Now when Jane logs in, she will see her default perspective.
 Security
 Availability 
 
-You may have noticed that we could 
+You may have noticed that we could skip creating a role and specify the perspective in the user settings directly. This will work, but setting roles for users is a good practice because security control at user rights level is based on roles.
 
