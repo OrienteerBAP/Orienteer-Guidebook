@@ -11,7 +11,7 @@
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
-   * Managing the UI
+   * [Managing the UI](managing_the_ui.md)
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Managing Classes](initial_data_model_configuration.md)
