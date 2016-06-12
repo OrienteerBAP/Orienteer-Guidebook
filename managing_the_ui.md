@@ -1,6 +1,6 @@
-# Managing the UI
+#Data Visuzlization
 
-In this section, we will go through managing Orienteer UI elements (more aout Orienteer UI here: [Understanding Orienteer UI](https://orienteer.gitbooks.io/orienteer/content/understanding_orienteer_ui.html)).
+In this section, we will go through setting several Orienteer UI elements (more about Orienteer UI here: [Understanding Orienteer UI](https://orienteer.gitbooks.io/orienteer/content/understanding_orienteer_ui.html)).
 
 ##Adding a Data Graph
 
