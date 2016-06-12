@@ -1,12 +1,12 @@
 # Managing the UI
 
-The Orienteer UI basic concepts are pages, dashboards and widgets (more insection [Understanding Orienteer UI](https://orienteer.gitbooks.io/orienteer/content/understanding_orienteer_ui.html)). In this section, we will go through managing them.
+In this section, we will go through managing Orienteer UI elements (more aout Orienteer UI here: [Understanding Orienteer UI](https://orienteer.gitbooks.io/orienteer/content/understanding_orienteer_ui.html)).
 
+##Adding a Data Graph
 
-##Dashboards
-##Widgets
 
 ##Custom Pages
+
 
 * Dashboards, 
 * tabs
