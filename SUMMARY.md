@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
-* [Starting with Orienteer](getting_started.md)
+* [Getting Started](getting_started.md)
    * [Installation](installation.md)
      * System Requirements
      * Installation as WAR
