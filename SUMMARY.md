@@ -5,7 +5,7 @@
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
        * [System Requirements](system_requirements.md)
-       * Installation as WAR
+       * [Installation as WAR](installation_as_war.md)
        * Installation as Standalone Application
        * Installation via Docker
        * [Configuration File](editing_the_orienteer_configuration_file.md)
