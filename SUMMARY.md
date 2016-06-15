@@ -4,11 +4,11 @@
    * [About Orienteer](about_orienteer.md)
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
-     * System Requirements
-     * Installation as WAR
-     * Installation as Standalone Application
-     * Installation via Docker
-     * [Configuration File](editing_the_orienteer_configuration_file.md)
+       * [System Requirements](system_requirements.md)
+       * Installation as WAR
+       * Installation as Standalone Application
+       * Installation via Docker
+       * [Configuration File](editing_the_orienteer_configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
