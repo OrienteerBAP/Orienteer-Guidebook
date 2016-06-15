@@ -2,7 +2,14 @@
 
 Initial installation of Orienteer is as easy as a double-click. This is the first step towards implementation of your business app.
 
-Before installing, you may want [to test-drive a deployed Orienteer database](http://demo.orienteer.org/login).
+There is no need to install Orienteer if you just want to check it out: [Welcome to out Orienteer Demo Site](http://demo.orienteer.org).
+
+There are 3 ways to get your own Orienteer installed:
+
+1. Install as WAR
+2. Install as Standalone Application
+3. Install via Docker
+
 
 ## Installation Options and System Requirements
 
