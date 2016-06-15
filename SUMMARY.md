@@ -8,7 +8,7 @@
        * [Installation as WAR](installation_as_war.md)
        * Installation as Standalone Application
        * Installation via Docker
-       * [Configuration File](editing_the_orienteer_configuration_file.md)
+       * [Configuration File](configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
