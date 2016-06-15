@@ -6,7 +6,7 @@
    * [Installation](installation.md)
        * [System Requirements](system_requirements.md)
        * [Installation as WAR](installation_as_war.md)
-       * Installation as Standalone Application
+       * [Installation as Standalone Application](installation_as_standalone_application.md)
        * Installation via Docker
        * [Configuration File](configuration_file.md)
    * [Architecture](architecture.md)
