@@ -1,0 +1,2 @@
+# Installation as Standalone Application
+
