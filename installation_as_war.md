@@ -1,0 +1,2 @@
+# Installation as WAR
+
