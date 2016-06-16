@@ -61,12 +61,16 @@ A: ... [obligatory correction at next document edit]
  
  ...
  
+ ##Logging
+ 
 **Q: How can data changes be logged?**
 
 A: See http://orientdb.com/docs/last/Auditing.html
 
-
+**Q: How can I delete a class but leave its documents in the database for auditing and history logs? Can I hide it and prevent it from being used?**
  
+...
+
 ##Performance
 
 **Q: What are performance limitations or Orienteer?**
