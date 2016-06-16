@@ -58,10 +58,12 @@ A: ... [obligatory correction at next document edit]
  [1) allowed transitions; 2) calculatung values for a new property from the old one (e.g. STRING -> DATE)]
  
  **Q: What happens to documents when I delete their class?**
+ 
  ...
  
-**How can data changes be logged?**
-See http://orientdb.com/docs/last/Auditing.html
+**Q: How can data changes be logged?**
+
+A: See http://orientdb.com/docs/last/Auditing.html
 
 
  
