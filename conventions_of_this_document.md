@@ -9,6 +9,7 @@ Examples of code or text in a file are given in boxes, like this
 > Code example
 > 
 
+Setting parameters is shown with a colon. For example:
 
-Оформление задания параметров
+"Set Type:LINK" means that for the parameter "Type" you should set the value "LINK".
 
