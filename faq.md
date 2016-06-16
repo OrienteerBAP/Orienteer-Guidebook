@@ -38,12 +38,18 @@ A: Yes. For this, you will use hooks (triggers), by deriving from the OTriggered
 
 A: Yes. Similarly, this will require using hooks (triggers) by deriving from the OTriggered class. For details, [see OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
+##Users and User Rights
+
 **Q: Can I make rights of users to read / write documents dependent on values of particular properties? E.g. I would like to make documents marked *for audit* visible for the *Auditor* role**
 
 A: Yes. There are two main ways for that:
 
 * If a class extends the *OTriggered* class, you can set it to call the event *onAfterRead* that will check user rights. For details, see [OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 * For providing higher performance, you can implement a java hook with the *ORecordHook* interface, which would check credentials of the user that works with data. For details, see [OrientDB guide](http://orientdb.com/docs/last/Java-Hooks.html).
+
+**Q: How can I add company departments as groups of users to manage them in joint? **
+
+...
 
 ##Integrity and Data Control
 
