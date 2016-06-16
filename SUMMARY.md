@@ -7,7 +7,7 @@
        * [System Requirements](system_requirements.md)
        * [Installation as WAR](installation_as_war.md)
        * [Installation as Standalone Application](installation_as_standalone_application.md)
-       * Installation via Docker
+       * [Installation via Docker](installation_via_docker.md)
        * [Configuration File](configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
