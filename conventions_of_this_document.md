@@ -10,7 +10,7 @@
 > Code 
 > 
 
-* Setting parameters is shown with a colon. For example:
+* Setting parameters is shown with a colon. 
 
-  "Set Type:LINK" says: for the parameter "Type", set the value "LINK".
+  For example, "Set Type:LINK" says: for the parameter "Type", set the value "LINK".
 
