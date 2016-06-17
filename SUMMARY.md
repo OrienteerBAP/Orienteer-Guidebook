@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
    * [About Orienteer](about_orienteer.md)
+   * Orienteer Performance
    * [Conventions](conventions_of_this_document.md)
 * [Getting Started](getting_started.md)
    * [Installation](installation.md)
