@@ -3,7 +3,7 @@
 ##What is Orienteer
 Orienteer is a platform for developing business applications of any complexity: CRM, ERP, CMS, BPM, mobile apps, web site back-end etc. 
 
-**Technically**, Orienteer is a Java Servlet 3.1 web application built on top of the <a href="http://orientdb.com/" target=blank>OrientDB database</a>. OrientDB is NoSQL based database and implements the [document-graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). This approach suits best for today's trends in data management  and provides high performance, scalability, productivity and flexibility.
+Technically, Orienteer is a Java Servlet 3.1 web application built on top of the <a href="http://orientdb.com/" target=blank>OrientDB database</a>. OrientDB is NoSQL based database and implements the [document-graph approach](http://orientdb.com/docs/last/Tutorial-Introduction-to-the-NoSQL-world.html). This approach suits best for today's trends in data management  and provides high performance, scalability, productivity and flexibility.
 
 ##Orienteer key benefits
 
