@@ -35,8 +35,8 @@ The Orienteer approach  inherits much from OrientDB. The data model is represent
 
 ##Features Coming in Next Versions
 
-* Backup/restore
-* Software upgrading
-* Export/import
-* Logging
-* Integration with third party software
+* Backup / restore. 
+* Software upgrading.
+* Export / import.
+* Logging.
+* Integration with third party software.
