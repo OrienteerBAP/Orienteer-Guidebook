@@ -1,6 +1,6 @@
 # Installing Orienteer
 
-Initial installation of Orienteer is as easy as a double-click. This is the first step towards implementation of your business app.
+Initial installation of Orienteer is the first step towards implementation of your business app. is as easy as a double-click.
 
 There is no need to install Orienteer if you just want to check it out: [Welcome to out Orienteer Demo Site](http://demo.orienteer.org).
 
