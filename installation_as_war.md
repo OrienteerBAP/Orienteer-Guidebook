@@ -1,4 +1,4 @@
-# Installation as WAR
+# Installing as a Web Application
 
 Orienteer can be installed on all famous compatible web application servers:
   * [WildFly/Jboss](http://wildfly.org/),
