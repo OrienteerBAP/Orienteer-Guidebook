@@ -1,6 +1,6 @@
 # Creating the Orienteer Configuration File
 
-orienteer.properties is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties). 
+*orienteer.properties* is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties). 
 
 **Configurations**
 
@@ -10,7 +10,7 @@ orienteer.properties is a text file that stores initial configuration parameters
 *  Run an embedded OrientDB server (true) or an external OrientDB server (false).
   
   `orientdb.embedded=[true|false]`
-*  If you are running an external OrientDB server, provide its URL (for example, orientdb.url=remote:localhost/Orienteer).  For details, see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
+*  If you are running an external OrientDB server, provide its URL (for example, *orientdb.url=remote:localhost/Orienteer*).  For details, see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
 
   `orientdb.url=<URL>`
 
