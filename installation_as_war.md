@@ -22,5 +22,3 @@ To install Orienteer with the administration console of your application server:
   * [Create the Orienteer configuration file *orienteer.properties*](configuration_file.md) and copy it to working directory or one of its parent directories.
   * If you don't want to create a configuration file, you can set network parameters of Orienteer in management console, and other parameters in system environment variables. 
 5. Run the application server.
-
-
