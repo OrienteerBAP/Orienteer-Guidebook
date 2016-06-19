@@ -11,7 +11,7 @@ Example (the default perspective in Orienteer):
 
 ![](Perspectives-small1.png)
 
-To switch between perspectives, click ![](UI-selecting-perspectives.jpg) on the top right and select required one.
+To switch between perspectives, click ![](UI-selecting-perspectives.jpg) on the top right and select the one you need.
 
 ## Tabs, dashboards and widgets
 
