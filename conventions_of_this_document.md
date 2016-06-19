@@ -5,9 +5,8 @@
   
 * Interface elements, like buttons or anything that has a name and that you can click is given with the **bold** font. 
 
-* Code and commands are given in a box, like this: `Code`
+* Code and commands are given in `boxes`.
 
-* Setting parameters is shown with a colon. 
-
-  For example, "Set Type:LINK" says: for the parameter "Type", set the value "LINK".
+* Setting parameters is shown with a colon.   For example, "Set Type:LINK" says: for the parameter "Type", set the value "LINK".
+  
 
