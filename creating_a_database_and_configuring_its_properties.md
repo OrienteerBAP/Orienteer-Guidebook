@@ -22,6 +22,6 @@ Commonly there is no need to configure OrientDB database manually, because Orien
 * Charset sets the character encoding.
 * Custom: custom settings.
 * Cluster Selection: the cluster selection approach.
-* Minimum Clusters;
+* Minimum Clusters:
 * Conflict Strategy: the strategy of conflicts resolution.
 * Validation: enables / disables validation.
