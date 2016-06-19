@@ -1,6 +1,6 @@
 # Understanding Orienteer UI
 
-The Orienteer UI based on HTML5 with adoptive design techniques, which allow to use Orienteer on desktop, tablet and mobile devices.
+The Orienteer UI is based on HTML5. Its adoptive design makes Orienteer useable on desktop, tablet and mobile devices.
 
 ## Pages and perspectives
 Orienteer is displayed as a set of **pages**. Some pages may be universal for all Orienteer apps, like *Users* or *Classes*. Others will be specific to particular apps. Users can access pages by clicking their links (e.g. on the menu) and [via their URLs](https://orienteer.gitbooks.io/orienteer/content/special_urls.html).  
