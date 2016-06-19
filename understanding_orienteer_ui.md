@@ -5,7 +5,7 @@ The Orienteer UI is based on HTML5. Its adoptive design makes Orienteer suitable
 ## Pages and perspectives
 An Orienteer app is displayed as a set of **pages**. Some pages are common for all Orienteer apps, like "Users" or "Classes". Other pages are specific to particular apps. You can access pages by clicking their links (e.g. on the menu) and via their URLs. [Here](https://orienteer.gitbooks.io/orienteer/content/special_urls.html) you can check URLs of common Orienteer app pages.  
 
-Perspectives are used  to personalize UI for different user roles. For example one perspective can show analysis dashboards for executive managers, but other perspective can be used for everyday operational activities. Perspective defines menu structure and generic UI properties, for example home page location. 
+Perspectives are used  to personalize UI for different user roles. For example, in your app, you may have 1) a perspective for executive managers with business analysis dashboards and 2) another perspective for customer service operators with their everyday operational activities. A perspective defines menu structure and generic UI properties, like user's home page. 
 
 Example (the default perspective):
 
