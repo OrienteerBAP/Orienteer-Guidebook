@@ -6,7 +6,7 @@ If you want to check our Orienteer before installing it, visit [the Orienteer De
 
 There are 3 ways to get your own Orienteer installed:
 
-1. [Installation as WAR](installation_as_war.md).
-2. [Installation as Standalone Application](installation_as_standalone_application.md).
-3. [Installation via Docker](installation_via_docker.md).
+1. [Install Orienteer as WAR](installation_as_war.md).
+2. [Install Orienteer as a standalone application](installation_as_standalone_application.md).
+3. [Install Orienteer via Docker](installation_via_docker.md).
 
