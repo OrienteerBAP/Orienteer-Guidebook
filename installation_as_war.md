@@ -13,7 +13,7 @@ Download the latest installation file *orienteer.war* (follow [this link](https:
 To install Orienteer without using the administration console:
 1. Copy the installation file to the  application deployment folder.
 2. [Create the Orienteer configuration file *orienteer.properties*](configuration_file.md).
-3. Copy the configuration file to the directory containing the *orienteer.war* installation file or to any directory above.
+3. Copy the configuration file to the directory containing the installation file or to any directory above.
 4. Run the application server.
 
 To install Orienteer with the administration console of your application server:
