@@ -7,11 +7,11 @@ An Orienteer app is displayed as a set of **pages**. Some pages are common for a
 
 Perspectives are used  to personalize UI for different user roles. For example, in your app, you may have 1) a perspective for executive managers with business analysis dashboards and 2) another perspective for customer service operators with their everyday operational activities. A perspective defines menu structure and generic UI properties, like user's home page. 
 
-Example (the default perspective):
+Example (the default perspective in Orienteer):
 
 ![](Perspectives-small1.png)
 
-To switch between perspective, click ![](UI-selecting-perspectives.jpg) on the top right and select required one.
+To switch between perspectives, click ![](UI-selecting-perspectives.jpg) on the top right and select required one.
 
 ## Tabs, dashboards and widgets
 
