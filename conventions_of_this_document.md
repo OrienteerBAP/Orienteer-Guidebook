@@ -6,9 +6,7 @@
   
 * Interface elements, like buttons or anything that has a name and that you can click is given with the **bold** font. 
 
-* Code and commands are given in a box, like this:
-> Code 
-> 
+* Code and commands are given in a box, like this: `Code`
 
 * Setting parameters is shown with a colon. 
 
