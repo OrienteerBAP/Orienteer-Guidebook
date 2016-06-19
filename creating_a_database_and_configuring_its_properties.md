@@ -1,6 +1,6 @@
 # Configuring Database Properties
 
-Commonly there is no need to configure OrientDB database manually, because Orienteer takes care of that. But in specific cases you can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. 
+Commonly there is no need to configure OrientDB database manually, because Orienteer takes care of that automatically. But in specific cases you can configure the database on the **Schema** page (URL */schema*), on the **Database** tab. 
 
 ###Parameters:
 
