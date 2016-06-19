@@ -9,9 +9,9 @@ To install Orienteer in standalone mode:
 4. Run Orinteer by executing the command   `java -Xmx512m -Xms512m -jar orienteer-standalone.jar`
 
  Additional parameters:
- * `--config=&lt;filename&gt;` the path to the Orienteer configuration file.
- * `--embedded` . By default Orienteer runs an external OrientDB database. If you give this parameter, Orienteer will run an embedded OrientDB database.
-  * `--port=&lt;port number&gt;` run Orienteer on a specified port (by default: 8080).
+ * `--config=<filename>` the path to the Orienteer configuration file.
+ * `--embedded`  By default Orienteer runs an external OrientDB database. If you give this parameter, Orienteer will run an embedded OrientDB database.
+  * `--port=<port number>` run Orienteer on a specified port (by default: 8080).
  * `--help` view help.
  
  The Java VM parameters can be adjusted accordingly.
