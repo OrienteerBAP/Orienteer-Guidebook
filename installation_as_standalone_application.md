@@ -1,4 +1,4 @@
-# Installation as Standalone Application
+# Installation as a Standalone Application
 
 In standalone mode, Orienteer utilizes an embedded [jetty server](http://www.eclipse.org/jetty/) to run itself as a web application.
 
