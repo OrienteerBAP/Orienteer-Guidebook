@@ -15,9 +15,9 @@ To switch between perspectives, click ![](UI-selecting-perspectives.jpg) on the 
 
 ## Tabs, dashboards and widgets
 
-What the user sees on a page is a **dashboard**. On a dashboard, there can be several **widgets** that display a variety of data. These may be lists, tables, graphs, custom widgets developed for a particular app. Selecting other **tabs** on the page, user will see other widgets.
+What the user sees on a page is a **dashboard**. On a dashboard, there can be several **widgets** that display a variety of data. These may be lists, tables, graphs, custom widgets developed for a particular app. Selecting other **tabs** on the page, a user will see other widgets.
 
-Example: the default dashboard of a class contains several widgets *Configuration*, *Properties*, *Indexes*, *Custom properties*. The user can also select between tabs: *Configuration*, *Localization*, *Security*, *Subclasses*.
+Example: the default dashboard of a class, on its default tab, contains several widgets: *Configuration*, *Properties*, *Indexes*, *Custom properties*. The user can also select between tabs: *Configuration*, *Localization*, *Security*, *Subclasses*.
 
 ![](Pages&widgets.png)
 
