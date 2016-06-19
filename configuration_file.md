@@ -1,30 +1,16 @@
 # Creating the Orienteer Configuration File
 
-*orienteer.properties* is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties). 
+orienteer.properties is a text file that stores initial configuration parameters of your Orienteer database. You can download a sample configuration file [here](https://github.com/OrienteerDW/Orienteer/blob/master/orienteer.properties). 
 
 **Configurations**
 
-* >orienteer.production=[true|false]
-
-    Run Orienteer in the production mode (true) or in the development mode (false). The production mode provides broader means for debugging. 
-* >orientdb.embedded=[true|false]
-
-  Run an embedded OrientDB server (true) or an external OrientDB server (false).
-* >orientdb.url=&lt;URL&gt;
-
-  If you are running an external OrientDB server, provide its URL (for example, *orientdb.url=remote:localhost/Orienteer*). For details, see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
-* >orientdb.db.username=&lt;user name&gt;
-
-  Set the name of the default user on the OrientDB server. This name will also be used by guest users.
-* >orientdb.db.password=&lt;user password&gt;
-
-  Set password for the default user on the OrientDB server.
-* >orientdb.db.installator.username=&lt;admin name&gt;
-
-  Set the name of the user that will perform administrative tasks on the OrientDB server.
-* >orientdb.db.installator.password=&lt;admin password&gt;
-
-  Set the password of the user that will perform administrative tasks on the OrientDB server.
+* Run Orienteer in the production mode (true) or in the development mode (false). The production mode provides broader means for debugging. `orienteer.production=[true|false]` 
+*  Run an embedded OrientDB server (true) or an external OrientDB server (false). `orientdb.embedded=[true|false]`
+*  If you are running an external OrientDB server, provide its URL (for example, orientdb.url=remote:localhost/Orienteer). `orientdb.url=<URL>` For details, see [OrientDB manual](http://orientdb.com/docs/last/Concepts.html#database-url).
+* Set the name of the default user on the OrientDB server. This name will also be used by guest users. `orientdb.db.username=<user name>` 
+* Set password for the default user on the OrientDB server. `orientdb.db.password=<user password>`
+* Set the name of the user that will perform administrative tasks on the OrientDB server. `orientdb.db.installator.username=<admin name>` 
+*  Set the password of the user that will perform administrative tasks on the OrientDB server. `orientdb.db.installator.password=<admin password>`
 
 If something missing, Orienteer will use default settings.
 
