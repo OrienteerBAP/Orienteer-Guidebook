@@ -30,4 +30,4 @@ Do the following:
    
    To do this, for each property of the class *CmsCustomer* set its parameter *Displayable*. Check it for the properties *customerName* and *interaction* and uncheck it for the property *linkToContacts*.
 
-With this, we are done for this part. Now, when you create a customer, you do not give its contacts, only their name and stage of interaction. To add contacts, you will go to each customer's page and on a separate tab **Contacts** add as many contacts as you need.
+With this, we are done for this part. Now, when you create a customer, you do not give its contacts, only their name and stage of interaction. To add contacts, you will go to each customer's page and, on a separate tab *Contacts*, add as many contacts as you need.
