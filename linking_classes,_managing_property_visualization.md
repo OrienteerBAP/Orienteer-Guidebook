@@ -8,21 +8,19 @@ This part will guide you through linking classes in Orienteer. You will also lea
 In the app we've just created, we store all contacts in a single plaintext field for skype, telephones, emails etc in bulk. Now we want each customer to have several separate contact records, each containing one contact. We also  want contacts of each customer to show on a separate tab.
 
 Do the following:
-1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
+1. From the class *CmsCustomer*, delete the property *contact*. We will store contacts in a different way. 
 2. Create a new class for storing contacts, *CmsContact*
 
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
   
-3. We will link the *CmsContact* and the *CmsCustomer* classes. For this, we will add special LINK properties to both classes:
-  *  To the *CmsCustomer* class we add a property *linkToContacts* with following parameters:
-    *  Type: LINKLIST
-    *  Linked Class: CmsContact
-  *  To the *CmsContact* class we add a property *Customer* with following parameters:
-    * Type: LINK
-    * Linked Class: CmsCustomer
-    * Visualization: listbox (this will let the user select the linked customer for a contact from a drop box).
-    *  Inverse: linkToContacts (here you choose a back link from the list of link type parameters of the linked class, *CmsCustomer*).
-  *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set the parameter **Inverse** similarly, by selecting the property *Customer*.
+3. Link the *CmsContact* and the *CmsCustomer* classes. For this, add special LINK properties to both classes:
+  *  To the *CmsCustomer* class, add a property *linkToContacts* with parameters `Type: LINKLIST`. `Linked Class: CmsContact`.
+  *  To the *CmsContact* class we add a property *Customer* with parameters:
+    *  `Type: LINK`.
+    *   `Linked Class: CmsCustomer`.
+    *   `Visualization: listbox` (this will let the app user select a linked customer for a contact from a drop box).
+    *  `Inverse: linkToContacts` (here you choose a back link from the list of link type parameters of the linked class, *CmsCustomer*).
+  *  Go back to the *CmsCustomer* class and edit the parameter *linkToContact*. Set its parameter *Inverse* similarly, by selecting the property *Customer*.
 
 4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* we edit the link property *linkToContacts*. Set the following parameters:
   * Tab: Contacts. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
