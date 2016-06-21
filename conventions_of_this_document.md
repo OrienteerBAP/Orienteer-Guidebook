@@ -8,6 +8,6 @@
 
 * Code and commands are given in `boxes`.
 
-* Setting parameters is shown with a colon.   For example, "Set Type:LINK" says: for the parameter "Type", set the value "LINK".
+* Setting parameters is shown in a box, with parameter and value separated with a colon.  `Set Type:LINK` says, that for the parameter "Type", we set the value "LINK".
   
 
