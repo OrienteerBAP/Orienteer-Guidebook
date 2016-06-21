@@ -24,7 +24,7 @@
        * [Calculable Properties](calculable_properties.md)
        * [Localizing a Class](localizing_a_class.md)
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
-       * Creating a Perspective
+       * [Creating a Perspective](creating_a_perspective.md)
        * Creating a User Role and a User
    * [Managing the UI](managing_the_ui.md)
        * Adding a Data Graph
