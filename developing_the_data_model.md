@@ -6,7 +6,10 @@ We will build a basic CRM app that stores client names, contacts (liek email, sk
 We will go through steps to create a minimal viable app. Advanced settings are available for you in next chapters.
 
 ## Creating a Class
-> This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document) in Orienteer.
+---
+ This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document) in Orienteer.
+
+---
 
 We will start with the simplest model, with only one class, *Customer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
 
@@ -34,7 +37,10 @@ Once we want to add a new customer or to edit an existing one, we will need to g
 3. Now you can fill new client's data and save it.
 
 ## Linking Classes and Managing Property Visualization
-> This part will guide you through linking classes in Orienteer. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
+---
+This part will guide you through linking classes in Orienteer. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
+
+---
 
 In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
 
@@ -67,7 +73,10 @@ With this, we are done for this part. Now, when you create a customer, you do no
 
 ##Viewing the UML of the Data Model
 
-> This part will help you view the UML of your data model in Orienteer.
+---
+ This part will help you view the UML of your data model in Orienteer.
+
+---
 
 Now that we have several classes implemented, we can view them all on an UML diagram.
 
