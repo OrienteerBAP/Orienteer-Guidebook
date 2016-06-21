@@ -1,7 +1,9 @@
 # Developing The Data Model
 
-In this section, we go through building a simple data model and augmenting it step-by-step.
-We will build a basic CRM app that will store client names, contacts and the type of their interaction with the company (interested, purchase, support). We will go through minimal steps to have a viable app.
+In this section, we build a simple data model and augment it, step by step.
+We will build a basic CRM app that stores client names, contacts (liek email, skype etc.) and the type of their interaction with the company (namely: interested, purchase, support). 
+
+We will go through steps to create a minimal viable app. Advanced settings are available for you in next chapters.
 
 ## Creating a Class
 > This part will guide you through creating a class, setting its properties and creating an instance of the new class (a document) in Orienteer.
