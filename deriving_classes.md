@@ -12,9 +12,9 @@ Steps to go:
 2. For the class *CmsInteraction*, create properties:
   * *customer*: set `Type: LINK`, `Linked Class: CmsCustomer`.
   * *timestamp*: set `Type: DATETIME`.
-3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Do the following:
+3. On the page of the *CmsInteraction* class, go to the tab *Subclasses*. Do the following:
   * Create the derived class *CmsPurchase*:
-    * On the **Properties** widget, click **Save** to confirm the inherited properties.
+    * On the *Properties* widget, click **Save** to confirm the inherited properties.
     * Create the class-specific string property *products* that will store the list of purchased products.
   * Derive the class *CmsReturn* with specific string properties *returnProducts* and *claimReason*.
   * Derive the class *CmsSupport* with the specific string property *chatHistory*.
