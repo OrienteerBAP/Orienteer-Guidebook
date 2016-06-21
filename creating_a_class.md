@@ -5,7 +5,7 @@
 
 ---
 
-We will start with the simplest model, with only one class, *Customer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
+We will start with the simplest model, with only one class, *CmsCustomer*. It will have properties *Customer name*, *Contacts* and *Interaction*.
 
 1. Go to page */schema*.
 2. To create a new class, сlick **Create**.
