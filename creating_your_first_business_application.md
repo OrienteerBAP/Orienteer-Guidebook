@@ -6,6 +6,5 @@ It's time to create your business application. This chapter will walk you throug
 
 
 [to add to this chapter]
-* Localization?
 * Security?
 
