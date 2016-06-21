@@ -21,7 +21,7 @@ Steps to go:
 
 4. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. Delete the property *interaction* and create a new property with similar name. Set its parameters `Type: LINKLIST`, `Visualization: table`, `Linked Class: CmsInteraction`, `Inverse: customer`.
 5. For the class *CmsInteraction*, for the property *customer* set `Inverse: interaction`.
-6. Let us also have interactions for each customer on a separate tab. for the class *CmsCustomer*, for the parameter *interactions*, set `Tab: Interactions`.
+6. Let us also have interactions for each customer on a separate tab. For the class *CmsCustomer*, for the parameter *interactions*, set `Tab: Interactions`.
 
 So, now can log our interactions with clients on a separate tab. Let's view the new UML.
 
