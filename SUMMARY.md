@@ -21,7 +21,7 @@
        * [Viewing the UML of the Data Model](viewing_the_uml_of_the_data_model.md)
        * [Making a Property Selectable from a List](making_a_property_selectable_from_a_list.md)
        * [Deriving Classes](deriving_classes.md)
-       * Calculable Properties
+       * [Calculable Properties](calculable_properties.md)
        * Localization
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
        * Creating a Perspective
