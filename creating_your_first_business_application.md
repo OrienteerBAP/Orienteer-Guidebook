@@ -6,6 +6,7 @@ This chapter will walk you through Orienteer configuration basics. We will build
 
 We will go through steps to create a minimal viable app. Advanced settings are available for you in next chapters.
 
+
 > Note. This chapter shows configurations in the default Orienteer perspective.
 
 
