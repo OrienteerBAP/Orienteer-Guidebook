@@ -18,9 +18,9 @@ We will start with the simplest model, with only one class, *CmsCustomer*. It wi
  Then  click **Save**.
 5. Specify which of the parameters will identify a document. In our case each document corresponds to a customer's name. So, in the class *CmsCustomer*, on the widget *Configuration*, set `Document Name Property: customerName`.
 
-Now we can create documents of the class *Customer*. Each document corresponds to a person.
+Now we can create documents of the class *CmsCustomer*. Each document corresponds to a person.
 
 Once we want to add or edit a  customer, we  go to the list of class's documents.
-1. Go to */browse/Customer* (otherwise, on the */schema* page, in the line *Customer*, on the right, click **Browse Class**).
+1. Go to */browse/CmsCustomer* (otherwise, on the */schema* page, in the line *CmsCustomer*, on the right, click **Browse Class**).
 2. To create a new document, click **Create**.
 3. Now you can fill new client's data and save it.
