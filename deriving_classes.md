@@ -5,7 +5,7 @@
 
 ---
 
-So far, we store information about interaction with each customer in a string record. This record is voluntarily filled by the CMS operator. We want there to be just three pre-defined types of interaction: purchase, return, support. Each will have a timestamp and a desctiption.
+So far, we store information about interaction with each customer in a string record. This record is voluntarily filled by the CMS operator. We want there to be just three pre-defined types of interaction: purchase, return, support. Each will have a timestamp and a description.
 
 The three types of interaction have common features (they have a timestamp), but they will also differ in some parameters. So, this is natural to create an abstract class *Interacton* with common properties and three derived subclasses.
 
