@@ -24,7 +24,7 @@ Do the following:
 
 4. We want each customer's contacts to show on a separate tab. For this, in the class *CmsCustomer* edit the link property *linkToContacts*. Set the following parameters:
   * `Tab: Contacts`. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
-  * `Visualization: table`. This enables UI elements like **Create** or **Save** buttons etc, that will be handy for creating and managing contacts.
+  * `Visualization: table`. This enables UI elements like **Create** or **Save** buttons etc, that will be helpful to app users for creating and managing contacts.
 
 5. In the previous step, we have changed the visualization of a property. Whenever we will look through the list of customers (the documents of the class *CmsCustomer* on the page /browse/CmsCustomer), this property, with its buttons and other elements, is not useful. We want to hide it from the document list.
    
