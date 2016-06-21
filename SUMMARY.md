@@ -16,8 +16,19 @@
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
+     * Creating a Class
+     * Linking Classes, Managing Property Visualization
+     * Viewing the UML of the Data Model
+     * Making a Property Selectable from a List
+     * Deriving Classes
+     * Calculable Properties
+     * Localization
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
+     * Creating a Perspective
+     * Creating a User Role and a User 
    * [Managing the UI](managing_the_ui.md)
+     * Adding a Data Graph
+     * Custom Pages
 * [Business Application Configuration](business_application_configuration.md)
    * [The Data Model](creating_and_managing_the_data_model.md)
        * [Managing Classes](initial_data_model_configuration.md)
