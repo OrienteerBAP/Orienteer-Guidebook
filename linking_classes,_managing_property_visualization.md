@@ -26,7 +26,7 @@ Do the following:
   * `Tab: Contacts`. Now a separate tab named *Contacts* will show the list of contacts linked to the particular customer.
   * `Visualization: table`. This enables UI elements like **Create** or **Save** buttons etc, that will be helpful to app users for creating and managing contacts.
 
-5. In the previous step, we have changed the visualization of a property. Whenever we will look through the list of customers (the documents of the class *CmsCustomer* on the page /browse/CmsCustomer), this property, with its buttons and other elements, is not useful. We want to hide it from the document list.
+5. In the previous step, we have changed the visualization of a property. When we look through the list of customers (the documents of the class *CmsCustomer* on the page */browse/CmsCustomer*), this property, with its buttons and other elements, is not useful. We will hide it from the document list.
    
    To do this, for each property of the class *CmsCustomer* set its parameter **Displayable**. Check it for the properties *customerName* and *interaction* and uncheck it for the property *linkToContacts*.
 
