@@ -9,17 +9,11 @@ We will start with the simplest model, with only one class, *Customer*. It will 
 
 1. Go to page */schema*.
 2. To create a new class, сlick **Create**.
-3. On the class page, fill the parameter Name: *CmsCustomer*, then click **Save**.
-4. On the widget **Properties** create three properties by clicking **Create**. Set their  parameters and click **Save**. 
-  * For the *customerName* property, set the parameters:
-    * Name: customerName
-    * Type: String
-  * For the *contact* property, set the parameters:
-    * Name: contact
-    * Type: String
-  * For the *interaction* property, set the parameters:
-    * Name: interaction
-    * Type: String
+3. On the class page, set `Name: CmsCustomer` and click **Save**.
+4. On the widget *Properties* create three properties by clicking **Create**. Set their  parameters and click **Save**. The parameters to set:
+  * For the *customerName* property, set `Name: customerName`, `Type: String`.
+  * For the *contact* property, set `Name: contact`, `Type: String`.
+  * For the *interaction* property, set `Name: interaction`, `Type: String`.
 
 5. Specify which of the parameters will identify a document. In our case each document corresponds to a customer's name. So, in the class *CmsCustomer*, on the widget *Configuration*, set the parameter **Document Name Property**: *customerName*.
 
