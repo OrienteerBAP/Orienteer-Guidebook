@@ -5,7 +5,7 @@ This part will guide you through linking classes in Orienteer. You will also lea
 
 ---
 
-In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. These contacts will show on a separate tab of each customer.
+In the app we've just created, we store all contacts in a single field, like skype, telephones, emails etc. Now let us make it so that each customer may have several separate contact records. We also  want contacts of each customer to show on a separate tab.
 
 Do the following:
 1. From the class *CmsCustomer* delete the property *contact*. We will store contacts in a different way. 
