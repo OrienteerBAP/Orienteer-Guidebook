@@ -22,7 +22,7 @@
        * [Making a Property Selectable from a List](making_a_property_selectable_from_a_list.md)
        * [Deriving Classes](deriving_classes.md)
        * [Calculable Properties](calculable_properties.md)
-       * Localization
+       * Localizing a Class
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
        * Creating a Perspective
        * Creating a User Role and a User
