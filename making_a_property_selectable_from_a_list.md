@@ -9,7 +9,7 @@ Now we can make several contats for a client. But if we would like to index them
 
 So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box with a pre-defined set of values.
 
-For this, we will create yet another class, *CmsContactType*. This class will contain three instances (documents) that will represent the allowed contact types.
+For this, we create a class *CmsContactType*. This class will contain three instances (documents) that will represent the allowed contact types.
 
 1. Create the class *CmsContactType* with just a single STRING type property, *contactTypeName*.
 2. In this class, create four documents: 
@@ -18,9 +18,9 @@ For this, we will create yet another class, *CmsContactType*. This class will co
   * *snail mail*
   * *telephone* 
 3. In the class *CmsContact*, add a property *ContactType* with following parameters:
-  * Type: LINK.
-  * Visualization: listbox (this will let the user select the type of contact from a drop box).
-  * Linked Class: CmsContactType.
+  * `Type: LINK`.
+  * `Visualization: listbox` (this will let the user select the type of contact from a drop box).
+  * `Linked Class: CmsContactType`.
 
 Now you can check any customer's contacts. When you add a new contact or edit an existing one, you will have a drop box to select from a pre-defined set of values.
 
