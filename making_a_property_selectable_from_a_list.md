@@ -1,7 +1,7 @@
 # Making a Property Selectable from a List
 
 ---
- This part will help you make a property with values selectable from a list.
+ This part will help you to make a property with values selectable from a list.
 
 ---
 
