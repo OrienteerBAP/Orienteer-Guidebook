@@ -6,9 +6,9 @@
 
 ---
 
-Now that we have several classes implemented, we can view them all on an UML diagram.
+Now we have several classes implemented, and we can view them all on an UML diagram.
 
-On the schema page, check the classes *CmsCustomer* and *CmsContact*. Then click ![](View UML.png). You will see the two classes with their links and properties on an UML diagram.
+To do this, on the schema page (*/schema*), check the classes *CmsCustomer* and *CmsContact*. Then click **View UML**. You will see the two classes with their links and properties on an UML diagram.
 
 ![](CMS_UML.png)
 
