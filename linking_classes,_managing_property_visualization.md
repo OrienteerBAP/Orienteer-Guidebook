@@ -1,7 +1,7 @@
 # Linking Classes, Managing Property Visualization
 
 ---
-This part will guide you through linking classes in Orienteer. You will also learn how to display properties on separate tabs and how to enable basic UI to manage properties of a document.
+This part will guide you through linking classes in Orienteer. You will also learn how to display properties on separate tabs and how to enable basic UI controls to manage properties of a document.
 
 ---
 
