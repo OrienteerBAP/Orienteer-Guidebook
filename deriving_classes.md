@@ -21,11 +21,7 @@ Steps to go:
 
 4. In the class *CmsCustomer*, we already have the string-type property *interaction*, but we want it to be link-type. 
 
-   So, delete the property *interaction* and create a new property with similar name with parameters:
-   * Type: LINKLIST
-   * Visualization: table
-   * Linked Class: CmsInteraction
-   * Inverse: customer.
+   So, delete the property *interaction* and create a new property with similar name. Set `Type: LINKLIST`, `Visualization: table`, `Linked Class: CmsInteraction`, `Inverse: customer`.
 5. For the class *CmsInteraction*, for the property *customer* set Inverse: interaction.
 6. Let us also have interactions for each customer on a separate tab. So, for the class *CmsCustomer*, for the parameter *interactions*, set Tab: Interactions.
 
