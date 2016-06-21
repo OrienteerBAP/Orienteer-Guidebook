@@ -19,7 +19,7 @@
        * [Creating a Class](creating_a_class.md)
        * [Linking Classes, Managing Property Visualization](linking_classes,_managing_property_visualization.md)
        * [Viewing the UML of the Data Model](viewing_the_uml_of_the_data_model.md)
-       * Making a Property Selectable from a List
+       * [Making a Property Selectable from a List](making_a_property_selectable_from_a_list.md)
        * Deriving Classes
        * Calculable Properties
        * Localization
