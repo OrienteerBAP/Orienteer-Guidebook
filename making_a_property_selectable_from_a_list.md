@@ -5,7 +5,7 @@
 
 ---
 
-Now we can make several contats for a client. But if we would like to index them, we would face the fact that the app operators type in the data in every  possible style. Just think, how many ways are there to write the work *email*?
+Now we can make several contats for a client. But if we would like to index them, we would face the fact that the app operators type in the data in every  possible style. Just think, how many ways are there to write the word "email"?
 
 So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box.
 
