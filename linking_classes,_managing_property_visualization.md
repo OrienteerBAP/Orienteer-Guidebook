@@ -28,6 +28,6 @@ Do the following:
 
 5. In the previous step, we have changed the visualization of a property. When we look through the list of customers (the documents of the class *CmsCustomer* on the page */browse/CmsCustomer*), this property, with its buttons and other elements, is not useful. We will hide it from the document list.
    
-   To do this, for each property of the class *CmsCustomer* set its parameter **Displayable**. Check it for the properties *customerName* and *interaction* and uncheck it for the property *linkToContacts*.
+   To do this, for each property of the class *CmsCustomer* set its parameter *Displayable*. Check it for the properties *customerName* and *interaction* and uncheck it for the property *linkToContacts*.
 
 With this, we are done for this part. Now, when you create a customer, you do not give its contacts, only their name and stage of interaction. To add contacts, you will go to each customer's page and on a separate tab **Contacts** add as many contacts as you need.
