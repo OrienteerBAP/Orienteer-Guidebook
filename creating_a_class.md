@@ -16,7 +16,7 @@ We will start with the simplest model, with only one class, *Customer*. It will 
   * For the *interaction* property, set `Name: interaction`, `Type: String`.
  
  Then  click **Save**.
-5. Specify which of the parameters will identify a document. In our case each document corresponds to a customer's name. So, in the class *CmsCustomer*, on the widget *Configuration*, set the parameter **Document Name Property**: *customerName*.
+5. Specify which of the parameters will identify a document. In our case each document corresponds to a customer's name. So, in the class *CmsCustomer*, on the widget *Configuration*, set `Document Name Property: customerName`.
 
 Now we can create documents of the class Customer. Each document will correspond to a person.
 
