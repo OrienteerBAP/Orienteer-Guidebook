@@ -2,7 +2,7 @@
 
 
 ---
- This part will help you view the UML of your data model in Orienteer.
+ This part will help you to view the UML of your data model in Orienteer.
 
 ---
 
