@@ -7,7 +7,7 @@
 
 Now we can make several contats for a client. But if we would like to index them, we would face the fact that the app operators type in the data in every  possible style. Just think, how many ways are there to write the word "email"?
 
-So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box.
+So, for each contact, we want the operators to select the contact type (email, skype etc) from a drop box with a pre-defined set of values.
 
 For this, we will create yet another class, *CmsContactType*. This class will contain three instances (documents) that will represent the allowed contact types.
 
