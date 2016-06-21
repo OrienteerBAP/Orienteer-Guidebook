@@ -8,13 +8,10 @@
 So far, we store information about interaction with each customer in a string record. This record is voluntarily filled by the CMS operator. We want there to be just three pre-defined types of interaction: purchase, return, support. Each type will have a timestamp and a description, but these three types will differ in additional parameters. So, this is natural to create an abstract class *Interacton* with common properties and three derived subclasses.
 
 Steps to go:
-1. Create a class *CmsInteraction*. In its parameters, check the box **Abstract**.
-2. For this class, create properties:
-  * *customer*:
-    * Type: LINK
-    * Linked Class: CmsCustomer
-  * *timestamp*: 
-    * Type: DATETIME
+1. Create a class *CmsInteraction*. In its parameters, check the box *Abstract*.
+2. For the class *CmsInteraction*, create properties:
+  * *customer*: set `Type: LINK`, `Linked Class: CmsCustomer`.
+  * *timestamp*: set `Type: DATETIME`.
 3. On the page of the *CmsInteraction* class, go to the tab **Subclasses**. Do the following:
   * Create the derived class *CmsPurchase*:
     * On the **Properties** widget, click **Save** to confirm the inherited properties.
