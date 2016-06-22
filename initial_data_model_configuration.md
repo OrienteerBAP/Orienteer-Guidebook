@@ -1,6 +1,6 @@
 #Managing Classes
 
-To create a class, on the schema page (*/schema*), on the *Classes* tab, click **Create**. You will be guided to new class creation page. Enter required configuration and click **Save**
+To create a class, on the schema page (*/schema*), on the *Classes* tab, click **Create**, make configuration and click **Save**.
 
 After you create a class, you can always return to editing it by clicking its name in the list on the schema page.
 
