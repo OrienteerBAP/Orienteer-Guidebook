@@ -53,12 +53,12 @@ On the *Configuration* tab of a class, on the *Custom properties* widget, you ca
 
 To create an index, on a class page, on the *Properties* widget, select properties that you want to be in the index and then click **Create index**. The index page will open.
 
-After you create an index, you can always return to editing it by clicking its name on the class page, on the **Configuration** tab, on the **Indexes** widget. Alternatively, you can check them on the schema page, on the **Indexes** tab.
+After you create an index, you can always return to editing it by clicking its name on the class page, on the *Configuration* tab, on the *Indexes* widget. Alternatively, you can check them on the schema page, on the *Indexes* tab.
 
 To learn more about indexes in OrientDB, see http://orientdb.com/docs/last/Indexes.html.
 
 ## Viewing the Data Model on a Diagram
 
-You can view your data model on a UML diagram. On the **Scheme** page, check the classes that you want to see on the diagram and at click ![](View UML.png).
+You can view your data model on a UML diagram. On the *Scheme* page, check the classes that you want to see on the diagram and at click *View UML*.
 
 ![](UML.png)
