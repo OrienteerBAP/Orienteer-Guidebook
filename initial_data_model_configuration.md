@@ -12,8 +12,8 @@ On the *Configuration* tab, on the *Configuration* widget, you can set class par
 * **Short Name** is a short alias for the class name used in SQL to simplify wording.
 * **Description** is a description of the class.
 * **Super Classes** sets the class's parent class.
-* **Over Size** is the factor that sets the extra free storage space for documents. E.g. value 2 will spare free storage space for documents twice as large as their current space. You can use this parameter for performance optimization.
-* **Strict Mode**, checking this box will prevent documents of this class having extra properties not defined for the class.
+* **Over Size** is the factor that sets the extra free storage space for documents. E.g. value 2 will spare free storage space twice as large as their current space. You can use this parameter for performance optimization.
+* **Strict Mode**, checking this box will prevent documents of this class from having extra properties not defined for the class.
 * **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only as parents to other classes.
 * **Java Class** is the name of the original java class from which this class was generated. For manually created classes, its value is null. 
 * **Cluster Selection** defines the [strategy for cluster selection](http://orientdb.com/docs/last/Cluster-Selection.html).
