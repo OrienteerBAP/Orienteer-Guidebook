@@ -25,7 +25,7 @@ On the *Configuration* tab, on the *Configuration* widget, you can set class par
 
 ##Managing Class Properties
 
-On the **Configuration** tab, on the **Properties** widget, you can create class properties and make some of their settings. To edit more, you can go to the property page by clicking its name.
+On the *Configuration* tab, on the *Properties* widget, you can create class properties and make their basic settings. To edit more, go to the property page by clicking its name.
 
 On the property page, on the **Configuration** tab, you can set the following:
 * **Name** and **Description** are what it says.
