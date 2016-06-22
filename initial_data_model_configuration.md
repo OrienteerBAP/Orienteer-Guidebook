@@ -44,7 +44,7 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
 * **Displayable** says if a property will be displayed in the list of documents of this class.
 * **Hidden** hides a property from the UI.
-* **Calculable** makes [calculable properties](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require experience in coding).
+* **Calculable** makes a property [calculable](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require some experience in coding).
 * **Default Value** sets the default value of the property.
 
 You can add custom properties to a class. You can do it on the class page, on the **Configuration** tab, on the **Custom properties** widget.
