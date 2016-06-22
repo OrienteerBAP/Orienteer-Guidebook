@@ -31,7 +31,7 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **Name** and **Description** are what it says.
 * **Tab**:  if you give a name for a tab here, the property will show on a separate tab.
 * **Order** sets the order in which this property shows relative to other properties.
-* **Type** sets the data type of the property (for the list of available data types see [OrientDB manual](http://orientdb.com/docs/last/Types.html)).
+* **Type** sets the data type of the property (for the list of available data types see http://orientdb.com/docs/last/Types.html.
 * **Visualization** defines way the property value is visualized (for the list of available visualisation types, see [supplementary](https://orienteer.gitbooks.io/orienteer/content/supplementary_supported_visualisation_types.html)).
 * **Linked Class** lets you connect the class with another class.
 * **Inverse** is used for properties containing links to other classes and sets the property of the linked class that contains the back link.
