@@ -6,9 +6,9 @@ After you create a class, you can always return to editing it by clicking its na
 
 ##Editing Class Parameters
 
-On the **Configuration** tab, on the **Configuration** widget, you can set class parameters:
+On the *Configuration* tab, on the *Configuration* widget, you can set class parameters:
 
-* **Name** is the class name that will show on the **Schema** page. When giving a name to a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
+* **Name** is the class name that will show on the schema page. Naming a class, follow the [Schema naming convention](https://github.com/OrienteerDW/Orienteer/wiki/Schema-naming-convention).
 * **Short Name** is a short alias for the class name used in SQL to simplify wording.
 * **Description** is a description of the class.
 * **Super Classes** sets the class's parent class.
