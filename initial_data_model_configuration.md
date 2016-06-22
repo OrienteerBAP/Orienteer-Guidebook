@@ -17,8 +17,8 @@ On the *Configuration* tab, on the *Configuration* widget, you can set class par
 * **Abstract**, ckecking this box makes the class abstract. This prevents the creation on documents of this class. Abstract classes are used only for derivation of other classes.
 * **Java Class** is the name of the original java class from which this class was generated. For manually created classes, its value is null. 
 * **Cluster Selection** defines the strategy for cluster selection (see http://orientdb.com/docs/last/Cluster-Selection.html).
-* **Document Name Property** sets the parameter of the class, the value of which will show as the document's name in the list of documents.
-* **Parent Document Property** sets the name of a property which refers to logical parent of an document of this class. Parent hierarchy allows for easier navigation through you data.
+* **Document Name Property** sets the property of the class, the value of which will show as the document's name in the list of documents.
+* **Parent Document Property** allows you to introduce hierarchy between documents. It sets the property which refers to logical parent of a document of this class. Parent hierarchy allows for easier navigation through you data.
 * **Default Tab** sets the tab that will show by default when you open a document.
 * **Default Sorting** defines property used by default for sorting.
 * **Default Sort Order** defines the default sorting order.
