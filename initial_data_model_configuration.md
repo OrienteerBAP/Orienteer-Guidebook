@@ -51,7 +51,7 @@ On the *Configuration* tab of a class, on the *Custom properties* widget, you ca
 
 ##Managing Class Indexes
 
-To create an index, on a class page, on the **Properties** widget, select properties that you want to be in the index and then click ![](Create index.png). The index page will open.
+To create an index, on a class page, on the *Properties* widget, select properties that you want to be in the index and then click **Create index**. The index page will open.
 
 After you create an index, you can always return to editing it by clicking its name on the class page, on the **Configuration** tab, on the **Indexes** widget. Alternatively, you can check them on the schema page, on the **Indexes** tab.
 
