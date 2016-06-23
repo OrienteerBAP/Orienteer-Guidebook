@@ -22,4 +22,4 @@ For each perspective, you can add and delete sections to the menu on the left. S
 * **Sub items**: subsections of the section.
 
 
-> **Warning!** If users don't see a page in their perspective, this doesn't prevent them from accessing a page over its URL. To restrict the access, configure the [database security settings](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
+> **Warning!** If users don't see a page in their perspective, this doesn't prevent them from accessing a page over its URL. To restrict user access, configure the [database security settings](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
