@@ -11,8 +11,8 @@ On the *Properties* tab of a role, you can set the following:
 * **Inherited Role**: the parent role.
 * **Rules** and **Mode**: regulate rules that apply to a role and how those rules work. 
 * **Perspective**: defines which perspective will be available for users with this role.
-For more details, see *Security* section of the OrientDB manual: http://orientdb.com/docs/last/Studio-Security.html.
+For more details, see OrientDB manual http://orientdb.com/docs/last/Studio-Security.html.
 
 ##Document-Level Security
 
-You can apply different security rules to documents by using hooks (triggers), that will check for security rights of users or processes that access a document. To learn more about triggers, see [OrientDB manual](http://orientdb.com/docs/last/Hook.html).
+You can apply different security rules to documents by using hooks (triggers) that will check for security rights of users or processes that access a document. To learn more about triggers, see http://orientdb.com/docs/last/Hook.html.
