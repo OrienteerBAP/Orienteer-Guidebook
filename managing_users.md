@@ -2,9 +2,9 @@
 
 ##User Role-Based Security
 
-For each user, you can set a password and assign roles (the *Users* page URL: */browse/OUser*).
+For each user, you can set a password and assign one or several roles (the *Users* page URL: */browse/OUser*).
 
-A role determines what operations a user can perform against a resource. You can create a role with properties inherited from another role. You can manage roles on the **Roles** page (URL: */browse/ORole*). 
+A role determines what operations a user can perform against a resource. You can create a role with properties inherited from another role. You can manage roles on the *Roles* page (URL: */browse/ORole*). 
 
 On the **Properties** tab of a role, you can set the following:
 * The role's **Name**.
