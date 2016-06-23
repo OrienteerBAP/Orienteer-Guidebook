@@ -1,7 +1,8 @@
 # Localization
 
-You can localize names of classes and their properties. When localized, these names show in browser according to its locale.
-To localize a name of a class or a property
+You can localize names of classes and properties. When localized, these names show in browser according to its locale.
+
+To localize a name of a class or a property:
 * On the page of a class or a property, go to **Localication** tab. 
 * Click **Edit**.
 * To add a localization of a name:
