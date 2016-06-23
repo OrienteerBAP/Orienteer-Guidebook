@@ -8,12 +8,6 @@ Examples:
 
 `select sum(e.salary) as value from Employee e where e.department = ? `
 
-In case of calculation just for a current row you can use short notation:
-
-` sum(a, b)`
-
-  instead of
-
-  ` select sum(a, b) as value from MyClass where @rid = ?`
+In case of calculation just for a current row you can use short notation: ` sum(a, b)`   instead of   ` select sum(a, b) as value from MyClass where @rid = ?`.
 
 
