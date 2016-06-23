@@ -1,12 +1,12 @@
 # User Interface Configuration
 
-Orienteer provides adaptive UI, making Orienteer apps available on mobile devices.
+Orienteer provides adaptive UI, making Orienteer apps suitable for mobile devices.
 
 ##Configuring Perspectives
 
 The administrator allocates perspectives available for each user role.
 
-To configure perspectives, on the navigation pane, click **Perspectives** (URL: *&lt;databaseURL&gt; /browse/OPerspective*).
+To configure perspectives, on the navigation pane, click **Perspectives** (or go to URL */browse/OPerspective*).
 
 For a perspective, you can set:
 * **Name** - localizable name of a perspective
