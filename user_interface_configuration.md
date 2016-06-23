@@ -10,8 +10,7 @@ For a perspective, you can set:
 * **Name**: a localizable name of a perspective.
 * **Icon**: the name of an icon to be displayed (pick an icon name from [Font Awesome project](http://fontawesome.io/icons/)).
 * **Home Url**: the default page of the perspective.
-* **Footer**: a text area for html code that will define footers for all pages in a perspective. 
-
+* **Footer**: a text area for html code that defines a common footer for all pages in a perspective. 
 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
 
