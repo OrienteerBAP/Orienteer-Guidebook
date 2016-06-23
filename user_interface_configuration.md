@@ -4,15 +4,13 @@ Orienteer provides adaptive UI, making Orienteer apps suitable for mobile device
 
 ##Configuring Perspectives
 
-The administrator allocates perspectives available for each user role.
-
-To configure perspectives, on the navigation pane, click **Perspectives** (or go to URL */browse/OPerspective*).
+The administrator allocates [perspectives available for each user role](https://orienteer.gitbooks.io/orienteer/content/understanding_orienteer_ui.html). To configure perspectives, in the menu on the left, click **Perspectives** (or go to URL */browse/OPerspective*).
 
 For a perspective, you can set:
-* **Name** - localizable name of a perspective
-* **Icon** - name of an icon to be displayed (you can pick any icon name from [Font Awesome project](http://fontawesome.io/icons/))
-* **Home Url** - default page of the perspective
-* **Footer** - textarea to define html code to be shown on any page footer. 
+* **Name**: a localizable name of a perspective.
+* **Icon**: the name of an icon to be displayed (pick an icon name from [Font Awesome project](http://fontawesome.io/icons/)).
+* **Home Url**: the default page of the perspective.
+* **Footer**: a text area for html code that will define footers for all pages in a perspective. 
 
 
 For each perspective, you can add sections to the navigation pane. Sections have following attributes:
