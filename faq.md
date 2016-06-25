@@ -49,7 +49,7 @@ A: Yes. There are two main ways for that:
 
 **Q: How can I add company departments as groups of users to manage them in joint? **
 
-...
+A: It's recommended to user Orienteer roles for modeling of company departments.
 
 ##Integrity and Data Control
 
