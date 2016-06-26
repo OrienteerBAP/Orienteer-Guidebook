@@ -49,7 +49,10 @@ A: Yes. There are two main ways for that:
 
 **Q: How can I add company departments as groups of users to manage them in joint? **
 
-A: It's recommended to user Orienteer roles for modeling of company departments.
+A: It's recommended to use Orienteer roles for modeling company departments. There are few reasons:
+
+1) Person can be within multiple departments: roles do allow that.
+2) According to department person is assigned to he can has different rights. Roles do allow to define that
 
 ##Integrity and Data Control
 
