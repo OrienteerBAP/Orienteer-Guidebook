@@ -1,5 +1,6 @@
 # Custom Orienteer Development
 
-This chapter is for developers and requires experience in coding and database management. It will help you to make your own Orienteer-based app and to extand Orienteer with custom modules.
+This chapter describes the ways to extend your app above its out-of-the-box features with custom modules. This will require require experience in coding and database management. 
+
 
 
