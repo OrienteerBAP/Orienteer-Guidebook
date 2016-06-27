@@ -1,8 +1,9 @@
 # Glossary
 
 Glossary
- Class
- Document
- Perspective
- Property
- Schema
+
+* Class
+* Document
+* Perspective
+* Property
+* Schema
