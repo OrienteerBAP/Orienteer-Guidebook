@@ -28,7 +28,7 @@ You can use Orienteer testing micro-framework to test a module you develop for O
     }
 ##Configuring a Custom Orienteer-based Project
 
-A long with common dependency on Orienteer
+Along with the common dependency on Orienteer
 
     <dependency>
         <groupId>org.orienteer</groupId>
@@ -36,7 +36,7 @@ A long with common dependency on Orienteer
         <version>${orienteer.version}</version>
     </dependency>
 
-include dependency to Orienteer and wicket-orientdb tests
+include a dependency to Orienteer and wicket-orientdb tests
 
     <dependency>
         <groupId>org.orienteer</groupId>
@@ -52,4 +52,5 @@ include dependency to Orienteer and wicket-orientdb tests
         <type>test-jar</type>
         <scope>test</scope>
     </dependency>
+
 And that's all. You are ready to...
