@@ -2,20 +2,19 @@
 
 **Predefined classes arriving from OrientDB**
 
-* OFunction, хранимые функции
+* OFunction: a parent class for deriving functions.
 
-* OIdentity, a parent class for OUser, ORole classes.
+* OIdentity: a parent class for OUser, ORole classes.
 
-* ORIDs, an utitily class.
+* ORIDs: a utitily class.
 
-* ORestricted, a class which you can use for configuring access rights of separate documents (for more [see the Security section](https://orienteer.gitbooks.io/orienteer/content/security.html)).
+* ORestricted: a class which you can use for configuring access rights of separate documents (for more [see the Security section](https://orienteer.gitbooks.io/orienteer/content/managing_users.html).
 
-* ORole, roles.
+* ORole: user roles.
 
-* OSchedule - планировщик задач - возможность запланировать ту или иную
-функцию по расписанию
+* OSchedule: a task sceduler. Allows you to created scheduled tasks.
 
-* OTriggered, deriving your class from this class lets your class's objects have dynamic parameters that define dynamic functions, which are called at reading or writing a document. You can check for more details of using triggers (hooks) [in OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
+* OTriggered: a parent class for deriving classes of documents that call dynamic functions at read-write operations. This allows you to implement security at document level. For more details on using triggers (hooks), see the [OrientDB guide](http://orientdb.com/docs/last/Dynamic-Hooks.html).
 
 * OUser, users.
 
