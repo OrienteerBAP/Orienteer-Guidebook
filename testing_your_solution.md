@@ -2,7 +2,7 @@
 
 You can use Orienteer testing micro-framework to test a module you develop for Orienteer or a web application you build above Orienteer framework.
 
-##Use of OrienteerTestRunner
+##Using OrienteerTestRunner
 
     @RunWith(OrienteerTestRunner.class)
     @Singleton
@@ -14,7 +14,7 @@ You can use Orienteer testing micro-framework to test a module you develop for O
        ....
     }
 
-##Use of OrienteerRule
+##Using OrienteerRule
 
     public class TestMyFunctionality
     {
@@ -26,7 +26,7 @@ You can use Orienteer testing micro-framework to test a module you develop for O
 
        ....
     }
-##Configuring custom Orienteer based project
+##Configuring a Custom Orienteer-based Project
 
 A long with common dependency on Orienteer
 
