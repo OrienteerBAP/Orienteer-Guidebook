@@ -8,14 +8,12 @@
 * OrientDB, if you want to use OrientDB remotely
 
 ##Steps
-1. Install of [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) github SNAPSHOT. This step is optional: wicket-orientdb SNAPSHOT is always available on Maven central
-  
-  >git clone &lt;your fork URL for wicket-orientdb&gt;
-  >
-  >cd wicket-orientdb
-  >
-  >mvn clean install
-
+1. Install [wicket-orientdb github SNAPSHOT](https://github.com/OrienteerDW/wicket-orientdb). This step is optional: wicket-orientdb SNAPSHOT is always available on Maven central.
+```  
+  git clone <your fork URL for wicket-orientdb>
+  cd wicket-orientdb
+  mvn clean install
+```
 2. Install Orienteer
 
   >cd ..
