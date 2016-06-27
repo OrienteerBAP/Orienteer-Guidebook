@@ -24,4 +24,4 @@
 3. Modify *orienteer.properties* file (see [configuration section above](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 4. Compile the code `mvn clean install`
 5. Run jetty server `mvn jetty:run`
-6. To access the application: in your browser, go to http://localhost:8080.
+6. To access the application, in your browser, go to http://localhost:8080.
