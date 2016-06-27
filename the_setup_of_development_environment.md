@@ -15,15 +15,12 @@
   mvn clean install
 ```
 2. Install Orienteer
-
-  >cd ..
-
-  >git clone &lt;your fork URL for Orienteer&gt;
-
-  >cd Orienteer
-
-  >mvn clean install
-
+```
+  cd ..
+  git clone <your fork URL for Orienteer>
+  cd Orienteer
+  mvn clean install
+```
 3. Modify orienteer.properties file (see [configuration section above](https://orienteer.gitbooks.io/orienteer/content/editing_the_orienteer_configuration_file.html)).
 4. Compile the code
   >mvn clean install
