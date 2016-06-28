@@ -62,13 +62,12 @@ A: ... [obligatory correction at next document edit]
 
 **Q: Can I change the type of a property? Are there any limitations?**
  
- A:  ...
+ A:  You can select any property type during creation, but there are some limitations if you want to change a type of existing property. You can't change type to incompatible/nonconvertible type. For example, it's not possible to change type from STRING to INTEGER just because some values can't be converted.
  
- [1) allowed transitions; 2) calculatung values for a new property from the old one (e.g. STRING -> DATE)]
  
  **Q: What happens to documents when I delete their class?**
  
- ...
+ Unfortunately, you will lost your data.
  
  ##Logging
  
