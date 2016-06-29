@@ -12,9 +12,9 @@ For a perspective, you can set:
 * **Home Url**: the default page of the perspective.
 * **Footer**: a text area for html code that defines a common footer for all pages in a perspective. 
 
-For each perspective, you can add and delete sections to the menu on the left. Sections have following attributes:
+For each perspective, you can add and delete sections to the menu on the left. Sections may have subsections in them. Sections have following attributes:
 
-* **Perspective item**
+* **Perspective item**: for subsections, this is the parent section.
 * **Name**: the name of the section that will show on the menu.
 * **Perspective**: a list of perspectives in which the section is present.
 * **Icon**: the icon that will show on the navigation pane along with the section's name. Set it similarly to the icon of the perspective. 
