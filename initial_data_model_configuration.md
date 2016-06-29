@@ -40,7 +40,7 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **UI ReadOnly** makes this property read-only in the UI.
 * **Not Null** sets that value of this property can't be null.
 * **Min** and **Max** defines the limits for quantifiable properties.
-* **Regexp** sets a pattern for value of this property (e.g. a pattern for telephone numbers). This field is given in Java Regexp.
+* **Regexp** sets a pattern for value of this property (e.g. a pattern for telephone numbers). This field is filled with Java Regexp.
 * **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
 * **Displayable** says if a property will be displayed in the list of documents of this class.
 * **Hidden** hides a property from the UI.
