@@ -14,7 +14,7 @@ For a perspective, you can set:
 
 For each perspective, you can add and delete sections to the menu on the left. Sections may have subsections in them. Sections have following attributes:
 
-* **Perspective item**: for subsections, this is the parent section.
+* **Perspective item**: for subsections, this is the parent section on th.
 * **Name**: the name of the section that will show on the menu.
 * **Perspective**: a list of perspectives in which the section is present.
 * **Icon**: the icon that will show on the navigation pane along with the section's name. Set it similarly to the icon of the perspective. 
