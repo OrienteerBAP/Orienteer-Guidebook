@@ -47,7 +47,7 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **Calculable** makes a property [calculable](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require some experience in coding).
 * **Default Value** sets the default value of the property.
 
-> **Hint.**  
+> **Hint.**  By combining 
 
 On the *Configuration* tab of a class, on the *Custom properties* widget, you can add custom properties to a class.
 
