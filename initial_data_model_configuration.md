@@ -41,7 +41,7 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **Not Null** sets that value of this property can't be null.
 * **Min** and **Max** defines the limits for quantifiable properties.
 * **Regexp** sets a pattern for value of this property (e.g. a pattern for telephone numbers). This field is filled with Java Regexp.
-* **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
+* **Collate** defines collate strategy: *default* or *ci* (case insensitive).
 * **Displayable** says if a property will be displayed in the list of documents of this class.
 * **Hidden** hides a property from the UI.
 * **Calculable** makes a property [calculable](https://orienteer.gitbooks.io/orienteer/content/adding_calculable_properties.html) (may require some experience in coding).
