@@ -36,11 +36,11 @@ On the property page, on the *Configuration* tab, you can set the following:
 * **Linked Class** lets you connect the class with another class.
 * **Inverse** is used for link-type properties (properties containing links to other classes). It sets the property of the linked class that contains the back link.
 * **Mandatory** makes this property mandatory for creating a document.
-* **ReadOnly** makes this property read-only in UI on the API level.
+* **ReadOnly** makes this property read-only in UI and on the API level.
 * **UI ReadOnly** makes this property read-only in the UI.
 * **Not Null** sets that value of this property can't be null.
 * **Min** and **Max** defines the limits for quantifiable properties.
-* **Regexp** sets a pattern for value of this property.
+* **Regexp** sets a pattern for value of this property (e.g. a pattern for telephone numbers). This field is given in Java Regexp.
 * **Collate** defines collate strategy. Commonly it's default or 'ci' (case insensitive).
 * **Displayable** says if a property will be displayed in the list of documents of this class.
 * **Hidden** hides a property from the UI.
