@@ -49,9 +49,9 @@ On the property page, on the *Configuration* tab, you can set the following:
 
 > **Hint.**  By combining parameters *Mandatory*, *ReadOnly* and *Not Null*, you can set the following conditions for properties at document creation:
 > 
-> * Mandatory:yes : 
-> * Mandatory:yes + ReadOnly:yes : when the class is created, the property can be edited (and it may take the empty value), but it cannot be modified later.
-> * Mandatory:yes + ReadOnly:yes + not null:yes : 
+> * Mandatory:yes : when a document is created over the API, the value of the property needs to be specified.
+> * Mandatory:yes + ReadOnly:yes : when a document is created, the property can be edited (and it may take the empty value), but it cannot be modified later.
+> * Mandatory:yes + ReadOnly:yes + not null:yes : the same as above, but the property value cannot be left empty.
 > 
 
 On the *Configuration* tab of a class, on the *Custom properties* widget, you can add custom properties to a class.
