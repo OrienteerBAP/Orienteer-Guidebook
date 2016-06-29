@@ -54,6 +54,14 @@ A: It's recommended to use Orienteer roles for modeling company departments. The
 1) Person can be within multiple departments: roles do allow that.
 2) According to department person is assigned to he can has different rights. Roles do allow to define that
 
+**Q: Сan we establish the common password workflow, when userы can change their passwords themselves?**
+
+A: ...
+
+**Q: How can the administrator get user passwords?**
+
+A: ...
+
 ##Integrity and Data Control
 
 **Q: What happens if I change parameters of a property so that the existing property values are no more valid?**
