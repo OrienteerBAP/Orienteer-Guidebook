@@ -63,6 +63,7 @@
 * Contribute to Orienteer
 * [Resources](resources.md)
 * [Glossary](GLOSSARY.md)
-* [Supplementary. Accessing Pages via URLs](special_urls.md)
-* [Supplementary. Predefined Classes](supplementary_predefined_classes.md)
+* Appendix
+  * [Accessing Pages via URLs](special_urls.md)
+  * [Predefined Classes](supplementary_predefined_classes.md)
 
