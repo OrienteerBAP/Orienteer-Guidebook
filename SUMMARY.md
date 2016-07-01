@@ -57,13 +57,13 @@
 * How-To's
 * Administration and Maintenance
    * [Migrating Data from RDBMs](migrating_data_from_rdbms.md)
-   * Troubleshooting
+   * [Troubleshooting](troubleshooting.md)
    * Backup and Restore
 * [FAQ - Frequently Asked Questions](faq.md)
 * Contribute to Orienteer
 * [Resources](resources.md)
 * [Glossary](GLOSSARY.md)
 * Appendix
-  * [Accessing Pages via URLs](special_urls.md)
-  * [Predefined Classes](supplementary_predefined_classes.md)
+   * [Accessing Pages via URLs](special_urls.md)
+   * [Predefined Classes](supplementary_predefined_classes.md)
 
