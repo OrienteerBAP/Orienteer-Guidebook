@@ -22,7 +22,7 @@ A: Yes, Orienteer platform will always be free. Our monetization is in:
 ## Data model, configurations etc
 **Q: What do you call a document? **
 
-A: A document is an object of a class. 
+A: A document is an object/an instance of a class. Sometimes it might lead to misunderstanding. 
 
 **Q: Сan I attach an arbitrary file to a document?**
 
