@@ -60,7 +60,7 @@ A: ...
 
 **Q: How can the administrator get user passwords?**
 
-A: ...
+A: Passwords are not stored in plain. So there is no way, even for administrator, get user's password.
 
 ##Integrity and Data Control
 
