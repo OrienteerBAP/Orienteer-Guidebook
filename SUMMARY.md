@@ -13,7 +13,6 @@
        * [Configuration File](configuration_file.md)
    * [Architecture](architecture.md)
    * [Understanding Orienteer UI](understanding_orienteer_ui.md)
-   * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
@@ -54,5 +53,6 @@
 * [Glossary](GLOSSARY.md)
 * Appendix
    * [Accessing Pages via URLs](special_urls.md)
+   * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
    * [Predefined Classes](supplementary_predefined_classes.md)
 
