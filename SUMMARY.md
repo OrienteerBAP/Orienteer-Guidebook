@@ -16,7 +16,6 @@
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
-       * [Creating a Class](creating_a_class.md)
        * [Linking Classes, Managing Property Visualization](linking_classes,_managing_property_visualization.md)
        * [Viewing the UML of the Data Model](viewing_the_uml_of_the_data_model.md)
        * [Making a Property Selectable from a List](making_a_property_selectable_from_a_list.md)
