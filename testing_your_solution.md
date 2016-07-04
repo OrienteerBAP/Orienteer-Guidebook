@@ -53,4 +53,4 @@ include a dependency to Orienteer and wicket-orientdb tests
         <scope>test</scope>
     </dependency>
 
-And that's all. You are ready to...
+
