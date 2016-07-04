@@ -12,4 +12,10 @@ Disambiguation of properties specific to this widget:
 * **Resources** the URL link to an external resource needed for the script to render the widget.
 
 Example: you can add a widget with a google map by setting the following HTML code:
-`<div>  <iframe width="100%" height="600" frameborder="0" style="border:0" src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC1vj2XnFZv0CpiuOVoJsGl0ZhDtM6rv5c&q=${postalAddress.region} ${postalAddress.city} ${postalAddress.street} ${postalAddress.streetNumber}" allowfullscreen> </iframe>  </div>`
+```html
+<div>
+  <iframe width="100%" height="600" frameborder="0" style="border:0" 
+  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyC1vj2XnFZv0CpiuOVoJsGl0ZhDtM6rv5c&q=${postalAddress.region} ${postalAddress.city} ${postalAddress.street} ${postalAddress.streetNumber}" allowfullscreen> 
+  </iframe>  
+</div>
+```
