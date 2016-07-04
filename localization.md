@@ -10,4 +10,3 @@ To localize a name of a class or a property:
   * In the field *Value* type the translation.
 ![adding localizations](Loc.png)
 
-> **Note.** For a localization to take the effect, you need to restart the database.
