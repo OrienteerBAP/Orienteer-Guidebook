@@ -5,7 +5,7 @@
 * [Java 7+](https://www.oracle.com/java/index.html)
 * [git](https://git-scm.com/)
 * [maven](https://maven.apache.org/)
-* [OrientDB](http://orientdb.com/) (if you want to use an OrientDB database in remote/external mode).
+* [OrientDB](http://orientdb.com/) (if you want to use an OrientDB database in remote/external mode)
 
 ##Steps
 
