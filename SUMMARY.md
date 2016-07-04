@@ -16,7 +16,6 @@
    * [Configuring Database Properties](creating_a_database_and_configuring_its_properties.md)
 * [Creating Your First Business Application](creating_your_first_business_application.md)
    * [Developing The Data Model](developing_the_data_model.md)
-       * [Localizing a Class](localizing_a_class.md)
    * [Managing Users and their Perspectives](managing_users_and_their_perspectives.md)
        * [Creating a Perspective](creating_a_perspective.md)
        * [Creating a User Role and a User](creating_a_user_role_and_a_user.md)
