@@ -4,8 +4,11 @@ You can set a property to take a calculable value. For this, on the *edit proper
 
 Examples:
 
-* `select sum(a, b) as value from MyClass where @rid = ?`
-* `select sum(e.salary) as value from Employee e where e.department = ? `
+```java   
+select sum(a, b) as value from MyClass where @rid = ?
+```
+```java
+select sum(e.salary) as value from Employee e where e.department = ? ```
 
 In case of calculation just for a current row you can use short notation: ` sum(a, b)`   instead of   ` select sum(a, b) as value from MyClass where @rid = ?`.
 
