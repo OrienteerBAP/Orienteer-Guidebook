@@ -1,7 +1,7 @@
 # Create a "Hello World" Widget
 
 1. Create a new java class for your widget. For example `HelloWorldWidget`.    This class should extend `org.orienteer.core.widget.AbstractWidget` or one of its child classes.
-3. Create an html file with the same name as your class in the same package. For example `HelloWorldWidget.html`. Fill the file as shown below.
+3. Create an html file with the same name as your class in the same java package. For example `HelloWorldWidget.html`. Fill the file as shown below.
 4. Annotate your class with `@Widget` annotation and specify required characteristics of the widget.
 5. Ensure that package with your widget is enabled for scanning in a module. It should contain something like this: `registerWidgets("com.mycompany.mypackage");`
 
