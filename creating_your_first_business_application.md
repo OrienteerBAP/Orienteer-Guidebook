@@ -9,7 +9,3 @@ We will go through steps to create a minimal viable app. Advanced settings are a
 
 > Note. This chapter shows configurations in the default Orienteer perspective.
 
-
-[to add to this chapter]
-* Security?
-
