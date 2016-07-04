@@ -54,13 +54,13 @@ A: It's recommended to use Orienteer roles for modeling company departments. The
 1) Person can be within multiple departments: roles do allow that.
 2) According to department person is assigned to he can has different rights. Roles do allow to define that
 
-**Q: Сan we establish the common password workflow, when userы can change their passwords themselves? Is there a way for a user for password recovery without involving the admin?**
+**Q: Сan we establish the common password workflow, when users can change their passwords themselves? Is there a way for a user for password recovery without involving the admin?**
 
-A: ...
+A: Users has write rights for their own passwords, so there is no problems with this.
 
 **Q: How can the administrator get user passwords?**
 
-A: ...
+A: Passwords are not stored in plain. So there is no way, even for administrator, get user's password.
 
 ##Integrity and Data Control
 
