@@ -1,4 +1,4 @@
-# Supplementary. Predefined Classes
+# Appendix. Predefined Classes
 
 **Predefined classes arriving from OrientDB**
 
