@@ -1,2 +1,0 @@
-# Localizing a Class
-
