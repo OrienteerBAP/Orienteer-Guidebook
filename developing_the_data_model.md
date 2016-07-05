@@ -158,6 +158,16 @@ This part will help you localize classes in Orienteer.
 
 Orienteer allows the pages to display names of classes and properties depending on browser locale.
 
-Let's localize the names of the colu
-To localize a name of a property, on the property page, go to the tab *Localization*. 
+Let's localize the names of the columns on the tab *Contacts*. To do this, in the class *CmsContacts*, for each property, go to the tab *Localization* and add values from the table below:
 
+|Property|Lang|Value|
+|--|--|---|
+|contactData|en|Contacts|
+|contactData|es|Contacto|
+|contactData|pl|Kontakty|
+|Customer|en|Customer|
+|Customer|es|Cliente|
+|Customer|pl|Klient|
+|ContactType|en|Contact type|
+|ContactType|es|Tipo de contacto|
+|ContactType|pl|Typ kontaktu|
