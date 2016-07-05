@@ -49,4 +49,4 @@ public class HelloWorldWidget extends AbstractWidget<Void> {
 }
 ```
 
-To do more complex things you should be familiar with [Apache Wicket](https://ci.apache.org/projects/wicket/guide/7.x/).
+For creating more complex widgets you should be familiar with [Apache Wicket](https://ci.apache.org/projects/wicket/guide/7.x/).
