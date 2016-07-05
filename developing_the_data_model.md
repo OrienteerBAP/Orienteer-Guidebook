@@ -156,7 +156,7 @@ This part will help you localize classes in Orienteer.
 
 ---
 
-Orienteer allows the pages to display names and values depending on the location of the user that accesses the app through the web.
+Orienteer allows the pages to display names of classes and properties depending on browser locale.
 
 Let's localize the names of the colu
 To localize a name of a property, on the property page, go to the tab *Localization*. 
