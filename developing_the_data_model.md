@@ -150,6 +150,11 @@ For each customer, we have a separate tab with his interactions. The interaction
 To do this, in the abstract class CmsInteraction, create a property *new_interaction* with parameters: `Type: string`, `Calculable: yes`, `Script: ...`
 
 ## Localizing a Class
+
 ---
 This part will help you localize classes in Orienteer.
+
 ---
+
+Let's 
+
