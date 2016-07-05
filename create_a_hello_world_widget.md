@@ -5,7 +5,7 @@
 4. Annotate your class with `@Widget` annotation and specify required characteristics of the widget.
 5. Ensure that package with your widget is enabled for scanning in a module. It should contain something like this: `registerWidgets("com.mycompany.mypackage");`
 
-Finally you should have something like this:
+Example:
 
 **HelloWorldWidget.html**
 
