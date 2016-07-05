@@ -45,7 +45,7 @@ Do the following:
   We want each customer's contact to be stored as a separate item. This is why we will create a separate class for contacts. We will be able to add as many documents of this class as needed to each customer.
   
 3. Link the *CmsContact* and the *CmsCustomer* classes. For this, add special LINK properties to both classes:
-  *  To the *CmsCustomer* class, add a property *linkToContacts* with parameters `Type: LINKLIST`. `Linked Class: CmsContact`.
+  *  To the *CmsCustomer* class, add a property *linkToContacts* with parameters `Type: LINKLIST`, `Linked Class: CmsContact`.
   *  To the *CmsContact* class we add a property *Customer* with parameters:
     *  `Type: LINK`.
     *   `Linked Class: CmsCustomer`.
@@ -148,7 +148,7 @@ This part will show you an example of using calculable properties in Orienteer.
 For each customer, we have a separate tab with his interactions. The interactions are presented as a table. Let's add a calculable property *"new interaction"* that will flag interactions that are more than 1 month old.
 
 Do the following:
-1. In the abstract class CmsInteraction. Type:string
+1. In the abstract class CmsInteraction, create a property *new interaction* with parameters: `Type: string`, `Calculable: yes`, `Script: ...`
 
 
 [...]
