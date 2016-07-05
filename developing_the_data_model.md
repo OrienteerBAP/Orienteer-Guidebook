@@ -156,5 +156,7 @@ This part will help you localize classes in Orienteer.
 
 ---
 
-Let's 
+Orienteer allows the pages to display names and values depending on the location of the user that accesses the app through the web.
+
+Let's make it so that 
 
