@@ -145,9 +145,9 @@ This part will show you an example of using calculable properties in Orienteer.
 
 ---
 
-For each customer, we have a separate tab with his interactions. The interactions are presented as a table. Let's add a calculable property *"new interaction"* that will flag interactions that are more than 1 month old.
+For each customer, we have a separate tab with his interactions. The interactions are presented as a table. Let's add a calculable property *"new_interaction"* that will flag interactions that are more than 1 month old.
 
-To do this, in the abstract class CmsInteraction, create a property *new interaction* with parameters: `Type: string`, `Calculable: yes`, `Script: ...`
+To do this, in the abstract class CmsInteraction, create a property *new_interaction* with parameters: `Type: string`, `Calculable: yes`, `Script: ...`
 
 
 
