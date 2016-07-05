@@ -145,8 +145,12 @@ This part will show you an example of using calculable properties in Orienteer.
 
 ---
 
-You may have noticed that the interactions with customer shown on a separate tab 
+For each customer, we have a separate tab with his interactions. The interactions are presented as a table. Let's add a calculable property *"new interaction"* that will flag interactions that are more than 1 month old.
+
+Do the following:
+1. In the abstract class CmsInteraction. Type:string
+
+
 [...]
 
 ## Localizing a Class
-
