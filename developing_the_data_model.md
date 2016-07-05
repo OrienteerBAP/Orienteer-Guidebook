@@ -151,5 +151,5 @@ To do this, in the abstract class CmsInteraction, create a property *new_interac
 
 ## Localizing a Class
 ---
-This part will help you localize classes
+This part will help you localize classes in Orienteer.
 ---
