@@ -162,12 +162,9 @@ Let's localize the names of the columns on the tab *Contacts*. To do this, in th
 
 |Property|Lang|Value|
 |--|--|---|
-|contactData|en|Contacts|
-|contactData|es|Contacto|
-|contactData|pl|Kontakty|
-|Customer|en|Customer|
-|Customer|es|Cliente|
-|Customer|pl|Klient|
-|ContactType|en|Contact type|
-|ContactType|es|Tipo de contacto|
-|ContactType|pl|Typ kontaktu|
+|contactData|en (English) |Contacts|
+|contactData|es (Spanish) |Contacto|
+|Customer|en (English)|Customer|
+|Customer|es  (Spanish)|Cliente|
+|ContactType|en (English)|Contact type|
+|ContactType|es  (Spanish)|Tipo de contacto|
