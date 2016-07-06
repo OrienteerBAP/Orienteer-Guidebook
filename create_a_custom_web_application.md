@@ -1,4 +1,13 @@
 # Create a Custom Web Application
 
 
-[+ How to develop your own UI with Orienteer as data and business rule provider
+It's highly recommended to use Orienteer maven archetype to create your custom web application.
+
+###Latest Orienteer Version
+
+```bash
+mvn archetype:generate \
+  -DarchetypeGroupId=org.orienteer \
+  -DarchetypeArtifactId=orienteer-archetype-war \
+  -DarchetypeVersion=1.2-SNAPSHOT
+```
