@@ -42,6 +42,7 @@
    * [Create a Custom Web Application](create_a_custom_web_application.md)
    * [Create a Custom Guice Module](creating_your_custom_guice_module.md)
    * [Test Your Custom Solution](testing_your_solution.md)
+   * Create REST API
 * How-To's
 * Administration and Maintenance
    * [Migrating Data from RDBMs](migrating_data_from_rdbms.md)
