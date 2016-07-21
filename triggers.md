@@ -4,6 +4,8 @@ Triggers (hooks) intercept CRUD operations in the database and call a function o
 
 To read more about triggers in OrientDB, see http://orientdb.com/docs/last/Hook.html.
 
+**[THE FURTHER PART OF THIS SECTION IS UNDER DEVELOPMENT]**
+
 To create a trigger, derive a class from the abstract class *OTriggered*.
 
 ##Class level hooks
