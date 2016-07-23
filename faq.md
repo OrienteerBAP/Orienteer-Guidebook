@@ -66,7 +66,7 @@ A: Passwords are not stored in plain. So there is no way, even for administrator
 
 **Q: What happens if I change parameters of a property so that the existing property values are no more valid?**
 
-A: ... [obligatory correction at next document edit]
+A: First of all, OrientDB will not allow that:)
 
 **Q: Can I change the type of a property? Are there any limitations?**
  
