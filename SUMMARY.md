@@ -33,7 +33,7 @@
        * [HTML and JavaScript Widgets](adding_html_and_javascript_widgets.md)
        * [Pivot Table Module](pivot_table_module.md)
        * Graph Module
-   * Business Process Management
+   * [Business Process Management](business_process_management.md)
 * [Integration of a Business Application](integration_of_a_business_application.md)
    * [REST/HTTP API](resthttp_api.md)
 * [Custom Orienteer Development](custom_orienteer_development.md)
