@@ -15,7 +15,7 @@ Once BPMN file is ready, go to your Orienteer installation and create new docume
 
 ## Starting a process
 
-Currently, there is no good place to start a process. So it's recommended to use devutils console for that. To make that happend: go to the list of installed modules (OModule) and enable `devutils`. Then you can navigate your brawser to `/tools` page.
+Currently, there is no good place to start a process. So it's recommended to use devutils console for that. To make that happend: go to the list of installed modules (OModule) and enable `devutils`. Then you can navigate your browser to `/tools` page.
 
 So, to start newly created process just execute the following command:
 
