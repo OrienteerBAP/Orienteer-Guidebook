@@ -10,6 +10,9 @@
 |DOUBLE|default|text|text field||
 |DATETIME|default|text|text field with date-time picker||
 |STRING|default|text|text field||
+|STRING|textarea|multiline text|textarea||
+|STRING|html|Rendered HTML code|Code editor for HTML||
+|STRING|code|Code with highlighted syntax|Code editor for HTML/JS/CSS||
 |BINARY|default|Link for file download|File upload||
 |BINARY|image|Image preview|Image upload|TBD Issue #42|
 |EMBEDDED|default|NOT SUPPORTED|NOT SUPPORTED|Should be improved|
